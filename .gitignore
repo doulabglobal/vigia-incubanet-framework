@@ -1,0 +1,20 @@
+# Node / Docusaurus (future)
+node_modules/
+build/
+.cache/
+.docusaurus/
+
+# Mac / Windows clutter
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.tmp
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
