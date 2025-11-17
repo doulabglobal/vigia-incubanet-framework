@@ -6,9 +6,9 @@ The KPIs and scorecard system ensures that the national public–private incubat
 
 It integrates:
 
-- **MCF 2.1 Evidence Indicators**  
-- **IMM-P® Maturity Metrics**  
-- **Vigía Futura Foresight Indicators**  
+- **[MCF 2.1](https://www.themicrocanvas.com) Evidence Indicators**  
+- **[IMM-P®](https://www.doulab.net/services/innovation-maturity) Maturity Metrics**  
+- **[Vigía Futura](https://www.doulab.net/vigia-futura) Foresight Indicators**  
 
 The objective is to track ecosystem performance, startup progression, capital efficiency, and long-term sector impact.
 
@@ -46,7 +46,7 @@ KPIs are divided into seven major categories:
 4. **Talent Development Indicators**
 5. **Commercialization & Market Access**
 6. **Governance & Institutional Strength**
-7. **Foresight & Future Competitiveness (Vigía Futura)**
+7. **Foresight & Future Competitiveness ([Vigía Futura](https://www.doulab.net/vigia-futura))**
 
 Each category is detailed below.
 
@@ -59,7 +59,7 @@ Each category is detailed below.
 - Acceptance rate  
 - Startup density per region  
 - International startup participation  
-- Sector distribution alignment (Vigía Futura)  
+- Sector distribution alignment ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 
 ### **Why it matters**
 Indicates ecosystem attractiveness, awareness, and inclusiveness.
@@ -69,7 +69,7 @@ Indicates ecosystem attractiveness, awareness, and inclusiveness.
 ## **7.5 Category 2 — Incubation & Acceleration Performance**
 
 ### **Core KPIs**
-- Evidence completion rate (MCF 2.1)  
+- Evidence completion rate ([MCF 2.1](https://www.themicrocanvas.com))  
 - Customer interviews completed  
 - Problem–solution fit validation  
 - Prototype delivery rate  
@@ -140,11 +140,11 @@ Indicates ecosystem attractiveness, awareness, and inclusiveness.
 - Stakeholder coordination effectiveness  
 - Policy update cycle adherence  
 
-These indicators help track institutional maturity, supporting IMM-P® scoring.
+These indicators help track institutional maturity, supporting [IMM-P®](https://www.doulab.net/services/innovation-maturity) scoring.
 
 ---
 
-## **7.10 Category 7 — Foresight & Future Competitiveness (Vigía Futura)**
+## **7.10 Category 7 — Foresight & Future Competitiveness ([Vigía Futura](https://www.doulab.net/vigia-futura))**
 
 ### **Core KPIs**
 - Alignment with future sector opportunities  
@@ -165,9 +165,9 @@ These indicators help track institutional maturity, supporting IMM-P® scoring.
 The national scorecard consolidates all KPIs into five high-level indices:
 
 1. **Startup Performance Index**  
-2. **Ecosystem Maturity Index (IMM-P®)**  
+2. **Ecosystem Maturity Index [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)**  
 3. **Innovation Capital Index**  
-4. **Future Competitiveness Index (Vigía Futura)**  
+4. **Future Competitiveness Index ([Vigía Futura](https://www.doulab.net/vigia-futura))**  
 5. **Governance Integrity Index**
 
 Each index is a weighted combination of KPIs.
@@ -178,7 +178,7 @@ Each index is a weighted combination of KPIs.
 
 ### **Quarterly Reporting**
 - Dashboard updates  
-- Evidence logs (MCF 2.1)  
+- Evidence logs ([MCF 2.1](https://www.themicrocanvas.com))  
 - Funding utilization reports  
 - KPI performance summaries  
 
@@ -211,4 +211,10 @@ This feeds directly into:
 
 - **Section 08 — Roadmap** (sequencing reporting cycles)  
 - **Section 09 — Governance** (oversight responsibilities)  
-- **Section 10 — Templates** (KPI sheets, dashboards, reporting forms)  
+- **Section 10 — Templates** (KPI sheets, dashboards, reporting forms)
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

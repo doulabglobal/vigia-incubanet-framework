@@ -9,11 +9,11 @@ The **Investment Committee (IC)** governs all funding decisions within the Natio
 
 Its core objective is to ensure that investments are:
 
-- **Evidence-based** (MCF 2.1)  
-- **Aligned with ecosystem maturity** (IMM‑P®)  
+- **Evidence-based** ([MCF 2.1](https://www.themicrocanvas.com))  
+- **Aligned with ecosystem maturity** [(IMM‑P®)](https://www.doulab.net/services/innovation-maturity)  
 - **Consistent across all incubator nodes**  
 - **Transparent, auditable, and neutral**  
-- **Strategically aligned with sector priorities** (Vigía Futura)  
+- **Strategically aligned with sector priorities** ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 
 The IC serves as the **final authority** on approving grants, matching funds, convertible notes/SAFE instruments, and co‑investment mechanisms.
 
@@ -74,17 +74,17 @@ TOU participates as **technical advisor**, not as a voting member.
 
 # **5. Investment Evaluation Framework**
 
-The IC evaluates startups using a **multidimensional scoring model** integrating MCF, IMM-P®, and sector foresight.
+The IC evaluates startups using a **multidimensional scoring model** integrating MCF, [IMM-P®](https://www.doulab.net/services/innovation-maturity), and sector foresight.
 
 ## **5.1 Evaluation Dimensions Table**
 
 | Dimension | Weight | Evaluation Criteria | Tools / Inputs |
 |----------|--------|---------------------|----------------|
-| **Evidence Strength (MCF 2.1)** | 30% | Quality of problem, customer, and solution evidence | Evidence Dossier |
+| **Evidence Strength ([MCF 2.1](https://www.themicrocanvas.com))** | 30% | Quality of problem, customer, and solution evidence | Evidence Dossier |
 | **Market Opportunity** | 20% | TAM/SAM/SOM, growth signals, competitive analysis | Market Templates |
 | **Team Capability** | 15% | Execution ability, technical capacity, resilience | Interviews |
 | **Traction & Feasibility** | 20% | Early revenue, pilots, user growth | Traction Metrics |
-| **Sector Alignment (Vigía Futura)** | 10% | Fit with national future sectors | Sector Matrix |
+| **Sector Alignment ([Vigía Futura](https://www.doulab.net/vigia-futura))** | 10% | Fit with national future sectors | Sector Matrix |
 | **Financial & Risk Profile** | 5% | Cash flow logic, burn, risk analysis | Financial Models |
 
 ---
@@ -175,7 +175,7 @@ The IC oversees co‑investment mechanisms to maximize private sector participat
 | Technical Risk | Feasibility concerns | Independent evaluation |
 | Financial Risk | Cash burn issues | Conditional approvals |
 | Governance Risk | Conflict of interest | COI policy enforcement |
-| Sector Risk | Misalignment | Vigía Futura review |
+| Sector Risk | Misalignment | [Vigía Futura](https://www.doulab.net/vigia-futura) review |
 
 ---
 
@@ -226,3 +226,9 @@ This annex provides:
 - Reporting and documentation standards  
 
 It enables **transparent, rigorous, and future-aligned investment decisions** across the national incubator network.
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).

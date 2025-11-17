@@ -226,4 +226,10 @@ This annex provides:
 - A complete, ready-to-adapt **national decree template**  
 - Legal structure for governance, funding, and compliance  
 - Diagrams and tables for clarity  
-- A formal policy foundation for launching the VIF-based incubator network  
+- A formal policy foundation for launching the VIF-based incubator network
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).

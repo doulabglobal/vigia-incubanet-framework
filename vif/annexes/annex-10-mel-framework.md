@@ -4,9 +4,9 @@
 This annex provides the complete monitoring, evaluation, and learning (MEL) system for the **National Public–Private Incubator Network**, aligned with:
 
 - **Vigía IncubaNet Framework (VIF)**  
-- **MCF 2.1 Evidence Processes**  
-- **IMM-P® maturity indicators**  
-- **Vigía Futura foresight cycles**  
+- **[MCF 2.1](https://www.themicrocanvas.com) Evidence Processes**  
+- **[IMM-P®](https://www.doulab.net/services/innovation-maturity) maturity indicators**  
+- **[Vigía Futura](https://www.doulab.net/vigia-futura) foresight cycles**  
 
 It enables consistent national reporting, performance tracking, and continuous improvement.
 
@@ -34,7 +34,7 @@ flowchart TD
     B --> C[TOU MEL Processing]
     C --> D[National KPI Dashboard]
     D --> E[NSC Oversight]
-    D --> F[Vigía Futura Foresight Cycle]
+    D --> F["[Vigía Futura](https://www.doulab.net/vigia-futura) Foresight Cycle"]
     F --> G[Annual Sector Prioritization]
     G --> C
 ```
@@ -50,7 +50,7 @@ flowchart TD
 | Evidence | Validation Rate | % of evidence passing MCF quality | Quarterly |
 | Traction | User Growth | New active users | Monthly |
 | Finance | Runway | Months of cash remaining | Quarterly |
-| Team | Execution Score | IMM-P® team-readiness indicators | Quarterly |
+| Team | Execution Score | [IMM-P®](https://www.doulab.net/services/innovation-maturity) team-readiness indicators | Quarterly |
 | Product | MVP Readiness | % completion of technical milestones | Quarterly |
 
 ---
@@ -74,7 +74,7 @@ flowchart TD
 | Capital | Investment Deployed | Total funds released |
 | Performance | National Validation Rate | Aggregate evidence success |
 | Foresight | Sector Alignment Index | % startups in prioritized sectors |
-| Maturity | IMM-P® National Score | Hybrid public–private maturity score |
+| Maturity | [IMM-P®](https://www.doulab.net/services/innovation-maturity) National Score | Hybrid public–private maturity score |
 
 ---
 
@@ -88,13 +88,13 @@ flowchart TD
 | Capital Performance | 15% | Funds deployed | ___ | ___ |
 | Sector Alignment | 10% | Alignment index | ___ | ___ |
 | Node Performance | 10% | Weighted node metrics | ___ | ___ |
-| Maturity | 10% | IMM-P® national | ___ | ___ |
+| Maturity | 10% | [IMM-P®](https://www.doulab.net/services/innovation-maturity) national | ___ | ___ |
 
 ---
 
 # **5. MEL Processes**
 
-## **5.1 Evidence Cycle (MCF 2.1-Aligned)**
+## **5.1 Evidence Cycle ([MCF 2.1](https://www.themicrocanvas.com)-Aligned)**
 
 ```mermaid
 flowchart LR
@@ -138,7 +138,7 @@ The MEL system integrates **short**, **medium**, and **long-term** learning mech
 | Mechanism | Purpose |
 |------------|----------|
 | Annual Report | National performance review |
-| IMM-P® Reassessment | Update maturity levels |
+| [IMM-P®](https://www.doulab.net/services/innovation-maturity) Reassessment | Update maturity levels |
 | Sector Performance Study | Track prioritized industries |
 
 ---
@@ -153,7 +153,7 @@ The MEL system integrates **short**, **medium**, and **long-term** learning mech
 
 ---
 
-# **7. Vigía Futura Integration**
+# **7. [Vigía Futura](https://www.doulab.net/vigia-futura) Integration**
 
 Sector prioritization is updated annually based on foresight signals.
 
@@ -161,7 +161,7 @@ Sector prioritization is updated annually based on foresight signals.
 
 ```mermaid
 flowchart TD
-    A[Global Trends] --> B[Vigía Futura Scan]
+    A[Global Trends] --> B["[Vigía Futura](https://www.doulab.net/vigia-futura) Scan"]
     B --> C[Signal Classification]
     C --> D[Priority Sector Matrix]
     D --> E[NSC Annual Strategy]
@@ -230,7 +230,7 @@ Annually, TOU and NSC publish a unified national review including:
 - Policy recommendations  
 - Investment performance  
 - Node-level benchmarking  
-- Innovation maturity changes (IMM-P®)  
+- Innovation maturity changes [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)  
 
 ---
 
@@ -267,5 +267,10 @@ This annex provides:
 - Learning loops and foresight integration  
 - Risk monitoring and corrective action systems  
 - Node accreditation indicators  
-- Ready-to-deploy national monitoring system for VIF  
+- Ready-to-deploy national monitoring system for VIF
 
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).

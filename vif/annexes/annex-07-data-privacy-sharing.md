@@ -11,8 +11,8 @@ It ensures compliance with:
 - National data protection laws  
 - GDPR-equivalent frameworks (if applicable)  
 - Ethical AI and digital governance principles  
-- MCF 2.1 evidence integrity requirements  
-- IMM-P® transparency and maturity indicators  
+- [MCF 2.1](https://www.themicrocanvas.com) evidence integrity requirements  
+- [IMM-P®](https://www.doulab.net/services/innovation-maturity) transparency and maturity indicators  
 
 ---
 
@@ -35,7 +35,7 @@ It ensures compliance with:
 | **Data Controller** | Entity determining purpose & means of data processing |
 | **Data Processor** | Entity processing data on behalf of controller |
 | **Data Subject** | Individual or entity that owns the data |
-| **Evidence Package** | Documents/data required under MCF 2.1 |
+| **Evidence Package** | Documents/data required under [MCF 2.1](https://www.themicrocanvas.com) |
 | **National Dashboard** | Central KPI system administered by TOU |
 | **Confidential Data** | Financials, IP, customer insights, etc. |
 | **Shared Data** | Aggregated or anonymized data used for reports |
@@ -66,7 +66,7 @@ Aligned with GDPR Articles 5–6 equivalents.
 |----------|----------|--------|--------|
 | Business Data | Pitch deck, model, sector | Sensitive | Restricted |
 | Financial Data | Revenue, burn rate | Highly sensitive | Encrypted |
-| Validation Data | Customer insights, prototypes | Sensitive | MCF 2.1 evidence |
+| Validation Data | Customer insights, prototypes | Sensitive | [MCF 2.1](https://www.themicrocanvas.com) evidence |
 | Traction Data | Users, pilots, metrics | Sensitive | Quarterly |
 | IP & Technical Data | Patents, code snippets | Highly sensitive | Controlled access |
 
@@ -265,4 +265,10 @@ This annex provides:
 - Tables for data types, roles, safeguards, and retention  
 - Two Mermaid diagrams for data flow & breach protocol  
 - Alignment with national law, GDPR equivalents, and VIF governance  
-- Ready-to-use `.md` file for legal and operational integration  
+- Ready-to-use `.md` file for legal and operational integration
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).

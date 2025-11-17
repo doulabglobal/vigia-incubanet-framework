@@ -41,8 +41,8 @@ All parties commit to advancing:
 - Economic diversification  
 - Public–private collaboration  
 - Long-term competitiveness  
-- Sector prioritization (Vigía Futura)  
-- Evidence-based operations (MCF 2.1)  
+- Sector prioritization ([Vigía Futura](https://www.doulab.net/vigia-futura))  
+- Evidence-based operations ([MCF 2.1](https://www.themicrocanvas.com))  
 
 ---
 
@@ -124,7 +124,7 @@ flowchart TD
 | Talent Pipeline | Provide training and academic support |
 | Research | Enable research-to-startup transfer |
 | Infrastructure | Provide labs and research assets |
-| Collaboration | Participate in sector studies (Vigía Futura) |
+| Collaboration | Participate in sector studies ([Vigía Futura](https://www.doulab.net/vigia-futura)) |
 
 ---
 
@@ -134,7 +134,7 @@ flowchart TD
 |-------|------------------|
 | Program Delivery | Implement incubation and acceleration |
 | Reporting | Submit quarterly reports to TOU |
-| Evidence | Use MCF 2.1 templates |
+| Evidence | Use [MCF 2.1](https://www.themicrocanvas.com) templates |
 | Compliance | Adhere to SOPs and quality standards |
 
 ---
@@ -153,7 +153,7 @@ The parties agree to comply with:
 | Startup KPIs | Incubator | TOU | National dashboard |
 | Financial Reports | Startup | IC, NSC | Investment decisions |
 | Research Data | University | Partners | Commercialization |
-| Sector Signals | Vigía Futura | National Network | Prioritization |
+| Sector Signals | [Vigía Futura](https://www.doulab.net/vigia-futura) | National Network | Prioritization |
 
 ---
 
@@ -232,4 +232,10 @@ This annex provides:
 - A complete, ready-to-use MOU for public–private–academic collaboration  
 - Tables, diagrams, and structured sections for clarity  
 - Adaptable templates for funding, roles, governance, and reporting  
-- A unifying agreement model for all actors in the national incubator network  
+- A unifying agreement model for all actors in the national incubator network
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).

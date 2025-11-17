@@ -274,4 +274,10 @@ This annex includes:
 - Complete **Licensing Agreement Template**  
 - Comprehensive **University–Startup Collaboration IP Clauses**  
 - Tables for IP items, licenses, revenue sharing, and infrastructure  
-- Clear, implementable frameworks aligned with VIF governance  
+- Clear, implementable frameworks aligned with VIF governance
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).

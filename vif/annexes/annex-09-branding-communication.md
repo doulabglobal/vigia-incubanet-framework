@@ -12,8 +12,8 @@ The guide ensures:
 - A unified and professional national identity  
 - Consistency across all incubator nodes  
 - Clear communication to entrepreneurs, investors, and the public  
-- Transparent reporting of results (aligned with IMM-P®)  
-- Future-oriented positioning (aligned with Vigía Futura)  
+- Transparent reporting of results (aligned with [IMM-P®](https://www.doulab.net/services/innovation-maturity))  
+- Future-oriented positioning (aligned with [Vigía Futura](https://www.doulab.net/vigia-futura))  
 
 It applies to all public, private, and academic entities participating in the network.
 
@@ -26,7 +26,7 @@ It applies to all public, private, and academic entities participating in the ne
 | Level | Description | Examples |
 |-------|-------------|----------|
 | **National Brand** | Represents entire incubator network | IncubaX / National Program Name |
-| **Framework Brand** | Methodological layer | VIF • MCF 2.1 • IMM-P® • Vigía Futura |
+| **Framework Brand** | Methodological layer | VIF • [MCF 2.1](https://www.themicrocanvas.com) • [IMM-P®](https://www.doulab.net/services/innovation-maturity) • [Vigía Futura](https://www.doulab.net/vigia-futura) |
 | **Node Brand** | Individual incubator identity | Local public, private, university incubators |
 
 ---
@@ -36,9 +36,9 @@ It applies to all public, private, and academic entities participating in the ne
 ```mermaid
 flowchart TB
     A[National Network Brand] --> B[VIF Framework]
-    B --> C[MCF 2.1]
-    B --> D[IMM-P®]
-    B --> E[Vigía Futura]
+    B --> C["[MCF 2.1](https://www.themicrocanvas.com)"]
+    B --> D["[IMM-P®](https://www.doulab.net/services/innovation-maturity)"]
+    B --> E["[Vigía Futura](https://www.doulab.net/vigia-futura)"]
     A --> F[Incubator Nodes Branding System]
 ```
 
@@ -77,7 +77,7 @@ Recommended fonts:
 | Charcoal | #484854 | Text |
 | White | #ffffff | Background |
 
-These match Doulab’s palette for compatibility.
+These match [Doulab](https://doulab.net)'s palette for compatibility.
 
 ---
 
@@ -96,7 +96,7 @@ The national network should communicate with:
 
 ## **4.1 Elevator Pitch**
 
-“[National Program Name] is the unified public–private incubator network accelerating high-quality startups using the Vigía IncubaNet Framework, supported by evidence-based methods (MCF 2.1), innovation maturity principles (IMM-P®), and strategic foresight (Vigía Futura).”
+“[National Program Name] is the unified public–private incubator network accelerating high-quality startups using the Vigía IncubaNet Framework, supported by evidence-based methods ([MCF 2.1](https://www.themicrocanvas.com)), innovation maturity principles [(IMM-P®)](https://www.doulab.net/services/innovation-maturity), and strategic foresight ([Vigía Futura](https://www.doulab.net/vigia-futura)).”
 
 ---
 
@@ -133,7 +133,7 @@ The national network should communicate with:
 
 # **6. Transparency & Reporting Templates**
 
-Aligned with IMM-P® and VIF.
+Aligned with [IMM-P®](https://www.doulab.net/services/innovation-maturity) and VIF.
 
 ## **6.1 Annual National Report Structure**
 
@@ -143,7 +143,7 @@ Aligned with IMM-P® and VIF.
 | KPIs | National dashboard summary |
 | Investment | Capital deployed, ROI indicators |
 | Nodes | Performance by incubator |
-| Foresight | Sector trends (Vigía Futura) |
+| Foresight | Sector trends ([Vigía Futura](https://www.doulab.net/vigia-futura)) |
 | Policy | Recommendations to government |
 
 ---
@@ -251,4 +251,10 @@ This annex provides:
 - Templates and messaging frameworks  
 - Transparency and communication guidelines  
 - Diagrams for workflows and co-branding  
-- Ready-to-use structure for both national and node-level branding  
+- Ready-to-use structure for both national and node-level branding
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).

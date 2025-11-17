@@ -7,9 +7,9 @@ It provides **comparative insights**, identifies **lessons learned**, and aligns
 
 The goal is not to copy these programs, but to **extract transferable principles** and adapt them through:
 
-- **MCF 2.1** → structural clarity for program design  
-- **IMM-P®** → capability progression and ecosystem readiness  
-- **Vigía Futura** → future-aligned sector prioritization  
+- **[MCF 2.1](https://www.themicrocanvas.com)** → structural clarity for program design  
+- **[IMM-P®](https://www.doulab.net/services/innovation-maturity)** → capability progression and ecosystem readiness  
+- **[Vigía Futura](https://www.doulab.net/vigia-futura)** → future-aligned sector prioritization  
 
 ---
 
@@ -146,7 +146,7 @@ These elements are all embedded within VIF by design.
 | Benchmark Insight | VIF Equivalent |
 |-------------------|----------------|
 | Attraction of international startups | Outreach & globalization pipelines |
-| Sector specialization | Vigía Futura sector prioritization |
+| Sector specialization | [Vigía Futura](https://www.doulab.net/vigia-futura) sector prioritization |
 | Strong governance | VIF Layer 2 — Governance Architecture |
 | Public–private co-investment | Funding Model Section 05 |
 | Virtual acceleration models | Hybrid operating model |
@@ -174,4 +174,10 @@ Benchmarking feeds directly into:
 
 - **Section 07 — KPIs & Scorecard**, enabling comparative measurement  
 - **Section 08 — Roadmap**, informing implementation phasing  
-- **Section 09 — Governance**, strengthening oversight structure  
+- **Section 09 — Governance**, strengthening oversight structure
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

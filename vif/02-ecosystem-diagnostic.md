@@ -7,9 +7,9 @@ Its purpose is to provide a **structured, evidence-based understanding** of a co
 
 Using the principles of:
 
-- **MCF 2.1** → structural problem framing  
-- **IMM-P®** → ecosystem capability scoring  
-- **Vigía Futura** → foresight-aligned sector analysis  
+- **[MCF 2.1](https://www.themicrocanvas.com)** → structural problem framing  
+- **[IMM-P®](https://www.doulab.net/services/innovation-maturity)** → ecosystem capability scoring  
+- **[Vigía Futura](https://www.doulab.net/vigia-futura)** → foresight-aligned sector analysis  
 
 …the diagnostic becomes a **systemic map** of the ecosystem's strengths, gaps, constraints, and future opportunities.
 
@@ -19,7 +19,7 @@ Using the principles of:
 
 The diagnostic process follows a three-tier logic:
 
-### **Tier 1 — Structural Analysis (MCF 2.1 Problem Space)**
+### **Tier 1 — Structural Analysis ([MCF 2.1](https://www.themicrocanvas.com) Problem Space)**
 Understanding the “as-is” condition of the ecosystem:
 - Frictions and barriers  
 - Institutional fragmentation  
@@ -33,7 +33,7 @@ This step builds the **problem architecture** that the incubator network must be
 
 ---
 
-### **Tier 2 — Capability Assessment (IMM-P® Ecosystem Maturity)**
+### **Tier 2 — Capability Assessment ([IMM-P®](https://www.doulab.net/services/innovation-maturity) Ecosystem Maturity)**
 Here, we score ecosystem capabilities across multiple dimensions:
 
 1. **Governance & Coordination**
@@ -46,13 +46,13 @@ Here, we score ecosystem capabilities across multiple dimensions:
 8. **Data Infrastructure & Digital Public Goods**
 9. **Global Connectivity & International Linkages**
 
-Each dimension is evaluated using a **Yes/No evidence model**, complemented by IMM-P maturity levels from **0 (ad hoc)** to **4 (institutionalized)**.
+Each dimension is evaluated using a **Yes/No evidence model**, complemented by [IMM-P](https://www.doulab.net/services/innovation-maturity) maturity levels from **0 (ad hoc)** to **4 (institutionalized)**.
 
 The outcome is a **capability heatmap** that shows where the ecosystem stands today.
 
 ---
 
-### **Tier 3 — Foresight & Future Opportunities (Vigía Futura)**
+### **Tier 3 — Foresight & Future Opportunities ([Vigía Futura](https://www.doulab.net/vigia-futura))**
 
 A mature incubator network must be aligned with **sector opportunities of the future**, not only current trends.
 
@@ -168,9 +168,9 @@ Outputs:
 The diagnostic generates eight essential deliverables:
 
 1. **Ecosystem Structural Map**
-2. **Capability Heatmap (IMM-P®)**
-3. **Sector Prioritization (Vigía Futura)**
-4. **Barrier & Friction Analysis (MCF 2.1)**
+2. **Capability Heatmap [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)**
+3. **Sector Prioritization ([Vigía Futura](https://www.doulab.net/vigia-futura))**
+4. **Barrier & Friction Analysis ([MCF 2.1](https://www.themicrocanvas.com))**
 5. **Capital Flow & Investment Landscape**
 6. **Governance and Institutional Coordination Gaps**
 7. **Talent and Skills Pipeline Assessment**
@@ -191,3 +191,9 @@ The findings produced here feed into:
 - **Section 07 — Scorecards**, by setting KPI foundations  
 
 The ecosystem diagnostic ensures that the national incubator network is **not built on assumptions**, but on **clear evidence, measurable capability, and foresight-aligned opportunity**.
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

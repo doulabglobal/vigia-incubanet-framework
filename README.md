@@ -1,10 +1,10 @@
 # Vigía IncubaNet Framework (VIF)
 
-A Doulab methodology for designing **National Public–Private Incubator Networks**, powered by:
+A [Doulab](https://doulab.net) methodology for designing **National Public–Private Incubator Networks**, powered by:
 
-- **MicroCanvas® Framework 2.1 (MCF 2.1)**
-- **IMM-P® – Innovation Maturity Model Program**
-- **Vigía Futura – Foresight & Innovation Observatory**
+- **[MicroCanvas® Framework 2.1 (MCF 2.1)](https://www.themicrocanvas.com)**
+- **[IMM-P®](https://www.doulab.net/services/innovation-maturity) – Innovation Maturity Model Program**
+- **[Vigía Futura](https://www.doulab.net/vigia-futura) – Foresight & Innovation Observatory**
 
 This repository contains the canonical documentation for the VIF framework, structured as a modular, country-agnostic guide that can be adapted by governments, universities, ecosystem builders, and public–private alliances.
 
@@ -38,9 +38,9 @@ Each file will be expanded into a full section of the framework.
 The Vigía IncubaNet Framework (VIF) provides governments and ecosystem leaders with:
 
 - A **complete blueprint** for creating national incubator networks  
-- A **capability-based** approach grounded in MCF 2.1  
-- A **maturity progression model** using IMM-P®  
-- A **foresight engine** supported by Vigía Futura  
+- A **capability-based** approach grounded in [MCF 2.1](https://www.themicrocanvas.com)  
+- A **maturity progression model** using [IMM-P®](https://www.doulab.net/services/innovation-maturity)  
+- A **foresight engine** supported by [Vigía Futura](https://www.doulab.net/vigia-futura)  
 - Modular templates, governance models, and policy tools  
 - A future pathway to be transformed into a **Docusaurus-based public site**
 
@@ -71,5 +71,6 @@ Recommended tools:
 
 ## © Copyright
 
-© 2025 Doulab. All rights reserved.  
-MicroCanvas® Framework and IMM-P® Program are registered marks of Doulab.
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](vif/LICENSE.md).

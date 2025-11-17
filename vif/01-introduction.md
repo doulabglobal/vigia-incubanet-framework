@@ -2,7 +2,7 @@
 
 ## **1.1 Purpose of the Vigía IncubaNet Framework (VIF)**
 
-The Vigía IncubaNet Framework (VIF) provides a structured, evidence-based methodology for designing and implementing **national public–private incubator networks**. It translates the principles of the **MicroCanvas® Framework 2.1 (MCF 2.1)**, the **Innovation Maturity Model Program (IMM-P®)**, and the strategic foresight approach of **Vigía Futura** into a repeatable system that governments and ecosystem leaders can adopt to increase startup density, competitiveness, innovation maturity, and global integration.
+The Vigía IncubaNet Framework (VIF) provides a structured, evidence-based methodology for designing and implementing **national public–private incubator networks**. It translates the principles of the **[MicroCanvas® Framework 2.1 (MCF 2.1)](https://www.themicrocanvas.com)**, the **[Innovation Maturity Model Program (IMM-P®)](https://www.doulab.net/services/innovation-maturity)**, and the strategic foresight approach of **[Vigía Futura](https://www.doulab.net/vigia-futura)** into a repeatable system that governments and ecosystem leaders can adopt to increase startup density, competitiveness, innovation maturity, and global integration.
 
 VIF is a **country-agnostic blueprint** that can be adapted to different economic structures, institutional capacities, and regional priorities, while preserving methodological consistency and long-term measurability.
 
@@ -32,7 +32,7 @@ For governments, they become **policy engines** that convert public investment, 
 
 VIF is built on four fundamental principles:
 
-### **1. Structural Clarity (MCF 2.1)**
+### **1. Structural Clarity ([MCF 2.1](https://www.themicrocanvas.com))**
 A national incubator system must begin with a structured understanding of:
 - the problem space  
 - customer segments  
@@ -44,9 +44,9 @@ These provide the scaffolding for designing a network that is responsive to real
 
 ---
 
-### **2. Capability Progression (IMM-P®)**
+### **2. Capability Progression [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)**
 An incubator network is an **ecosystem capability-building mechanism**.  
-IMM-P® ensures that the design accounts for:
+[IMM-P®](https://www.doulab.net/services/innovation-maturity) ensures that the design accounts for:
 
 - institutional maturity  
 - governance readiness  
@@ -59,9 +59,9 @@ This creates a **maturity pathway** for the ecosystem itself—not only for star
 
 ---
 
-### **3. Strategic Foresight (Vigía Futura)**
+### **3. Strategic Foresight ([Vigía Futura](https://www.doulab.net/vigia-futura))**
 High-performing ecosystems are aligned with **future market opportunities**, not only current trends.  
-Vigía Futura provides:
+[Vigía Futura](https://www.doulab.net/vigia-futura) provides:
 
 - sector prioritization  
 - weak-signal detection  
@@ -159,3 +159,9 @@ This framework follows a sequential logic:
 9. Templates and annexes  
 
 Each section is independently usable, but the full system creates consistency across policy, funding, talent, and operational execution.
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

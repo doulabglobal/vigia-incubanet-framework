@@ -6,9 +6,9 @@ This section provides **ready‑to‑use, operational templates** that enable go
 
 The templates ensure:
 - Unified national standards  
-- Evidence‑based decision‑making (MCF 2.1)  
-- Maturity‑aligned execution (IMM-P®)  
-- Foresight integration (Vigía Futura)  
+- Evidence‑based decision‑making ([MCF 2.1](https://www.themicrocanvas.com))  
+- Maturity‑aligned execution [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)  
+- Foresight integration ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 - Governance transparency  
 
 These tools can be adapted, localized, expanded, or integrated directly into digital platforms (e.g., IncubaNet OS).
@@ -45,7 +45,7 @@ Includes:
 - Investment scoring sheets  
 - Risk assessment checklist  
 - Tranche approval workflow  
-- Sector prioritization integration (Vigía Futura)  
+- Sector prioritization integration ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 
 ---
 
@@ -137,7 +137,7 @@ Aligned with:
 - Market opportunity  
 - Team capability  
 - Feasibility  
-- Sector prioritization (Vigía Futura)  
+- Sector prioritization ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 - Investment readiness  
 
 ---
@@ -189,14 +189,14 @@ Includes:
 ## **3. Annual National Report**
 Contains:
 - National scorecard results  
-- IMM-P® maturity progression  
+- [IMM-P®](https://www.doulab.net/services/innovation-maturity) maturity progression  
 - Foresight alignment update  
 - Policy recommendations  
 - International benchmarking summary  
 
 ---
 
-# **10.6 Evidence Templates (MCF 2.1)**
+# **10.6 Evidence Templates ([MCF 2.1](https://www.themicrocanvas.com))**
 
 ## **1. Problem Evidence Template**
 - Structural problem framing  
@@ -226,7 +226,7 @@ Contains:
 
 # **10.7 Foresight & Sector Prioritization Tools**
 
-## **1. Vigía Futura Sector Prioritization Matrix**
+## **1. [Vigía Futura](https://www.doulab.net/vigia-futura) Sector Prioritization Matrix**
 Includes dimensions for:
 - Global trends  
 - Regional competitiveness  
@@ -337,3 +337,8 @@ This section delivers:
 
 Together, these tools enable **immediate deployment** of the Vigía IncubaNet Framework (VIF) in any country.
 
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

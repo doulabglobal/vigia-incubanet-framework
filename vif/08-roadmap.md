@@ -7,9 +7,9 @@ It translates strategy into execution, ensuring the system develops in a **struc
 
 This roadmap integrates:
 
-- **MCF 2.1** → evidence-based program design  
-- **IMM-P®** → capability progression and ecosystem maturity building  
-- **Vigía Futura** → annual sector prioritization and foresight alignment  
+- **[MCF 2.1](https://www.themicrocanvas.com)** → evidence-based program design  
+- **[IMM-P®](https://www.doulab.net/services/innovation-maturity)** → capability progression and ecosystem maturity building  
+- **[Vigía Futura](https://www.doulab.net/vigia-futura)** → annual sector prioritization and foresight alignment  
 
 The result is a national implementation plan that is **realistic, scalable, and resilient**.
 
@@ -42,7 +42,7 @@ Each phase includes:
 - Initialize funding architecture  
 - Conduct full ecosystem diagnostic  
 - Publish national incubator strategy  
-- Activate sector prioritization (Vigía Futura)  
+- Activate sector prioritization ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 
 ---
 
@@ -55,8 +55,8 @@ Each phase includes:
 
 ### **2. Diagnostic Execution**
 - Complete MCF-aligned ecosystem diagnostic  
-- Produce capability heatmap (IMM-P®)  
-- Publish sector prioritization report (Vigía Futura)  
+- Produce capability heatmap [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)  
+- Publish sector prioritization report ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 
 ### **3. Policy & Strategy**
 - Approve national incubator network strategy  
@@ -124,7 +124,7 @@ Each phase includes:
 
 ### **5. Digital Infrastructure**
 - Launch unified dashboard & evidence repository  
-- Integrate monitoring tools (MCF + IMM-P + Vigía Futura KPIs)  
+- Integrate monitoring tools (MCF + [IMM-P](https://www.doulab.net/services/innovation-maturity) + [Vigía Futura](https://www.doulab.net/vigia-futura) KPIs)  
 
 ---
 
@@ -160,7 +160,7 @@ Each phase includes:
 - TOU operational audits  
 
 ### **2. Ecosystem Maturity Building**
-- IMM-P® rescore for all ecosystem stakeholders  
+- [IMM-P®](https://www.doulab.net/services/innovation-maturity) rescore for all ecosystem stakeholders  
 - Identify gaps for institutional strengthening  
 - Expand sector specialization programs  
 
@@ -187,7 +187,7 @@ Each phase includes:
 - Annual foresight updates institutionalized  
 - Significant private co-investment achieved  
 - Internationalization metrics improved  
-- Ecosystem maturity increased (IMM-P® progression)  
+- Ecosystem maturity increased ([IMM-P®](https://www.doulab.net/services/innovation-maturity) progression)  
 - Sustained capital flow and strengthened governance  
 
 ---
@@ -211,4 +211,10 @@ This roadmap produces:
 The roadmap feeds directly into:
 
 - **Section 09 — Governance & Legal Toolkit**, defining structures needed to execute the roadmap  
-- **Section 10 — Templates**, providing tools to operationalize every phase  
+- **Section 10 — Templates**, providing tools to operationalize every phase
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

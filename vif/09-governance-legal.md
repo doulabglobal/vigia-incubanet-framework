@@ -56,7 +56,7 @@ The highest oversight body.
 - Strategic oversight  
 - Approval of annual priorities  
 - Validation of KPIs and scorecards  
-- Sector alignment review (Vigía Futura)  
+- Sector alignment review ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 - Annual performance audit  
 
 ---
@@ -168,7 +168,7 @@ Enable:
 - Full performance audit  
 - Ecosystem scorecard update  
 - Governance review  
-- Foresight alignment refresh (Vigía Futura)  
+- Foresight alignment refresh ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 
 ### **Incubator Obligations**
 - Program delivery compliance  
@@ -184,7 +184,7 @@ Enable:
 1. **National Incubator Network Establishment Decree**  
 2. **Public–Private Partnership MOU**  
 3. **Investment Agreement Templates (Grant, SAFE, Note)**  
-4. **Evidence Requirements Checklist (MCF 2.1)**  
+4. **Evidence Requirements Checklist ([MCF 2.1](https://www.themicrocanvas.com))**  
 5. **Data Privacy & Sharing Agreement**  
 6. **IP Assignment & Licensing Agreements**  
 7. **Mentor/Advisor Service Agreement**  
@@ -248,3 +248,9 @@ This section delivers:
 This section prepares the foundation for:
 
 - **Section 10 — Templates & Tools**, where all operational, legal, and governance templates are fully developed for implementation.
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

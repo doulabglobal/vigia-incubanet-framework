@@ -6,9 +6,9 @@ The operating model defines **how the national incubator network functions day t
 It translates the system architecture into **processes, workflows, roles, and operational mechanisms** that ensure consistency, scalability, and high‑quality execution.
 
 The goal is to create an incubator network that is:
-- evidence-based (MCF 2.1)  
-- capability-aligned (IMM-P®)  
-- future-oriented (Vigía Futura)  
+- evidence-based ([MCF 2.1](https://www.themicrocanvas.com))  
+- capability-aligned [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)  
+- future-oriented ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 - operationally disciplined  
 - globally integrated  
 
@@ -22,7 +22,7 @@ The operating model is built on six principles:
    Every stage requires documented evidence using MCF‑aligned templates.
 
 2. **Maturity-Aligned Execution**  
-   Programs are adapted to the ecosystem’s IMM-P® maturity level.
+   Programs are adapted to the ecosystem’s [IMM-P®](https://www.doulab.net/services/innovation-maturity) maturity level.
 
 3. **Consistency Across Incubators**  
    Unified processes, shared templates, and common reporting standards.
@@ -34,7 +34,7 @@ The operating model is built on six principles:
    KPIs, dashboards, and transparent reporting.
 
 6. **Foresight Integration**  
-   Programs updated annually with Vigía Futura signals.
+   Programs updated annually with [Vigía Futura](https://www.doulab.net/vigia-futura) signals.
 
 ---
 
@@ -67,13 +67,13 @@ Activities:
 Outputs:
 - Monthly pipeline report  
 - Founder database  
-- Sector‑aligned recruitment (Vigía Futura)
+- Sector‑aligned recruitment ([Vigía Futura](https://www.doulab.net/vigia-futura))
 
 ---
 
 ## **4.5 Module 2 — Application & Selection**
 
-### **Selection Criteria (aligned with MCF 2.1 Value Architecture)**
+### **Selection Criteria (aligned with [MCF 2.1](https://www.themicrocanvas.com) Value Architecture)**
 
 1. Clear problem definition  
 2. Evidence of customer need  
@@ -99,7 +99,7 @@ Outputs:
 
 ---
 
-## **4.6 Module 3 — Incubation Program (MCF 2.1)**
+## **4.6 Module 3 — Incubation Program ([MCF 2.1](https://www.themicrocanvas.com))**
 
 The incubation phase focuses on **discovery and validation**.
 
@@ -223,8 +223,8 @@ Each annual cycle concludes with:
 
 - System‑wide review  
 - KPI and outcome evaluation  
-- IMM-P® maturity rescore  
-- Update of sector priorities using Vigía Futura  
+- [IMM-P®](https://www.doulab.net/services/innovation-maturity) maturity rescore  
+- Update of sector priorities using [Vigía Futura](https://www.doulab.net/vigia-futura)  
 - Policy update recommendations  
 - Program redesign proposals  
 
@@ -256,4 +256,10 @@ This section directly informs:
 - **Section 05 — Funding Model**, detailing capital flows  
 - **Section 07 — Scorecards**, converting operations into measurable KPIs  
 - **Section 08 — Roadmap**, sequencing execution  
-- **Section 10 — Templates**, providing all operational tools  
+- **Section 10 — Templates**, providing all operational tools
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

@@ -1,6 +1,6 @@
 # LICENSE — Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright © 2025 Doulab — Vigía IncubaNet Framework (VIF)
+Copyright © 2025 [Doulab](https://doulab.net) — Vigía IncubaNet Framework (VIF)
 
 This work is licensed under the Creative Commons Attribution 4.0 International License.
 
@@ -20,3 +20,9 @@ restrict others from doing anything the license permits.
 
 Full legal text:  
 https://creativecommons.org/licenses/by/4.0/legalcode
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

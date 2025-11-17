@@ -7,9 +7,9 @@ It defines how capital is structured, deployed, governed, and sustained to suppo
 
 This model integrates:
 
-- **MCF 2.1 Evidence Requirements** → informing investment decisions  
-- **IMM-P® Maturity Levels** → aligning funding instruments to ecosystem capabilities  
-- **Vigía Futura Foresight Signals** → targeting future-relevant sectors  
+- **[MCF 2.1](https://www.themicrocanvas.com) Evidence Requirements** → informing investment decisions  
+- **[IMM-P®](https://www.doulab.net/services/innovation-maturity) Maturity Levels** → aligning funding instruments to ecosystem capabilities  
+- **[Vigía Futura](https://www.doulab.net/vigia-futura) Foresight Signals** → targeting future-relevant sectors  
 
 The objective is to build a **sustainable, transparent, and scalable capital architecture** that accelerates innovation and attracts private investment.
 
@@ -24,7 +24,7 @@ The objective is to build a **sustainable, transparent, and scalable capital arc
    Funding tied to milestones, evidence, and traction.
 
 3. **Sector Prioritization**  
-   Capital aligned with future-relevant sectors from Vigía Futura.
+   Capital aligned with future-relevant sectors from [Vigía Futura](https://www.doulab.net/vigia-futura).
 
 4. **Transparency & Accountability**  
    Clear rules, governance, and reporting structures.
@@ -64,7 +64,7 @@ This fund acts as the **anchor capital** for the national incubator network.
 
 - Managed by a **public–private board**  
 - Investment decisions based on **MCF evidence packages**  
-- Annual allocation planning aligned with **Vigía Futura’s sector signals**  
+- Annual allocation planning aligned with **[Vigía Futura](https://www.doulab.net/vigia-futura)’s sector signals**  
 - Performance audits and public reporting  
 
 ---
@@ -141,7 +141,7 @@ Joint funds activated for high-potential sectors such as:
 - Climate & Energy  
 - GovTech  
 
-Aligned with **Vigía Futura opportunity maps**.
+Aligned with **[Vigía Futura](https://www.doulab.net/vigia-futura) opportunity maps**.
 
 ---
 
@@ -150,7 +150,7 @@ Aligned with **Vigía Futura opportunity maps**.
 1. **Startup submits evidence (MCF-aligned)**  
 2. **Due diligence by Technical Operating Unit**  
 3. **Investment committee scoring**  
-4. **Sector alignment check (Vigía Futura)**  
+4. **Sector alignment check ([Vigía Futura](https://www.doulab.net/vigia-futura))**  
 5. **Risk assessment**  
 6. **Funding approval**  
 7. **Disbursement in tranches**  
@@ -187,7 +187,7 @@ This reduces risk and increases accountability.
 
 To safeguard public resources:
 
-### **1. Evidence Requirements (MCF 2.1)**
+### **1. Evidence Requirements ([MCF 2.1](https://www.themicrocanvas.com))**
 No funding without documented validation.
 
 ### **2. Co-Investment Distribution**
@@ -245,4 +245,10 @@ This section enables:
 - **Section 06 — Benchmarking**, comparing with global best practices  
 - **Section 07 — KPIs & Scorecard**, measuring capital effectiveness  
 - **Section 08 — Roadmap**, sequencing funding cycles  
-- **Section 09 — Governance**, defining investment committees and oversight  
+- **Section 09 — Governance**, defining investment committees and oversight
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

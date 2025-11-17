@@ -26,9 +26,9 @@ This Grant Agreement (“Agreement”) is entered into between:
 The Grantor agrees to provide non‑dilutive financial support to the Grantee for the purpose of:
 
 - Startup incubation and early-stage development  
-- Activities aligned with MCF 2.1 evidence requirements  
+- Activities aligned with [MCF 2.1](https://www.themicrocanvas.com) evidence requirements  
 - Achievement of milestones defined in the Project Plan  
-- Advancing national-sector priorities (Vigía Futura)  
+- Advancing national-sector priorities ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 
 ---
 
@@ -167,7 +167,7 @@ The investment converts into equity upon any of the following:
 
 The Company warrants that:
 
-- All evidence submitted follows MCF 2.1 standards  
+- All evidence submitted follows [MCF 2.1](https://www.themicrocanvas.com) standards  
 - Financial statements are accurate  
 - No unresolved litigation exists  
 - Founders have authority to execute the agreement  
@@ -226,7 +226,7 @@ This Co-Investment Agreement is made between:
 This Agreement establishes a coordinated investment in the Startup, enabling blended financing aligned with:
 
 - National Innovation Fund rules  
-- Vigía Futura sector priorities  
+- [Vigía Futura](https://www.doulab.net/vigia-futura) sector priorities  
 - Maturity-aligned risk distribution  
 - Investment Committee approval  
 
@@ -330,4 +330,10 @@ This annex provides:
 - Standard **SAFE/Convertible Note** template  
 - Comprehensive **Co-Investment Agreement** template  
 - Tables for risk, valuation, contributions, and tranching  
-- Standard clauses aligned with MCF, IMM-P®, and Vigía Futura  
+- Standard clauses aligned with MCF, [IMM-P®](https://www.doulab.net/services/innovation-maturity), and [Vigía Futura](https://www.doulab.net/vigia-futura)
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).

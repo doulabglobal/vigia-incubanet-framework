@@ -22,11 +22,11 @@ The TOU is responsible for:
 
 - Executing the national incubation and acceleration programs  
 - Administering the National Innovation Fund processes  
-- Conducting due diligence based on MCF 2.1 evidence  
+- Conducting due diligence based on [MCF 2.1](https://www.themicrocanvas.com) evidence  
 - Coordinating all incubator nodes  
 - Managing national KPIs, dashboards, and reporting cycles  
 - Supporting governance bodies (NSC, Investment Committee, Advisory Board)  
-- Ensuring alignment with foresight indicators (Vigía Futura)  
+- Ensuring alignment with foresight indicators ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 - Maintaining transparency, compliance, and documentation standards  
 
 ---
@@ -41,8 +41,8 @@ The TOU is responsible for:
 | **Program Manager (Incubation)** | Manage early-stage programs, MCF implementation | Startup operations, design thinking |
 | **Program Manager (Acceleration)** | Growth programs, traction milestones | GTM, sales, scaling, investment prep |
 | **Investment & Due Diligence Lead** | Funding evaluations, risk assessments | Finance, VC, valuation, MCF evidence |
-| **Data & Insights Manager** | KPI tracking, dashboards, IMM-P® scoring | Data analysis, visualization |
-| **Foresight & Sector Analyst** | Vigía Futura integration, sector reports | Futures research, trend analysis |
+| **Data & Insights Manager** | KPI tracking, dashboards, [IMM-P®](https://www.doulab.net/services/innovation-maturity) scoring | Data analysis, visualization |
+| **Foresight & Sector Analyst** | [Vigía Futura](https://www.doulab.net/vigia-futura) integration, sector reports | Futures research, trend analysis |
 | **Partnerships & Internationalization Lead** | External relations, global partners | BD, international ecosystems |
 | **Operations & Compliance Officer** | SOPs, reporting, documentation | Project management, governance |
 | **Administrative & Secretariat Support** | Scheduling, archiving, communication | Coordination, documentation |
@@ -51,9 +51,9 @@ The TOU is responsible for:
 
 # **4. TOU Operating Principles**
 
-1. **Evidence First (MCF 2.1)**  
-2. **Maturity-Aligned Execution (IMM-P®)**  
-3. **Foresight Integration (Vigía Futura)**  
+1. **Evidence First ([MCF 2.1](https://www.themicrocanvas.com))**  
+2. **Maturity-Aligned Execution [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)**  
+3. **Foresight Integration ([Vigía Futura](https://www.doulab.net/vigia-futura))**  
 4. **Transparency & Accountability**  
 5. **Operational Agility**  
 6. **Neutrality & Independence**  
@@ -113,7 +113,7 @@ flowchart TD
 |------------------|------------|--------|
 | Market | Size, competition, insights | MCF, Sector Data |
 | Team | Skills, execution readiness | Interviews |
-| Evidence | Validation strength | MCF 2.1 evidence forms |
+| Evidence | Validation strength | [MCF 2.1](https://www.themicrocanvas.com) evidence forms |
 | Finance | Revenue, projections | Financial models |
 | Risk | Operational, technical, market | Risk matrix |
 
@@ -125,7 +125,7 @@ flowchart TD
 - KPI tracking  
 - National scorecard maintenance  
 - Quarterly reports for NSC  
-- Annual ecosystem maturity (IMM-P® rescoring)  
+- Annual ecosystem maturity ([IMM-P®](https://www.doulab.net/services/innovation-maturity) rescoring)  
 - Dashboard updates  
 
 ### **Monitoring Workflow Diagram**
@@ -142,7 +142,7 @@ flowchart LR
 
 ## **6.4 Foresight Integration**
 
-The TOU integrates **annual sector signals** and **weak-signal detection** from Vigía Futura.
+The TOU integrates **annual sector signals** and **weak-signal detection** from [Vigía Futura](https://www.doulab.net/vigia-futura).
 
 ### **Activities**
 - Update prioritization matrix  
@@ -248,3 +248,9 @@ This annex provides:
 - Governance support framework  
 
 It establishes the **operational backbone** for executing the VIF across all incubator nodes.
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).

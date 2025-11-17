@@ -11,7 +11,7 @@ The NSC ensures:
 - Alignment with national development priorities  
 - Long-term ecosystem stability  
 - Transparent oversight of governance, investment, and performance  
-- Integration of foresight (Vigía Futura) into annual strategic cycles  
+- Integration of foresight ([Vigía Futura](https://www.doulab.net/vigia-futura)) into annual strategic cycles  
 
 ---
 
@@ -20,7 +20,7 @@ The NSC ensures:
 The NSC is mandated to:
 
 - Approve national incubator network priorities  
-- Validate annual sector prioritization (Vigía Futura)  
+- Validate annual sector prioritization ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 - Oversee governance structures and compliance  
 - Approve annual budgets and funding allocations  
 - Review national scorecards and ecosystem KPIs  
@@ -59,7 +59,7 @@ The NSC should reflect **public–private symmetry** and ecosystem diversity.
 
 ## **4.2 Strategic Responsibilities**
 - Approve annual national strategy for incubator network  
-- Validate sector prioritization using Vigía Futura signals  
+- Validate sector prioritization using [Vigía Futura](https://www.doulab.net/vigia-futura) signals  
 - Ensure alignment with long-term national foresight indicators  
 
 ## **4.3 Funding Oversight**
@@ -113,7 +113,7 @@ flowchart TD
 - Quarterly startup performance dashboards  
 - Quarterly incubator node reports  
 - TOU operational reports  
-- Annual national foresight update (Vigía Futura)  
+- Annual national foresight update ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 - Year-end capital deployment summary  
 - Audit reports  
 
@@ -194,4 +194,10 @@ This annex provides:
 - Conflict-of-interest safeguards  
 - Process diagrams for implementation  
 
-It forms the foundation for national governance under the Vigía IncubaNet Framework (VIF).  
+It forms the foundation for national governance under the Vigía IncubaNet Framework (VIF).
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).

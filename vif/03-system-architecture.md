@@ -7,9 +7,9 @@ It translates the findings from the ecosystem diagnostic into a **coherent, modu
 
 This section uses:
 
-- **MCF 2.1** to structure value, stakeholders, and system interactions  
-- **IMM-P®** to ensure capability alignment and maturity progression  
-- **Vigía Futura** to shape long-term sector positioning and resilience  
+- **[MCF 2.1](https://www.themicrocanvas.com)** to structure value, stakeholders, and system interactions  
+- **[IMM-P®](https://www.doulab.net/services/innovation-maturity)** to ensure capability alignment and maturity progression  
+- **[Vigía Futura](https://www.doulab.net/vigia-futura)** to shape long-term sector positioning and resilience  
 
 The result is a **blueprint** that any government or institution can adopt, replicate, or adapt.
 
@@ -36,7 +36,7 @@ This layer establishes the **national mandate**, vision, and alignment with long
 Key functions:
 
 - Define national innovation priorities  
-- Select priority sectors (informed by **Vigía Futura**)  
+- Select priority sectors (informed by **[Vigía Futura](https://www.doulab.net/vigia-futura)**)  
 - Ensure alignment with economic, industrial, and digital strategies  
 - Set policy incentives and regulatory enablers  
 - Provide high-level oversight and continuity  
@@ -75,7 +75,7 @@ Responsible for:
 A specialized execution team responsible for:
 - managing programs  
 - coordinating incubators  
-- validating evidence (MCF 2.1)  
+- validating evidence ([MCF 2.1](https://www.themicrocanvas.com))  
 - tracking KPIs  
 - administering funds  
 - connecting with international partners  
@@ -132,7 +132,7 @@ This is the heart of the national incubator network. It defines how startups are
 ---
 
 ### **Specialized Tracks (Optional)**
-Countries can deploy vertical tracks aligned with **Vigía Futura’s sector signals**, such as:
+Countries can deploy vertical tracks aligned with **[Vigía Futura](https://www.doulab.net/vigia-futura)’s sector signals**, such as:
 
 - FinTech  
 - MedTech  
@@ -183,7 +183,7 @@ This layer ensures the system is **measurable**, **transparent**, and **future-o
 ### **Components**
 
 #### **1. National KPI Dashboard**
-Aligned with MCF, IMM-P®, and Vigía Futura indicators:
+Aligned with MCF, [IMM-P®](https://www.doulab.net/services/innovation-maturity), and [Vigía Futura](https://www.doulab.net/vigia-futura) indicators:
 - startup density  
 - survival rates  
 - internationalization  
@@ -205,7 +205,7 @@ This repository ensures a **data-driven governance model**.
 
 ---
 
-#### **3. Foresight Engine (Vigía Futura Integration)**
+#### **3. Foresight Engine ([Vigía Futura](https://www.doulab.net/vigia-futura) Integration)**
 Includes:
 - early signals  
 - trend monitoring  
@@ -268,4 +268,10 @@ This section sets the foundation for:
 - **Section 04 — Operating Model**, which defines *how the architecture is implemented*  
 - **Section 05 — Funding Model**, which details capital flows  
 - **Section 07 — Scorecard**, which operationalizes KPIs  
-- **Section 08 — Roadmap**, which sequences execution over time  
+- **Section 08 — Roadmap**, which sequences execution over time
+
+## © Copyright
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.  
+[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
+Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
