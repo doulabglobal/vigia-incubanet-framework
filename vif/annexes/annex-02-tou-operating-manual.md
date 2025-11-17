@@ -5,7 +5,7 @@
 
 # **1. Purpose of the Technical Operating Unit (TOU)**
 
-The **Technical Operating Unit (TOU)** is the operational backbone of the National Public–Private Incubator Network under the **Vigía IncubaNet Framework (VIF)**.  
+The **Technical Operating Unit (TOU)** is the operational backbone of the National Public–Private Incubator Network under the **Vigía Incubation Framework (VIF)**.  
 It ensures **execution discipline**, **evidence-based decision-making**, and **transparent operations** across all incubator nodes and programs.
 
 The TOU must be:

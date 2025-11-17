@@ -1,6 +1,6 @@
 # LICENSE — Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright © 2025 [Doulab](https://doulab.net) — Vigía IncubaNet Framework (VIF)
+Copyright © 2025 [Doulab](https://doulab.net) — Vigía Incubation Framework (VIF)
 
 This work is licensed under the Creative Commons Attribution 4.0 International License.
 

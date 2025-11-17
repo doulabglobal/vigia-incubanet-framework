@@ -1,8 +1,8 @@
 # 01 – Introduction
 
-## **1.1 Purpose of the Vigía IncubaNet Framework (VIF)**
+## **1.1 Purpose of the Vigía Incubation Framework (VIF)**
 
-The Vigía IncubaNet Framework (VIF) provides a structured, evidence-based methodology for designing and implementing **national public–private incubator networks**. It translates the principles of the **[MicroCanvas® Framework 2.1 (MCF 2.1)](https://www.themicrocanvas.com)**, the **[Innovation Maturity Model Program (IMM-P®)](https://www.doulab.net/services/innovation-maturity)**, and the strategic foresight approach of **[Vigía Futura](https://www.doulab.net/vigia-futura)** into a repeatable system that governments and ecosystem leaders can adopt to increase startup density, competitiveness, innovation maturity, and global integration.
+The Vigía Incubation Framework (VIF) provides a structured, evidence-based methodology for designing and implementing **national public–private incubator networks**. It translates the principles of the **[MicroCanvas® Framework 2.1 (MCF 2.1)](https://www.themicrocanvas.com)**, the **[Innovation Maturity Model Program (IMM-P®)](https://www.doulab.net/services/innovation-maturity)**, and the strategic foresight approach of **[Vigía Futura](https://www.doulab.net/vigia-futura)** into a repeatable system that governments and ecosystem leaders can adopt to increase startup density, competitiveness, innovation maturity, and global integration.
 
 VIF is a **country-agnostic blueprint** that can be adapted to different economic structures, institutional capacities, and regional priorities, while preserving methodological consistency and long-term measurability.
 

@@ -3,7 +3,7 @@
 ## **6.1 Purpose of Benchmarking**
 
 Benchmarking positions the national public–private incubator network within the context of global best practices.  
-It provides **comparative insights**, identifies **lessons learned**, and aligns the Vigía IncubaNet Framework (VIF) with proven models from high-performing ecosystems.
+It provides **comparative insights**, identifies **lessons learned**, and aligns the Vigía Incubation Framework (VIF) with proven models from high-performing ecosystems.
 
 The goal is not to copy these programs, but to **extract transferable principles** and adapt them through:
 

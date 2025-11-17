@@ -1,4 +1,4 @@
-# Vigía IncubaNet Framework (VIF)
+# Vigía Incubation Framework (VIF)
 
 A [Doulab](https://doulab.net) methodology for designing **National Public–Private Incubator Networks**, powered by:
 
@@ -35,7 +35,7 @@ Each file will be expanded into a full section of the framework.
 
 ## 🚀 Purpose
 
-The Vigía IncubaNet Framework (VIF) provides governments and ecosystem leaders with:
+The Vigía Incubation Framework (VIF) provides governments and ecosystem leaders with:
 
 - A **complete blueprint** for creating national incubator networks  
 - A **capability-based** approach grounded in [MCF 2.1](https://www.themicrocanvas.com)  

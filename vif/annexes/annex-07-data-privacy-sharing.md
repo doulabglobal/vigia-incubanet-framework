@@ -5,7 +5,7 @@
 
 # **1. Purpose of the Agreement**
 
-This **Data Privacy & Sharing Agreement (DPSA)** establishes the rules, safeguards, and responsibilities related to the collection, processing, storage, sharing, and protection of data within the **National Public–Private Incubator Network**, operated under the **Vigía IncubaNet Framework (VIF)**.
+This **Data Privacy & Sharing Agreement (DPSA)** establishes the rules, safeguards, and responsibilities related to the collection, processing, storage, sharing, and protection of data within the **National Public–Private Incubator Network**, operated under the **Vigía Incubation Framework (VIF)**.
 
 It ensures compliance with:
 - National data protection laws  

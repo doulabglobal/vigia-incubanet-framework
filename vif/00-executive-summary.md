@@ -1,12 +1,12 @@
 # 00 — Executive Summary  
-## Vigía IncubaNet Framework (VIF)  
+## Vigía Incubation Framework (VIF)  
 ### National Public–Private Incubator Network Guide
 
 ---
 
-# **1. Purpose of the Vigía IncubaNet Framework (VIF)**
+# **1. Purpose of the Vigía Incubation Framework (VIF)**
 
-The **Vigía IncubaNet Framework (VIF)** provides a complete, operational, and future‑aligned system for designing, launching, and managing any **National Public–Private Incubator Network**.  
+The **Vigía Incubation Framework (VIF)** provides a complete, operational, and future‑aligned system for designing, launching, and managing any **National Public–Private Incubator Network**.  
 It is built on three core methodological pillars:
 
 - **[MicroCanvas Framework 2.1 (MCF 2.1)](https://www.themicrocanvas.com)** — evidence-driven venture development  
@@ -172,7 +172,7 @@ flowchart LR
 
 # **10. Conclusion**
 
-This Executive Summary provides a high-level overview of the Vigía IncubaNet Framework (VIF), its logic, and its value.  
+This Executive Summary provides a high-level overview of the Vigía Incubation Framework (VIF), its logic, and its value.  
 The full guide offers a complete, structured, and evidence-based approach to building a **world‑class national network of public–private incubators**.
 
 Countries can adopt VIF as-is or adapt it to their legal, economic, and cultural contexts—achieving consistency, transparency, and long-term impact.

@@ -5,7 +5,7 @@
 
 # **1. Purpose of the National Steering Council (NSC)**
 
-The National Steering Council (NSC) provides **strategic oversight**, ensures **public–private coordination**, and maintains **policy continuity** for the National Public–Private Incubator Network implemented under the **Vigía IncubaNet Framework (VIF)**.
+The National Steering Council (NSC) provides **strategic oversight**, ensures **public–private coordination**, and maintains **policy continuity** for the National Public–Private Incubator Network implemented under the **Vigía Incubation Framework (VIF)**.
 
 The NSC ensures:
 - Alignment with national development priorities  
@@ -194,7 +194,7 @@ This annex provides:
 - Conflict-of-interest safeguards  
 - Process diagrams for implementation  
 
-It forms the foundation for national governance under the Vigía IncubaNet Framework (VIF).
+It forms the foundation for national governance under the Vigía Incubation Framework (VIF).
 
 ## © Copyright
 

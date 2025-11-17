@@ -2,7 +2,7 @@
 
 ## **10.1 Purpose of the Templates & Tools Section**
 
-This section provides **ready‑to‑use, operational templates** that enable governments, incubators, universities, investors, and ecosystem stakeholders to execute the Vigía IncubaNet Framework (VIF) with consistency and discipline.
+This section provides **ready‑to‑use, operational templates** that enable governments, incubators, universities, investors, and ecosystem stakeholders to execute the Vigía Incubation Framework (VIF) with consistency and discipline.
 
 The templates ensure:
 - Unified national standards  
@@ -11,7 +11,7 @@ The templates ensure:
 - Foresight integration ([Vigía Futura](https://www.doulab.net/vigia-futura))  
 - Governance transparency  
 
-These tools can be adapted, localized, expanded, or integrated directly into digital platforms (e.g., IncubaNet OS).
+These tools can be adapted, localized, expanded, or integrated directly into digital platforms (e.g., Incubation OS).
 
 ---
 
@@ -335,7 +335,7 @@ This section delivers:
 - SOP manuals  
 - Investment process templates  
 
-Together, these tools enable **immediate deployment** of the Vigía IncubaNet Framework (VIF) in any country.
+Together, these tools enable **immediate deployment** of the Vigía Incubation Framework (VIF) in any country.
 
 ## © Copyright
 

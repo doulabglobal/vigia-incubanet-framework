@@ -2,7 +2,7 @@
 
 ## **9.1 Purpose of the Governance & Legal Toolkit**
 
-The governance and legal toolkit provides the **institutional, regulatory, and operational scaffolding** required to implement and sustain a national public–private incubator network using the Vigía IncubaNet Framework (VIF).
+The governance and legal toolkit provides the **institutional, regulatory, and operational scaffolding** required to implement and sustain a national public–private incubator network using the Vigía Incubation Framework (VIF).
 
 This section offers:
 

@@ -1,7 +1,7 @@
 # Annex 06 — Investment Agreement Templates  
 ## Grant Agreement • SAFE/Convertible Note • Co‑Investment Agreement
 
-This annex provides **three complete investment agreement templates** for use within the National Public–Private Incubator Network under the **Vigía IncubaNet Framework (VIF)**.  
+This annex provides **three complete investment agreement templates** for use within the National Public–Private Incubator Network under the **Vigía Incubation Framework (VIF)**.  
 Each template is structured, modular, and easily adaptable to local legal frameworks.
 
 ---

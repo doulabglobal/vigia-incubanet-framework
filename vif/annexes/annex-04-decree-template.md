@@ -6,7 +6,7 @@
 # **1. Title of the Decree**
 
 **Decree No. XXX-20XX**  
-**Establishing the National Public–Private Incubator Network under the Vigía IncubaNet Framework (VIF)**
+**Establishing the National Public–Private Incubator Network under the Vigía Incubation Framework (VIF)**
 
 ---
 
@@ -43,7 +43,7 @@ This decree is issued under the authority granted by:
 | Term | Definition |
 |------|------------|
 | **Incubator Network** | The unified national system of public, private, and academic incubators. |
-| **VIF** | Vigía IncubaNet Framework — the official methodology for system design and operation. |
+| **VIF** | Vigía Incubation Framework — the official methodology for system design and operation. |
 | **NSC** | National Steering Council — highest oversight authority. |
 | **TOU** | Technical Operating Unit — national-level executing body. |
 | **National Innovation Fund** | Public capital fund enabling startup financing. |
@@ -57,7 +57,7 @@ This decree is issued under the authority granted by:
 The **National Public–Private Incubator Network** is hereby established as a national strategic system for developing high-quality startups and strengthening innovation capabilities.
 
 **Article 1.2**  
-The Network shall operate using the **Vigía IncubaNet Framework (VIF)** as its official methodology.
+The Network shall operate using the **Vigía Incubation Framework (VIF)** as its official methodology.
 
 **Article 1.3**  
 The Network shall be recognized as a national priority for economic development, competitiveness, and digital transformation.

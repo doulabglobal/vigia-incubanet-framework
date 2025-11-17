@@ -2,7 +2,7 @@
 
 ## **8.1 Purpose of the Roadmap**
 
-The roadmap provides a **phased, actionable plan** for deploying a national public–private incubator network based on the Vigía IncubaNet Framework (VIF).  
+The roadmap provides a **phased, actionable plan** for deploying a national public–private incubator network based on the Vigía Incubation Framework (VIF).  
 It translates strategy into execution, ensuring the system develops in a **structured, sequenced, and maturity-aligned** manner.
 
 This roadmap integrates:

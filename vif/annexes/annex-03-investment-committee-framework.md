@@ -5,7 +5,7 @@
 
 # **1. Purpose of the Investment Committee (IC)**
 
-The **Investment Committee (IC)** governs all funding decisions within the National Public–Private Incubator Network under the **Vigía IncubaNet Framework (VIF)**.
+The **Investment Committee (IC)** governs all funding decisions within the National Public–Private Incubator Network under the **Vigía Incubation Framework (VIF)**.
 
 Its core objective is to ensure that investments are:
 

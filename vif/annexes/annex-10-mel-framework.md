@@ -3,7 +3,7 @@
 
 This annex provides the complete monitoring, evaluation, and learning (MEL) system for the **National Public–Private Incubator Network**, aligned with:
 
-- **Vigía IncubaNet Framework (VIF)**  
+- **Vigía Incubation Framework (VIF)**  
 - **[MCF 2.1](https://www.themicrocanvas.com) Evidence Processes**  
 - **[IMM-P®](https://www.doulab.net/services/innovation-maturity) maturity indicators**  
 - **[Vigía Futura](https://www.doulab.net/vigia-futura) foresight cycles**  

@@ -5,7 +5,7 @@
 
 # **1. Purpose of the MOU**
 
-This **Memorandum of Understanding (MOU)** establishes the terms of collaboration between **public**, **private**, and **academic** institutions participating in the **National Public–Private Incubator Network** under the **Vigía IncubaNet Framework (VIF)**.
+This **Memorandum of Understanding (MOU)** establishes the terms of collaboration between **public**, **private**, and **academic** institutions participating in the **National Public–Private Incubator Network** under the **Vigía Incubation Framework (VIF)**.
 
 The MOU defines:
 - Roles and responsibilities  

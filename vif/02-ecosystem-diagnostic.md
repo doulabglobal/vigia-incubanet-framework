@@ -2,7 +2,7 @@
 
 ## **2.1 Purpose of the Diagnostic**
 
-The ecosystem diagnostic is the foundational step of the Vigía IncubaNet Framework (VIF).  
+The ecosystem diagnostic is the foundational step of the Vigía Incubation Framework (VIF).  
 Its purpose is to provide a **structured, evidence-based understanding** of a country’s innovation environment before designing any national incubator network.
 
 Using the principles of:

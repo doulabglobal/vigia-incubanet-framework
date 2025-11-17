@@ -1,7 +1,7 @@
 # Annex 08 — Intellectual Property (IP) Agreements  
 ## IP Assignment • Licensing Agreement • University–Startup Collaboration Clauses
 
-This annex provides three implementable IP templates for the National Public–Private Incubator Network under the **Vigía IncubaNet Framework (VIF)**:
+This annex provides three implementable IP templates for the National Public–Private Incubator Network under the **Vigía Incubation Framework (VIF)**:
 
 1. **IP Assignment Agreement**  
 2. **Licensing Agreement**  

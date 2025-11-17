@@ -1,7 +1,7 @@
 # Annex 09 — National Network Branding & Communication Guide  
 ## Visual Identity • Messaging • Public Transparency • Media Framework
 
-This annex provides a unified branding and communication standard for the **National Public–Private Incubator Network**, aligned with the **Vigía IncubaNet Framework (VIF)** and compatible with public-sector communication requirements.
+This annex provides a unified branding and communication standard for the **National Public–Private Incubator Network**, aligned with the **Vigía Incubation Framework (VIF)** and compatible with public-sector communication requirements.
 
 ---
 
@@ -96,7 +96,7 @@ The national network should communicate with:
 
 ## **4.1 Elevator Pitch**
 
-“[National Program Name] is the unified public–private incubator network accelerating high-quality startups using the Vigía IncubaNet Framework, supported by evidence-based methods ([MCF 2.1](https://www.themicrocanvas.com)), innovation maturity principles [(IMM-P®)](https://www.doulab.net/services/innovation-maturity), and strategic foresight ([Vigía Futura](https://www.doulab.net/vigia-futura)).”
+“[National Program Name] is the unified public–private incubator network accelerating high-quality startups using the Vigía Incubation Framework, supported by evidence-based methods ([MCF 2.1](https://www.themicrocanvas.com)), innovation maturity principles [(IMM-P®)](https://www.doulab.net/services/innovation-maturity), and strategic foresight ([Vigía Futura](https://www.doulab.net/vigia-futura)).”
 
 ---
 
