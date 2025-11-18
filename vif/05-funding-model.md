@@ -1,254 +1,339 @@
-# 05 – Funding Model
-
-## **5.1 Purpose of the Funding Model**
-
-The funding model establishes the **financial engine** of the national public–private incubator network.  
-It defines how capital is structured, deployed, governed, and sustained to support startups through every stage—from validation to global scaling.
-
-This model integrates:
-
-- **[MCF 2.1](https://www.themicrocanvas.com) Evidence Requirements** → informing investment decisions  
-- **[IMM-P®](https://www.doulab.net/services/innovation-maturity) Maturity Levels** → aligning funding instruments to ecosystem capabilities  
-- **[Vigía Futura](https://www.doulab.net/vigia-futura) Foresight Signals** → targeting future-relevant sectors  
-
-The objective is to build a **sustainable, transparent, and scalable capital architecture** that accelerates innovation and attracts private investment.
+# 05 — Funding Model  
+## Vigía Incubation Framework (VIF)  
+**National Public–Private Incubation Network Guide — Version 1.2**
 
 ---
 
-## **5.2 Principles of the Funding Architecture**
+# **1. Introduction**
 
-1. **Public–Private Co-Investment**  
-   Public capital reduces risk; private capital accelerates growth.
+The **Funding Model** defines how capital flows through the Vigía Incubation Framework (VIF).  
+It operationalizes the financial mechanisms needed to support:
 
-2. **Performance-Based Allocation**  
-   Funding tied to milestones, evidence, and traction.
+- early‑stage validation,  
+- national incubation and acceleration programs,  
+- capability‑building for incubator nodes,  
+- investment readiness,  
+- co‑investment,  
+- tranche‑based startup financing, and  
+- long‑term sustainability of the national network.
 
-3. **Sector Prioritization**  
-   Capital aligned with future-relevant sectors from [Vigía Futura](https://www.doulab.net/vigia-futura).
+This section must be read **after Section 03 — System Architecture** and **Section 04 — Operating Model**, as it builds on the governance structures, investment processes, evidence practices, and MEL systems defined there.
 
-4. **Transparency & Accountability**  
-   Clear rules, governance, and reporting structures.
-
-5. **Capital Multiplication**  
-   Every public dollar aims to attract equal or greater private contributions.
-
-6. **Multi-Instrument Flexibility**  
-   Grants, matching funds, convertible notes, and SAFE mechanisms.
+For navigation support, see **00a — How to Use VIF**.  
+For terminology, see **00c — Glossary**.
 
 ---
 
-## **5.3 Core Components of the Funding Model**
+# **2. How to Read This Section**
 
-The funding architecture is composed of four main elements:
+This section explains:
 
-1. **National Innovation Fund (Anchor Capital)**
-2. **Private Co-Investment Channels**
-3. **Capital Flow Instruments**
-4. **Sustainability Structure**
+- how national capital is structured,  
+- how it moves through VIF,  
+- how decisions are made,  
+- how risk is controlled, and  
+- how public–private investment becomes sustainable.
 
----
+It should be used by:
 
-## **5.4 National Innovation Fund**
+- Ministries and public-sector funding agencies  
+- Private investors and co‑investment partners  
+- Incubator node operators  
+- TOU financial and compliance teams  
+- Government budget planners  
+- International donors and development partners  
 
-This fund acts as the **anchor capital** for the national incubator network.
+Sections that depend on this one:
 
-### **Functions:**
-
-- Provide seed-stage funding  
-- Catalyze private investment  
-- Support sector-specific programs  
-- Finance ecosystem infrastructure  
-- Ensure equal access to capital for underrepresented founders  
-
-### **Fund Governance**
-
-- Managed by a **public–private board**  
-- Investment decisions based on **MCF evidence packages**  
-- Annual allocation planning aligned with **[Vigía Futura](https://www.doulab.net/vigia-futura)’s sector signals**  
-- Performance audits and public reporting  
+- **Section 06 — Governance & Capability Requirements**  
+- **Section 07 — KPIs & MEL**  
+- **Section 08 — Roadmap & Phasing**  
+- **Annex 06 — Investment Instruments**
 
 ---
 
-## **5.5 Private Co-Investment Channels**
+# **3. High-Level Funding Architecture**
 
-To ensure long-term sustainability, the network integrates multiple private capital sources:
+The VIF Funding Model is based on **five financial pillars**:
 
-- Venture Capital Firms  
-- Corporate Venture Arms  
-- Angel Investor Networks  
-- University Innovation Funds  
-- Diaspora Investment Platforms  
-- International VC Funds  
-
-### **Co-Investment Mechanisms**
-
-1. **Matching Investments**  
-   → Public + private investment proportional to risk levels.
-
-2. **Syndicated Rounds**  
-   → Joint investments across multiple partners.
-
-3. **VC Partnership Agreements**  
-   → Fast-track access for validated startups.
-
-4. **Diaspora Investment Vehicles**  
-   → Remittance-linked investment channels.
+1. **National Innovation Fund (NIF)**  
+2. **Public–Private Co‑Investment Mechanisms**  
+3. **Tranche-Based Disbursement (Evidence-Driven)**  
+4. **Capacity-Building Funding for Nodes (IMM-P®)**  
+5. **Reinvestment & Sustainability Loop**
 
 ---
 
-## **5.6 Capital Flow Instruments**
+# **4. Funding Architecture Diagram**
 
-The funding model deploys capital through flexible mechanisms depending on maturity level.
+```mermaid
+flowchart TD
+    A(National Innovation Fund) --> B(Co-Investment Mechanisms)
+    B --> C(Funding Instruments<br/>SAFE · Grants · Tranches)
+    C --> D(Investment Committee<br/>Evidence-Based Review)
+    D --> E(Tranche Deployment)
+    E --> F(KPIs · MEL · Dashboard)
+    F --> G(Foresight Updates<br/>Vigía Futura)
+    G --> A
+```
 
-### **1. Seed Grants (Non-dilutive)**
-Ideal for early validation and MVP development.  
-**Triggered by:**  
-- MCF problem validation  
-- Customer evidence  
-- Feasibility indicators  
+This cycle ensures that capital allocation remains:
 
----
-
-### **2. Matching Funds**
-Public capital is used to attract private investment.  
-Typical ratios: 1:1 or 1:2.
-
-**Requirements:**  
-- Clear traction  
-- Market validation  
-- Investor commitment letters  
+- transparent,  
+- evidence‑driven,  
+- risk‑managed, and  
+- strategically aligned with evolving national priorities.
 
 ---
 
-### **3. Convertible Notes / SAFE Instruments**
-Used for scalable startups entering growth phases.
+# **5. Funding Principles**
 
-**Advantages:**  
-- Low bureaucracy  
-- Founder-friendly  
-- Aligns incentives with investors  
-- Reduces legal complexity  
+## **5.1 Evidence Before Capital**
+No funds are released unless:
 
----
+- the startup delivers an **MCF 2.1 evidence package**, and  
+- the incubator node meets **IMM-P® capability requirements**.
 
-### **4. Co-Investment Pools**
-Joint funds activated for high-potential sectors such as:
+## **5.2 Public–Private Symmetry**
+Public and private investors follow:
 
-- FinTech  
-- MedTech  
-- AI & Data  
-- AgriTech  
-- Climate & Energy  
-- GovTech  
+- the same due diligence templates,  
+- the same definitions of readiness, and  
+- the same tranche milestones.
 
-Aligned with **[Vigía Futura](https://www.doulab.net/vigia-futura) opportunity maps**.
+## **5.3 Transparency & Digital Traceability**
+All funding processes must be fully logged within the VIF digital ecosystem.
 
----
+## **5.4 Sustainable Multi-Year Budgeting**
+NIF is structured for multi‑year stability, with buffers for uncertainty.
 
-## **5.7 Capital Deployment Workflow**
+## **5.5 Risk‑Managed Investment**
+Funding decisions must incorporate:
 
-1. **Startup submits evidence (MCF-aligned)**  
-2. **Due diligence by Technical Operating Unit**  
-3. **Investment committee scoring**  
-4. **Sector alignment check ([Vigía Futura](https://www.doulab.net/vigia-futura))**  
-5. **Risk assessment**  
-6. **Funding approval**  
-7. **Disbursement in tranches**  
-8. **Quarterly performance reporting**  
-9. **Follow-on rounds (matching or syndication)**  
-
-This ensures a **transparent, auditable, and data-driven** allocation process.
+- maturity scores (IMM-P®),  
+- risk diagnostics,  
+- evidence quality,  
+- team capability, and  
+- foresight alignment.
 
 ---
 
-## **5.8 Tranche-Based Funding**
+# **6. National Innovation Fund (NIF)**
 
-Funding is released in stages tied to:
+The **NIF** is the central financial mechanism of VIF.
 
-- Product milestones  
-- Customer traction  
-- Revenue targets  
-- Internationalization steps  
-- Evidence updates  
+## **6.1 Components**
+- Annual national budget allocation  
+- Public–private matching funds  
+- International donor contributions  
+- Recycling of SAFE or equity returns  
+- University innovation funds (where available)  
+- Regional government contributions  
 
-### **Tranche Structure Example**
+## **6.2 Use of Funds**
+Funds can be deployed across:
 
-| Stage | Disbursement | Trigger |
-|-------|--------------|---------|
-| T1 | 25% | Evidence + MVP |
-| T2 | 35% | Customer traction |
-| T3 | 40% | Revenue or global readiness |
-
-This reduces risk and increases accountability.
-
----
-
-## **5.9 Risk Mitigation Mechanisms**
-
-To safeguard public resources:
-
-### **1. Evidence Requirements ([MCF 2.1](https://www.themicrocanvas.com))**
-No funding without documented validation.
-
-### **2. Co-Investment Distribution**
-Diversifies private risk.
-
-### **3. Stage-Gated Release**
-Ensures funds follow progress.
-
-### **4. Independent Evaluation Committees**
-Prevent conflicts of interest.
-
-### **5. Sector Diversification**
-Avoids concentration risk.
+- startup incubation and acceleration  
+- investment-readiness work  
+- tranche-based funding  
+- capability‑building for incubators  
+- network digital infrastructure  
+- MEL system maintenance
 
 ---
 
-## **5.10 Sustainability Model**
+# **7. Public–Private Co‑Investment Mechanisms**
 
-For long-term resilience, the funding system includes:
+Co‑investment mechanisms enable:
 
-### **1. Multi-Year Public Budgeting**
-Minimum 5-year commitments.
+- shared risk,  
+- shared due diligence,  
+- greater investment scale,  
+- and stronger national investment pipelines.
 
-### **2. Revenue Recycling Mechanisms**
-- Equity from SAFE conversions  
-- Profit-sharing in select cases  
-- Fees from international programs  
+Mechanisms may include:
 
-### **3. Public–Private Partnerships**
-Corporate programs co-financed by industries.
+- matching funds (1:1, 1:2, 1:3)  
+- catalytic capital instruments  
+- blended finance  
+- university–industry co‑funding  
+- corporate innovation investment  
 
-### **4. International Grants & Cooperation**
-Support from regional banks, development institutions, or EU programs.
+All co‑investment partners must follow:
 
----
-
-## **5.11 Outputs of the Funding Model**
-
-The model produces:
-
-- National funding strategy  
-- Investment governance structure  
-- Mechanisms for capital deployment  
-- Rules for evidence-based funding  
-- Co-investment frameworks  
-- Tools for sustainability and long-term growth  
-- Sector-aligned investment approaches  
+- the same investment maturity criteria (IMM-P®),  
+- the same evidence package requirements (MCF 2.1), and  
+- the same investment review process (IC).
 
 ---
 
-## **5.12 Connection to the Next Sections**
+# **8. Tranche-Based Disbursement**
 
-This section enables:
+Funding is never released as a lump sum.  
+It is structured in **tranches** tied to measurable, evidence‑driven milestones.
 
-- **Section 06 — Benchmarking**, comparing with global best practices  
-- **Section 07 — KPIs & Scorecard**, measuring capital effectiveness  
-- **Section 08 — Roadmap**, sequencing funding cycles  
-- **Section 09 — Governance**, defining investment committees and oversight
+### **8.1 Milestone Types**
+- Completion of MCF 2.1 evidence phases  
+- Customer validation metrics  
+- Technical feasibility milestones  
+- Regulatory or compliance milestones  
+- Commercial milestones  
+- Growth and retention metrics  
 
-## © Copyright
+### **8.2 Tranche Decision Flow**
 
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
+```mermaid
+flowchart TD
+    A(Startups Submit Evidence) --> B(Incubator Node Review)
+    B --> C(TOU Financial & Evidence Check)
+    C --> D(Investment Committee Decision)
+    D --> E(Tranche Release)
+    E --> F(MEL Tracking)
+```
+
+Tranche requirements are standardized across all nodes.
+
+---
+
+# **9. Funding Instruments**
+
+VIF supports multiple funding instruments, depending on national legislation:
+
+### **9.1 SAFE (Simple Agreement for Future Equity)**
+Used when allowed by national regulations.
+
+### **9.2 Grants**
+For early‑stage validation or capability-building.
+
+### **9.3 Co‑Investment Agreements**
+Formalized between NIF and private investors.
+
+### **9.4 Reimbursable Advances (optional)**
+Where country legislation allows.
+
+### **9.5 Sector-Specific Funds**
+Aligned with Vigía Futura sector tracks.
+
+---
+
+# **10. Minimum Eligibility Requirements for Funding**
+
+To receive funding through VIF, a startup must:
+
+- be enrolled in an accredited incubator node,  
+- have completed a minimum set of **MCF 2.1 evidence components**,  
+- demonstrate alignment with priority sectors,  
+- meet minimal operational maturity criteria,  
+- comply with all data and reporting requirements,  
+- have no outstanding compliance issues,  
+- submit updated KPIs monthly.
+
+---
+
+# **11. Capital Integrity & Safeguards**
+
+To ensure long-term credibility and risk mitigation, VIF requires:
+
+- anti‑corruption safeguards,  
+- conflict of interest policies,  
+- third‑party financial audits,  
+- digital traceability for all transactions,  
+- standardized investment memos,  
+- IC decisions logged publicly (summary-only),  
+- annual financial transparency reports.
+
+These safeguards ensure national and international trust.
+
+---
+
+# **12. Funding Cycle Map**
+
+```mermaid
+flowchart LR
+    A(Startup Evidence) --> B(Incubator Node Review)
+    B --> C(TOU Validation)
+    C --> D(Investment Committee)
+    D --> E(Tranche Release)
+    E --> F(KPI & MEL Monitoring)
+    F --> G(Policy Feedback via Vigía Futura)
+    G --> A
+```
+
+This map mirrors the national innovation cycle in Sections 03 and 04.
+
+---
+
+# **13. Sustainability Mechanisms**
+
+Sustainability is fundamental to long-term national innovation strategy.
+
+## **13.1 Reinvestment Loop**
+Returns from equity-based instruments (SAFE, equity, royalties) flow back into NIF.
+
+## **13.2 Diaspora Capital Channels**
+Diaspora investors may participate through:
+
+- matching schemes,  
+- co‑investment vehicles,  
+- philanthropic innovation funds.
+
+## **13.3 Multilateral Engagement**
+The model supports partnerships with:
+
+- CAF  
+- IDB Lab  
+- World Bank  
+- UNDP  
+- EU development programs  
+
+## **13.4 Corporate Innovation Capital**
+Corporate partners can sponsor:
+
+- sector tracks,  
+- challenges,  
+- open innovation cohorts,  
+- investment vehicles.
+
+---
+
+# **14. Connection to Section 06 — Governance & Capability Requirements**
+
+Section 06 expands this Funding Model into:
+
+- investment governance rights,  
+- IC membership rules,  
+- fiduciary roles,  
+- node financial compliance requirements,  
+- maturity progression (IMM-P®),  
+- TOU capacity requirements.
+
+It ensures that the funding architecture is well-governed, auditable, and aligned to national strategy.
+
+---
+
+# **15. Reference Snapshot**
+
+Primary Doulab frameworks informing the Funding Model:
+
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
+
+External influences (non-primary):
+
+- OECD Public Governance Principles  
+- OECD Strategic Foresight Toolkit  
+- WIPO Global Innovation Index  
+- World Bank GovTech Maturity Index  
+
+For full bibliography, see **11-references.md**.
+
+---
+
+# **16. Licensing**
+
+This document is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**  
+
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.
+

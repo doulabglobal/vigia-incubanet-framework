@@ -1,234 +1,290 @@
-# Annex 03 — Investment Committee (IC)  
-## Evaluation Framework
+# Annex 03 — Terms of Reference & Operating Manual  
+## Investment Committee (IC)  
+### Vigía Incubation Framework (VIF)  
+**National Public–Private Incubator Network Guide — Version 1.2**
 
 ---
 
-# **1. Purpose of the Investment Committee (IC)**
+# **1. Introduction**
 
-The **Investment Committee (IC)** governs all funding decisions within the National Public–Private Incubator Network under the **Vigía Incubation Framework (VIF)**.
+The **Investment Committee (IC)** is the independent, evidence‑driven decision‑making body responsible for evaluating and approving all investment‑related processes under the Vigía Incubation Framework (VIF).  
+It ensures that investment decisions are:
 
-Its core objective is to ensure that investments are:
+- transparent,  
+- evidence‑based (MCF 2.1),  
+- maturity‑aligned (IMM-P®),  
+- free from political interference,  
+- financially responsible,  
+- auditable and compliant,  
+- equitable across public and private incubator nodes.
 
-- **Evidence-based** ([MCF 2.1](https://www.themicrocanvas.com))  
-- **Aligned with ecosystem maturity** [(IMM‑P®)](https://www.doulab.net/services/innovation-maturity)  
-- **Consistent across all incubator nodes**  
-- **Transparent, auditable, and neutral**  
-- **Strategically aligned with sector priorities** ([Vigía Futura](https://www.doulab.net/vigia-futura))  
+This annex defines the **Terms of Reference (ToR)** and **Operating Manual** for the IC, establishing:
 
-The IC serves as the **final authority** on approving grants, matching funds, convertible notes/SAFE instruments, and co‑investment mechanisms.
+- governance structure,  
+- mandate,  
+- composition,  
+- decision rights & boundaries,  
+- evidence requirements,  
+- maturity criteria,  
+- review workflow,  
+- compliance and ethical obligations,  
+- reporting requirements,  
+- KPIs and performance expectations.
 
----
-
-# **2. Mandate of the Investment Committee**
-
-The IC is mandated to:
-
-- Review funding requests submitted by the TOU  
-- Conduct technical & financial evaluation of evidence packages  
-- Approve, adjust, or reject investment proposals  
-- Authorize tranche disbursements  
-- Apply risk‑management protocols  
-- Ensure alignment with national sector priorities  
-- Maintain transparency and independence in decisions  
-- Produce quarterly and annual investment reports  
-
----
-
-# **3. Composition of the Investment Committee**
-
-## **3.1 Recommended IC Composition Table**
-
-| Sector | Role | Expertise Required |
-|--------|------|--------------------|
-| Finance & Investment | VC / Angel Network Representative | Early-stage investing, valuations, risk |
-| Finance & Banking | Corporate Finance Expert | Capital structuring, governance |
-| Technology | Sector Specialist (rotating per vertical) | Deep market insight |
-| Legal | Legal / Compliance Advisor | SAFE/Note structures, due diligence |
-| Public Sector | Innovation Agency Representative | Policy alignment, national priorities |
-| Ecosystem | TOU Investment & Due Diligence Lead (non‑voting) | Evidence & analysis presentation |
-
-**Note:**  
-TOU participates as **technical advisor**, not as a voting member.
+This annex supports **Sections 03, 04, 05, 07, 09, and 10**.
 
 ---
 
-# **4. Roles & Responsibilities**
+# **2. How to Use This Annex**
 
-## **4.1 IC Responsibilities**
-- Evaluate investment readiness  
-- Score evidence strength (MCF-aligned)  
-- Review financial projections and revenue logic  
-- Approve investment instruments  
-- Manage follow‑on round decisions  
-- Ensure compliance with funding rules  
-- Document decisions for audit purposes  
+This annex is designed for:
 
-## **4.2 TOU Responsibilities (Non-Voting)**
-- Prepare investment memos  
-- Present evidence dossiers  
-- Provide scoring, data, and risk analysis  
-- Track milestones and tranche triggers  
-- Maintain digital investment archive  
+- investment evaluators,  
+- national innovation authorities,  
+- legal and compliance teams,  
+- public and private incubator leadership,  
+- TOU and NSC decision‑makers.
 
----
+Use this annex to:
 
-# **5. Investment Evaluation Framework**
+1. Establish the IC as an independent investment body.  
+2. Define all investment‑related workflows and decision rights.  
+3. Train new IC members with standardized evaluation criteria.  
+4. Ensure fairness, transparency, and evidence integrity in investment decisions.  
+5. Maintain auditability and compliance across the national incubation network.
 
-The IC evaluates startups using a **multidimensional scoring model** integrating MCF, [IMM-P®](https://www.doulab.net/services/innovation-maturity), and sector foresight.
+This annex provides the **minimum governance and operational standards** for IC functioning.  
+Countries may customize titles and meeting formats, but may NOT alter:
 
-## **5.1 Evaluation Dimensions Table**
-
-| Dimension | Weight | Evaluation Criteria | Tools / Inputs |
-|----------|--------|---------------------|----------------|
-| **Evidence Strength ([MCF 2.1](https://www.themicrocanvas.com))** | 30% | Quality of problem, customer, and solution evidence | Evidence Dossier |
-| **Market Opportunity** | 20% | TAM/SAM/SOM, growth signals, competitive analysis | Market Templates |
-| **Team Capability** | 15% | Execution ability, technical capacity, resilience | Interviews |
-| **Traction & Feasibility** | 20% | Early revenue, pilots, user growth | Traction Metrics |
-| **Sector Alignment ([Vigía Futura](https://www.doulab.net/vigia-futura))** | 10% | Fit with national future sectors | Sector Matrix |
-| **Financial & Risk Profile** | 5% | Cash flow logic, burn, risk analysis | Financial Models |
+- evidence standards (MCF 2.1),  
+- maturity alignment rules (IMM-P®),  
+- IC independence from political entities,  
+- tranching and renewal logic,  
+- conflict‑of‑interest protocols.
 
 ---
 
-# **6. Investment Scoring Sheet**
-
-## **6.1 Standardized Scoring Table**
-
-| Category | Score (0–5) | Notes |
-|----------|--------------|--------|
-| Problem Evidence | 0–5 | Validation strength |
-| Customer Insights | 0–5 | Interviews, clarity |
-| Solution Feasibility | 0–5 | Technical viability |
-| Market Size | 0–5 | Growth & competitiveness |
-| Team Strength | 0–5 | Capability fit |
-| Traction | 0–5 | Actual vs expected |
-| Financial Logic | 0–5 | Robustness |
-| Sector Alignment | 0–5 | Future relevance |
-| Total Score | 0–40 | Weighted for IC decision |
-
-**Interpretation:**
-
-| Total Score | Decision |
-|-------------|----------|
-| 34–40 | Approve with priority |
-| 26–33 | Approve |
-| 20–25 | Conditional approval (remediate gaps) |
-| 14–19 | Re-evaluate after corrections |
-| 0–13 | Reject |
-
----
-
-# **7. Due Diligence Workflow**
-
-## **7.1 Workflow Diagram**
+# **3. IC Governance Architecture**
 
 ```mermaid
 flowchart TD
-    A[Startup Submits Evidence Package] --> B[TOU Performs Technical Due Diligence]
-    B --> C[TOU Prepares Investment Memo]
-    C --> D[Investment Committee Review]
-    D --> E{Decision?}
-    E -->|Approve| F[Tranche Schedule Approved]
-    E -->|Conditional| G[Startup Corrects Evidence]
-    E -->|Reject| H[Decision Archived]
-    F --> I[Fund Disbursement]
-    I --> J[Quarterly Monitoring by TOU]
+    A(IC Mandate) --> B(Composition)
+    B --> C(Investment Review Workflow)
+    C --> D(Decision Rights & Boundaries)
+    D --> E(Evidence & Risk Standards)
+    E --> F(Reporting & KPIs)
+    F --> G(Compliance & COI)
 ```
 
 ---
 
-# **8. Tranche-Based Funding Rules**
+# **4. Mandate**
 
-The IC authorizes tranche releases through clear evidence‑based triggers.
+The IC is responsible for:
 
-## **8.1 Example Tranche Table**
+- conducting independent evaluation of all investment cases,  
+- applying standardized, evidence‑driven criteria,  
+- authorizing or rejecting tranches,  
+- ensuring investment decisions align with maturity stages (IMM-P®),  
+- ensuring compliance with national investment rules,  
+- safeguarding the integrity and neutrality of the investment process.
 
-| Tranche | Criteria | Evidence Required | % of Funds |
-|--------|----------|------------------|------------|
-| **T1** | MVP built | Prototype demo, evidence file | 25% |
-| **T2** | Validation | Customer metrics, traction report | 35% |
-| **T3** | Growth | Revenue, partnerships, KPIs | 40% |
-
----
-
-# **9. Co-Investment Framework**
-
-The IC oversees co‑investment mechanisms to maximize private sector participation.
-
-## **9.1 Co-Investment Models Table**
-
-| Model | Ratio | Description |
-|--------|--------|-----------------------------|
-| Public-to-Private Matching | 1:1 or 1:2 | Startup must secure private investors |
-| Syndicated Round | Variable | Multiple VCs/investors join |
-| Government Anchor | 30–40% | Government acts as anchor investor |
-| Diaspora Co-Investment | Variable | Diaspora capital participates via dedicated channel |
+The IC is the **final authority** for all investment decisions under VIF.
 
 ---
 
-# **10. Risk Management Framework**
+# **5. Composition & Membership**
 
-## **10.1 Risk Matrix**
+## **5.1 Membership Structure**
 
-| Risk Type | Indicators | Mitigation |
-|-----------|------------|------------|
-| Market Risk | Weak demand, slow traction | Phased disbursement |
-| Technical Risk | Feasibility concerns | Independent evaluation |
-| Financial Risk | Cash burn issues | Conditional approvals |
-| Governance Risk | Conflict of interest | COI policy enforcement |
-| Sector Risk | Misalignment | [Vigía Futura](https://www.doulab.net/vigia-futura) review |
+The IC should include 5–9 members representing:
 
----
+- private‑sector investors (2–3),  
+- academia or research institutions (1–2),  
+- national innovation authority (1),  
+- independent experts (1–2),  
+- finance/compliance specialist (1).
 
-# **11. Documentation & Transparency Standards**
+## **5.2 Appointment Rules**
 
-The IC maintains strict documentation requirements:
-
-- Digital archive of all decisions  
-- IC session minutes  
-- Funding rationales  
-- Evidence scoring tables  
-- Public transparency summaries (quarterly)  
+- Members are appointed by the NSC.  
+- Terms: **2 years**, renewable once.  
+- Members must have investment, entrepreneurship, or innovation governance experience.  
+- Mandatory completion of induction training (MCF 2.1, IMM-P®, risk & compliance).
 
 ---
 
-# **12. Reporting Obligations**
+# **6. Responsibilities**
 
-| Report | Frequency | Owner | Recipient |
-|--------|-----------|--------|------------|
-| Investment Cycle Report | Quarterly | TOU | NSC |
-| IC Decision Report | After each meeting | IC Chair | NSC |
-| Annual Investment Performance Report | Annual | IC + TOU | NSC + Public |
-| Audit Compliance Report | Annual | IC | National Auditor |
+The IC is responsible for:
+
+### **6.1 Investment Evaluation**
+- Reviewing investment memos submitted by the TOU.  
+- Applying evidence‑based decision criteria.  
+- Ensuring financial and operational viability.  
+
+### **6.2 Risk Assessment**
+- Conducting risk scoring based on standardized criteria.  
+- Ensuring alignment with national regulatory frameworks.  
+
+### **6.3 Compliance Oversight**
+- Ensuring all submissions follow evidence and maturity frameworks.  
+- Ensuring transparency and traceability.  
+
+### **6.4 Tranche Decision-Making**
+- Approving, rejecting, or conditionally approving tranche releases.  
+- Issuing written justification for each decision.
 
 ---
 
-# **13. Amendments to the IC Framework**
+# **7. Decision Rights & Boundaries**
 
-This framework may be updated:
+## **7.1 IC Decision Rights**
+The IC has the authority to:
 
-- Annually during the NSC strategic cycle  
-- By 2/3 qualified majority vote  
-- When national investment policies are updated  
-- When new funding instruments are introduced  
+- approve investment tranches,  
+- request additional evidence,  
+- reject insufficient or non‑compliant submissions,  
+- apply conditional approvals,  
+- recommend corrective actions.
+
+## **7.2 Boundaries (Prohibited Interference)**
+
+To ensure neutrality and governance integrity:
+
+**The IC may NOT:**
+
+- modify evidence standards (MCF 2.1),  
+- alter maturity scoring (IMM-P®),  
+- interfere in TOU operational processes,  
+- receive external influence from political authorities,  
+- make exceptions to compliance or audit rules,  
+- approve investments without complete documentation.
 
 ---
 
-# **14. Outputs of Annex 03**
+# **8. Investment Review Workflow**
 
-This annex provides:
+```mermaid
+flowchart LR
+    A(Node Submits Evidence) --> B(TOU Evidence Check)
+    B --> C(TOU Investment Memo)
+    C --> D(IC Review Session)
+    D --> E{Decision}
+    E -->|Approve| F(Tranche Release)
+    E -->|Conditional| G(Corrective Actions)
+    E -->|Reject| H(No Release)
+```
 
-- Complete Investment Committee structure  
-- Multidimensional scoring model  
-- Due diligence workflow & diagrams  
-- Tranche funding rules  
-- Co-investment models  
-- Risk management matrix  
-- Reporting and documentation standards  
+## **8.1 Required Documentation**
+All submissions must include:
 
-It enables **transparent, rigorous, and future-aligned investment decisions** across the national incubator network.
+- validated evidence (MCF 2.1),  
+- updated KPIs,  
+- updated maturity level (IMM-P®),  
+- financial model or forecast,  
+- investment memo (Section 10 template),  
+- risk assessment worksheet,  
+- compliance declaration.
 
-## © Copyright
+---
 
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).
+# **9. Evidence Standards (MCF 2.1)**
+
+Investment decisions must be grounded exclusively in:
+
+- validated customer and problem evidence,  
+- validated solution feasibility evidence,  
+- validated business model assumptions,  
+- experiment results and insight logs,  
+- risk mitigation plans.
+
+**Evidence manipulation or inflation is grounds for immediate rejection.**
+
+---
+
+# **10. Maturity Alignment (IMM-P®)**
+
+Each investment level corresponds to a minimum IMM-P® score:
+
+| Tranche | Minimum Maturity Level | Description |
+|--------|-------------------------|-------------|
+| Seed / Pre‑Seed | 1.5 | Initial evidence + capability baseline |
+| Validation Tranche | 2.0 | Evidence + validated learning + operational capability |
+| Scaling Tranche | 2.5–3.0 | Repeatable processes + risk mitigation |
+| Expansion Tranche | 3.0+ | Operational excellence + strategic readiness |
+
+The IC must review results of the TOU’s annual maturity assessments before approving any tranche.
+
+---
+
+# **11. Risk Evaluation**
+
+Risk categories:
+
+- **Financial risk**  
+- **Operational risk**  
+- **Team risk**  
+- **Market risk**  
+- **Evidence risk**  
+- **Compliance risk**  
+- **Technology risk**
+
+Risk scoring uses a standardized matrix (Section 10 template).
+
+---
+
+# **12. IC KPIs**
+
+| KPI | Description |
+|------|-------------|
+| Decision Turnaround Time | Time from submission to decision |
+| Evidence Integrity Score | % of decisions based on validated evidence |
+| Reversal Rate | % of decisions requiring later correction |
+| Audit Reliability Score | Quality of documentation for audits |
+| Portfolio Quality Index | Aggregate performance of supported startups |
+
+---
+
+# **13. Localization Guidance**
+
+Countries may customize:
+
+- meeting schedule,  
+- membership titles,  
+- internal decision template wording.
+
+Countries may NOT customize:
+
+- IC independence rules,  
+- evidence and maturity standards,  
+- minimum documentation requirements,  
+- conflict‑of‑interest protocols.
+
+---
+
+# **14. Reference Snapshot**
+
+Primary Doulab frameworks:
+
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
+
+External influences (non-primary):
+
+- OECD Public Governance Principles  
+- World Bank GovTech Maturity Index  
+- OECD Strategic Foresight Toolkit  
+- WIPO Global Innovation Index  
+
+See **11-references.md** for full bibliography.
+
+---
+
+# **15. Licensing**
+
+This annex is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**  
+
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.

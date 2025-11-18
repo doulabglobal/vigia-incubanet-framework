@@ -1,260 +1,293 @@
-# Annex 09 — National Network Branding & Communication Guide  
-## Visual Identity • Messaging • Public Transparency • Media Framework
-
-This annex provides a unified branding and communication standard for the **National Public–Private Incubator Network**, aligned with the **Vigía Incubation Framework (VIF)** and compatible with public-sector communication requirements.
-
----
-
-# **1. Purpose of the Branding & Communication Guide**
-
-The guide ensures:
-
-- A unified and professional national identity  
-- Consistency across all incubator nodes  
-- Clear communication to entrepreneurs, investors, and the public  
-- Transparent reporting of results (aligned with [IMM-P®](https://www.doulab.net/services/innovation-maturity))  
-- Future-oriented positioning (aligned with [Vigía Futura](https://www.doulab.net/vigia-futura))  
-
-It applies to all public, private, and academic entities participating in the network.
+# Annex 09 — Branding & Communication Framework  
+## Identity, Messaging, Communication Protocols & Public Transparency  
+### Vigía Incubation Framework (VIF)  
+**National Public–Private Incubator Network Guide — Version 1.2**
 
 ---
 
-# **2. Core Brand Architecture**
+# **1. Introduction**
 
-## **2.1 Brand Levels**
+This annex defines the **branding, identity, communication, and public transparency standards** for all actors operating within the **Vigía Incubation Framework (VIF)**, including:
 
-| Level | Description | Examples |
-|-------|-------------|----------|
-| **National Brand** | Represents entire incubator network | IncubaX / National Program Name |
-| **Framework Brand** | Methodological layer | VIF • [MCF 2.1](https://www.themicrocanvas.com) • [IMM-P®](https://www.doulab.net/services/innovation-maturity) • [Vigía Futura](https://www.doulab.net/vigia-futura) |
-| **Node Brand** | Individual incubator identity | Local public, private, university incubators |
+- national innovation authorities,  
+- public–private incubator nodes,  
+- startups participating in the network,  
+- universities and research centers,  
+- investors and co-investors,  
+- the National Steering Council (NSC),  
+- the Technical Operations Unit (TOU),  
+- the Investment Committee (IC).
 
----
+The purpose of this annex is to:
 
-## **2.2 Relationship Diagram**
+- ensure consistent use of the national incubator network brand,  
+- protect the credibility and integrity of the system,  
+- standardize messaging across public and private organizations,  
+- reduce communication risks and misrepresentation,  
+- align public communication with evidence (MCF 2.1) and maturity (IMM-P®),  
+- ensure transparency without compromising compliance or confidentiality,  
+- reflect futures-oriented insights from **Vigía Futura**.
 
-```mermaid
-flowchart TB
-    A[National Network Brand] --> B[VIF Framework]
-    B --> C["[MCF 2.1](https://www.themicrocanvas.com)"]
-    B --> D["[IMM-P®](https://www.doulab.net/services/innovation-maturity)"]
-    B --> E["[Vigía Futura](https://www.doulab.net/vigia-futura)"]
-    A --> F[Incubator Nodes Branding System]
-```
-
----
-
-# **3. Brand Elements**
-
-## **3.1 Core Logo Guidelines**
-
-- National brand must appear on all official documents  
-- Nodes may retain their branding but must include “Member of the National Incubator Network”  
-- Logos must not distort, recolor, or be modified  
-- Use SVG or high-resolution PNG  
+This annex serves as the official guide for all branding and communication activities across the national network.
 
 ---
 
-## **3.2 Typography**
+# **2. How to Use This Annex**
 
-Recommended fonts:
+### **2.1 Mandatory Components (Non‑Negotiable)**  
+Must be followed exactly as defined:
 
-| Category | Font | Notes |
-|-----------|--------|--------|
-| Headings | Inter / Montserrat | Clean, modern |
-| Body | Inter / Roboto | Highly readable |
-| Code / Technical | JetBrains Mono | For MCF/tech docs |
+- usage of the official national branding elements,  
+- communication protocols and approval chains,  
+- IC independence (communications must not influence investment decisions),  
+- accurate representation of data based on VIF evidence standards,  
+- use of VIF trademarks and proprietary frameworks,  
+- compliance with Annex 07 (Data Privacy & Sharing),  
+- transparent public reporting standards,  
+- rules governing political neutrality.
 
----
+### **2.2 Adaptable Components**  
+May be localized according to national context:
 
-## **3.3 Color Palette (Suggested)**
+- color variations to match national identity (while keeping core VIF marks intact),  
+- font families (as long as legibility/accessibility is preserved),  
+- multilingual adaptations,  
+- national transparency requirements,  
+- inclusion of relevant government ministry logos,  
+- adaptations to communication channels (e.g., WhatsApp, SMS, national portals).
 
-| Color | Hex | Use |
-|--------|--------|--------|
-| Deep Indigo | #38249a | Primary |
-| Teal / Cyan | #72c53c | Highlights |
-| Purple | #964590 | Secondary |
-| Charcoal | #484854 | Text |
-| White | #ffffff | Background |
+### **2.3 Prohibited Modifications**  
+Countries **may NOT**:
 
-These match [Doulab](https://doulab.net)'s palette for compatibility.
-
----
-
-## **3.4 Voice & Tone**
-
-The national network should communicate with:
-
-- **Clarity** (evidence-based, simple)  
-- **Neutrality** (non-partisan, professional)  
-- **Forward-thinking** (foresight-oriented)  
-- **Supportive tone** toward founders  
-
----
-
-# **4. Messaging Framework**
-
-## **4.1 Elevator Pitch**
-
-“[National Program Name] is the unified public–private incubator network accelerating high-quality startups using the Vigía Incubation Framework, supported by evidence-based methods ([MCF 2.1](https://www.themicrocanvas.com)), innovation maturity principles [(IMM-P®)](https://www.doulab.net/services/innovation-maturity), and strategic foresight ([Vigía Futura](https://www.doulab.net/vigia-futura)).”
+- alter or rebrand MicroCanvas®, IMM-P®, or Vigía Futura,  
+- modify official templates or logos without authorization,  
+- use branding to promote political campaigns,  
+- claim credit for proprietary Doulab methodologies,  
+- misrepresent evidence, KPIs, or maturity results,  
+- use VIF branding for unrelated or unauthorized initiatives.
 
 ---
 
-## **4.2 Key Messages by Audience**
-
-| Audience | Core Message | Supporting Points |
-|-----------|--------------|---------------------|
-| Founders | “We help you build investable startups.” | Evidence, mentorship, capital access |
-| Investors | “We reduce risk with validated evidence.” | Due diligence templates, co-investment |
-| Government | “We strengthen national competitiveness.” | KPIs, maturity, economic impact |
-| Academia | “We connect research to the market.” | IP frameworks, licensing |
-| Public | “We support innovation and job creation.” | Transparency reports |
-
----
-
-# **5. Communication Channels**
-
-## **5.1 Mandatory Channels**
-
-- National website  
-- National KPI dashboard  
-- Annual report (public)  
-- Press releases for major milestones  
-- Founder-facing knowledge base  
-
-## **5.2 Optional Channels**
-
-- Social media (LinkedIn, X)  
-- Printed brochures  
-- Event materials  
-- YouTube for demo days  
-
----
-
-# **6. Transparency & Reporting Templates**
-
-Aligned with [IMM-P®](https://www.doulab.net/services/innovation-maturity) and VIF.
-
-## **6.1 Annual National Report Structure**
-
-| Section | Summary |
-|----------|----------|
-| Overview | Program purpose & milestones |
-| KPIs | National dashboard summary |
-| Investment | Capital deployed, ROI indicators |
-| Nodes | Performance by incubator |
-| Foresight | Sector trends ([Vigía Futura](https://www.doulab.net/vigia-futura)) |
-| Policy | Recommendations to government |
-
----
-
-## **6.2 Quarterly Public Summary (One-Page Template)**
-
-| Metric | Current | Previous | Trend |
-|---------|----------|-----------|--------|
-| Startups Supported | ___ | ___ | ↑/↓ |
-| Capital Deployed | ___ | ___ | ↑/↓ |
-| Validation Rate | ___% | ___% | ↑/↓ |
-| Traction Growth | ___% | ___% | ↑/↓ |
-| Sector Signals | Summary | — | — |
-
----
-
-# **7. Branding for Incubator Nodes**
-
-Nodes must:
-
-1. Keep existing brand identity  
-2. Add national network affiliation in all materials  
-3. Use harmonized templates for:  
-   - Pitch decks  
-   - Startup reports  
-   - Certificates  
-   - Events  
-
-## **7.1 Node Co-Branding Example**
-
-```mermaid
-flowchart LR
-    A[Incubator Node Logo] --> C[Program Material]
-    B[National Network Badge] --> C
-```
-
----
-
-# **8. Media & Public Relations Protocol**
-
-## **8.1 Press Release Workflow**
+# **3. Branding Architecture Diagram**
 
 ```mermaid
 flowchart TD
-    A[Node Prepares Draft] --> B[TOU Review]
-    B --> C[NSC Approval]
-    C --> D[Publication]
+    A(National Identity) --> B(VIF Core Brand)
+    B --> C(Incubator Node Branding)
+    B --> D(Program Branding)
+    B --> E(Startups' Public Communications)
+    C --> F(Templates & Visual Assets)
+    D --> G(Campaigns & Public Outreach)
+    E --> H(Transparency & Evidence-Based Communication)
 ```
 
 ---
 
-## **8.2 Crisis Communication Protocol**
+# **4. VIF Brand System: Core Elements**
 
-- Respond within 24 hours  
-- TOU handles internal communication  
-- NSC approves public messaging  
-- Maintain transparency with minimal disclosure  
-- Use a “facts-first” approach  
+### **4.1 Logo & Visual System**
+- Official national VIF logo (central identity).  
+- Sub-brand lockups for incubator nodes.  
+- Approved horizontal and vertical variants.  
+- Minimum spacing and size requirements.
 
----
+### **4.2 Color Palette**
+A standardized palette ensures consistency:
 
-# **9. Digital & Web Standards**
+| Purpose | Color | Notes |
+|--------|--------|-------|
+| National Identity | To be set by local authority | Adjustable |
+| VIF Primary | Deep Blue / Neutral variants | Non-negotiable |
+| Supportive Colors | Local auxiliary palette | Must ensure contrast and accessibility |
 
-## **9.1 Website Requirements**
+### **4.3 Typography**
+- Primary font (recommended): Sans-serif modern family.  
+- Secondary font (for long-form text): Serif optional.  
+- Minimum accessibility requirements (WCAG AA).
 
-- Mobile-first design  
-- Accessibility (WCAG 2.1)  
-- Minimal tracking (privacy-first)  
-- Clear navigation for founders and investors  
-- Integration with national KPI dashboard  
-
----
-
-# **10. Allowed & Prohibited Uses**
-
-### **Allowed**
-- Co-branding with incubator nodes  
-- Use in pitch events, demo days, official reports  
-- Institutional presentations  
-
-### **Prohibited**
-- Political endorsements  
-- Commercial advertising unrelated to startups  
-- Recoloring or altering logos  
-- Implying government funding without IC approval  
+### **4.4 Usage Guidelines**
+- No stretching, distortion, or recoloring of official logos.  
+- Placement rules for co-branded materials.  
+- Clear space requirements.  
+- Protection against misuse.
 
 ---
 
-# **11. Sign-Off & Governance**
+# **5. Communication Protocols (Governance-Aligned)**
 
-Branding governance is led by:
+### **5.1 NSC Communication Role (Strategic Level)**
+The NSC is responsible for:
 
-- **NSC** — strategic oversight  
-- **TOU Communications Unit** — operational management  
+- national communication strategy,  
+- major public announcements,  
+- foresight-aligned narrative direction,  
+- alignment with national development strategy,  
+- annual transparency reports.
 
-Changes to brand identity require NSC approval.
+### **5.2 TOU Communication Role (Operational Level)**
+The TOU oversees:
+
+- operational announcements,  
+- program calendars,  
+- public reporting of KPIs,  
+- dissemination of calls for applications,  
+- publication of templates and guidelines,  
+- crisis communication execution.
+
+### **5.3 IC Communication Role (Restricted)**
+The Investment Committee may:
+
+- publish **process-related** communications (e.g., evaluation cycles),  
+- publish anonymized performance summaries.
+
+The IC may **not**:
+
+- issue recommendations directly to startups,  
+- publish any startup‑specific evidence, KPIs, or decisions,  
+- make promotional statements,  
+- engage in public commentary about ongoing investment processes.
+
+### **5.4 Incubator Nodes**
+Nodes must:
+
+- use approved templates,  
+- follow TOU review/approval processes before issuing materials,  
+- conduct public events aligned with national guidance,  
+- ensure accurate representation of evidence and KPIs,  
+- avoid overstatement of results or guarantees.
+
+### **5.5 Startups**
+Startups must:
+
+- avoid misrepresenting their maturity or evidence,  
+- avoid fabricating KPIs or user metrics,  
+- request approval before using national network branding,  
+- follow Annex 07 rules when mentioning users or data,  
+- refrain from political messaging using the national brand.
 
 ---
 
-# **12. Outputs of Annex 09**
+# **6. Evidence‑Based Communication Requirements**
 
-This annex provides:
+All communication must align with VIF’s evidence and maturity principles.
 
-- Full national branding system  
-- Templates and messaging frameworks  
-- Transparency and communication guidelines  
-- Diagrams for workflows and co-branding  
-- Ready-to-use structure for both national and node-level branding
+### **6.1 Mandatory Elements**
+- Every claim must be supported by verifiable evidence (MCF 2.1).  
+- Maturity levels must reflect IMM-P® assessments.  
+- KPI reporting must be accurate and auditable.  
+- Media and public materials must avoid premature claims.
 
-## © Copyright
+### **6.2 Prohibited Practices**
+- Exaggerated claims about user growth, investment, or traction.  
+- Statements implying guaranteed outcomes.  
+- Claiming endorsements by NSC, TOU, IC, or the government.  
+- Using confidential or personal data in marketing.
 
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).
+---
+
+# **7. Digital Communication Standards**
+
+### **7.1 Website & Portal Standards**
+- Accessibility: WCAG AA compliance.  
+- Clear attribution to VIF.  
+- Correct use of logos and disclaimers.  
+- Open graph metadata standards.  
+- Analytics practices aligned with privacy laws (Annex 07).
+
+### **7.2 Social Media**
+- Clear guidelines for posts, shared content, co-branding, and partner mentions.  
+- Mandatory disclaimers when communicating early-stage results.  
+- Prohibition of political content.
+
+### **7.3 Public Data & Dashboards**
+- Use anonymized KPI sets.  
+- Avoid raw data releases unless legally required.  
+- Ensure transparency while protecting confidentiality.
+
+---
+
+# **8. Brand Misuse: Examples & Enforcement**
+
+### **8.1 Acceptable**
+- Announcing participation in the national network.  
+- Sharing validated progress.  
+- Publishing events, calls, or workshops.  
+- Acknowledging support from incubator nodes.
+
+### **8.2 Restricted (Requires Approval)**
+- Using logos in investor decks.  
+- Co‑branding with private sponsors.  
+- Announcing major program achievements.  
+- Launching public campaigns.
+
+### **8.3 Prohibited**
+- Using VIF identity for political campaigns.  
+- Using the brand to imply government endorsement of a startup.  
+- Misrepresenting maturity, evidence, or KPI data.  
+- Altering logos or proprietary frameworks.  
+- Sharing confidential evidence or user data.
+
+---
+
+# **9. Crisis Communication Protocol**
+
+### **9.1 Trigger Conditions**
+- data breach (Annex 07),  
+- fraud or evidence manipulation,  
+- misconduct by startups or mentors,  
+- reputational threats to the network,  
+- legal non‑compliance or media controversies.
+
+### **9.2 Response Framework**
+1. Immediate notification to TOU.  
+2. NSC oversight for severe cases.  
+3. Temporary suspension of public communication by affected node/startup.  
+4. Official statement prepared by TOU.  
+5. Follow‑up transparency report when applicable.
+
+---
+
+# **10. Localization Guidance**
+
+Countries must adapt:
+
+- national transparency laws and communication obligations,  
+- local accessibility requirements,  
+- multilingual identity adaptations,  
+- national color and symbol requirements.
+
+Countries may NOT:
+
+- alter or rebrand proprietary frameworks (MCF, IMM-P®, Vigía Futura),  
+- change governance-related communication rules,  
+- dilute evidence-based communication principles,  
+- use the national incubator branding for political messaging.
+
+---
+
+# **11. Reference Snapshot**
+
+Primary Doulab frameworks:
+
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
+
+External influences (non-primary):
+
+- OECD Guiding Principles for Public Communication  
+- UNESCO Guidelines for Ethical Communication  
+- OECD Public Governance Principles  
+- WIPO Guidelines on Branding for Innovation Ecosystems  
+- WCAG Accessibility Standards  
+
+Full bibliography available in **11-references.md**.
+
+---
+
+# **12. Licensing**
+
+This annex is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**  
+
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.

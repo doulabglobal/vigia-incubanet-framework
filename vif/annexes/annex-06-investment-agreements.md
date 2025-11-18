@@ -1,339 +1,314 @@
-# Annex 06 — Investment Agreement Templates  
-## Grant Agreement • SAFE/Convertible Note • Co‑Investment Agreement
-
-This annex provides **three complete investment agreement templates** for use within the National Public–Private Incubator Network under the **Vigía Incubation Framework (VIF)**.  
-Each template is structured, modular, and easily adaptable to local legal frameworks.
-
----
-
-# ============================
-# **A. GRANT AGREEMENT TEMPLATE**
-# ============================
-
-# **1. Parties**
-
-This Grant Agreement (“Agreement”) is entered into between:
-
-| Party | Role | Details |
-|-------|------|----------|
-| **Grantor** | National Innovation Fund / Public Agency | Name, legal identity, address |
-| **Grantee** | Startup / Venture | Legal name, founders, registration, address |
+# Annex 06 — Investment Agreements  
+## Templates for Grants, SAFE/Convertible Notes & Co‑Investment  
+### Vigía Incubation Framework (VIF)  
+**National Public–Private Incubator Network Guide — Version 1.2**
 
 ---
 
-# **2. Purpose of the Grant**
+# **1. Introduction**
 
-The Grantor agrees to provide non‑dilutive financial support to the Grantee for the purpose of:
+This annex provides the standardized **investment agreement templates** used within the **Vigía Incubation Framework (VIF)**.  
+These templates ensure that all investment-related instruments:
 
-- Startup incubation and early-stage development  
-- Activities aligned with [MCF 2.1](https://www.themicrocanvas.com) evidence requirements  
-- Achievement of milestones defined in the Project Plan  
-- Advancing national-sector priorities ([Vigía Futura](https://www.doulab.net/vigia-futura))  
+- follow evidence and maturity standards (MCF 2.1, IMM-P®),  
+- comply with governance (NSC, TOU, IC),  
+- maintain auditability and transparency,  
+- respect conflict‑of‑interest and compliance rules,  
+- integrate with national co‑investment and funding mechanisms,  
+- are legally adaptable for public and private sectors.
 
----
+This annex includes the three approved investment instruments:
 
-# **3. Grant Amount & Disbursement Schedule**
+1. **Grant Agreement (Non‑Equity, Evidence-Based Tranches)**
+2. **SAFE / Convertible Note Agreement (Equity-Linked Early-Stage Instrument)**
+3. **Co-Investment Agreement (Government + Private Investors)**
 
-| Tranche | Amount | Trigger | Evidence Required |
-|---------|---------|----------|---------------------|
-| T1 | ___ | MVP completion | Prototype + MCF evidence |
-| T2 | ___ | Validation | Customer insights + traction |
-| T3 | ___ | Growth readiness | Revenue or user KPIs |
-
-All disbursements require TOU verification.
-
----
-
-# **4. Obligations of the Grantee**
-
-The Grantee must:
-
-- Use grant funds exclusively for project activities  
-- Maintain accurate financial records  
-- Submit quarterly KPI and evidence reports  
-- Participate in monitoring and evaluation activities  
-- Comply with IP, data governance, and ethical guidelines  
+These templates support **Section 05 — Funding Model**, **Annex 03 — IC**, and **Section 10 — Templates**.
 
 ---
 
-# **5. Reporting Requirements**
+# **2. How to Use This Annex**
 
-| Report | Frequency | Submitted To |
-|--------|-----------|---------------|
-| KPI + Evidence Report | Quarterly | TOU |
-| Financial Expenditure Report | Quarterly | TOU |
-| Final Completion Report | End of grant | TOU + IC |
+This annex defines the **minimum required structure** for all investment agreements in VIF.
 
-Failure to report may suspend future disbursements.
+### **Mandatory Components (Not Negotiable)**
+- Evidence validation via MCF 2.1  
+- Maturity alignment (IMM-P® minimum thresholds)  
+- TOU evidence checks  
+- IC investment authority  
+- KPI reporting obligations  
+- Auditability and compliance  
+- Conflict‑of‑interest rules  
+- Prohibition on political interference  
 
----
+### **Adaptable Components**
+- Valuation caps  
+- Tranche size  
+- Co-investor structure  
+- Repayment terms (if required by local law)  
+- Governing law and jurisdiction  
 
-# **6. Use of Funds**
-
-Permitted uses:
-- Product development  
-- Research and testing  
-- IP filings  
-- Talent and technical work  
-- Customer discovery  
-
-Prohibited uses:
-- Founder salaries above limits  
-- Personal expenses  
-- Debt repayment  
-- Non-project-related travel  
-
----
-
-# **7. Clawback Clause**
-
-Grantor may reclaim funds if:
-- Fraud or misrepresentation is detected  
-- Evidence of misuse is verified  
-- KPIs are falsified  
-- Grantee ceases operations without notice  
+### **Prohibited Modifications**
+Countries may **NOT** change:
+- IC independence  
+- Evidence standards  
+- Maturity thresholds  
+- Required documentation  
+- Risk disclosure obligations  
 
 ---
 
-# **8. Termination**
+# **3. Investment Agreement Architecture**
 
-This Agreement may be terminated:
-- By mutual agreement  
-- For breach (30-day cure period)  
-- For repeated reporting failure  
-- Upon NSC recommendation  
-
----
-
-# **9. Signatures**
-
-Grantor: ___________________   Date: __________  
-Grantee: ____________________  Date: __________  
+```mermaid
+flowchart TD
+    A(Investment Instrument) --> B(Grant Agreement)
+    A --> C(SAFE / Convertible Note)
+    A --> D(Co-Investment Agreement)
+    B --> E(Evidence & KPIs)
+    C --> F(Valuation & Conversion)
+    D --> G(Risk Allocation & Governance)
+```
 
 ---
 
-# ======================================
-# **B. SAFE / CONVERTIBLE NOTE TEMPLATE**
-# ======================================
+# **4. Evidence & Maturity Preconditions (All Instruments)**
 
-# **1. Parties**
+Before any investment is approved:
 
-| Party | Role | Details |
-|------|-------|----------|
-| Investor | Public Innovation Fund / Private Investor | Identity, address |
-| Company | Startup | Legal details |
+## **4.1 Evidence Requirements (MCF 2.1)**  
+The startup must provide:
 
----
+- validated problem evidence  
+- validated customer evidence  
+- validated solution feasibility  
+- validated business model assumptions  
+- experiment logs  
+- learning insights  
+- risk mitigation plans  
 
-# **2. Instrument Type**
+## **4.2 Maturity Requirements (IMM-P®)**  
+Minimum thresholds:
 
-This Agreement uses one of the following instruments (select one):
+| Stage | Minimum IMM-P® Score | Description |
+|-------|-----------------------|-------------|
+| Pre-Seed Grant | 1.5 | Basic evidence validated |
+| Validation Tranche | 2.0 | Repeatable evidence & learning |
+| Scaling Capital | 2.5–3.0 | Operational consistency |
+| Expansion Capital | 3.0+ | Institutional readiness |
 
-- **Simple Agreement for Future Equity (SAFE)**  
-- **Convertible Note**  
-
----
-
-# **3. Investment Amount**
-
-Total amount invested: **___**
-
-Disbursed in tranches per IC approval.
-
----
-
-# **4. Valuation Terms**
-
-| Term | Definition | Value |
-|-------|-------------|--------|
-| Valuation Cap | Maximum valuation for conversion | ___ |
-| Discount Rate | % discount at conversion | ___ |
-| Trigger Events | Equity financing / liquidity / sale | Defined below |
+No investment may proceed without TOU evidence verification and IC approval.
 
 ---
 
-# **5. Conversion Triggers**
+# **5. Template 1 — Grant Agreement**  
+(Non‑Equity, Tranche‑Based Funding)
 
-The investment converts into equity upon any of the following:
+---
 
-- Qualified equity financing  
+## **5.1 Purpose**
+
+The Grant Agreement establishes non‑equity, milestone‑linked financial support for early-stage startups.
+
+## **5.2 Structure**
+
+| Component | Requirement |
+|-----------|-------------|
+| Type | Non‑equity financial support |
+| Governance | IC approval + TOU verification |
+| Disbursement | Evidence-based tranches |
+| Reporting | KPI monthly + evidence logs |
+| Audits | Mandatory |
+| Repayment | Only in cases of fraud or misuse |
+
+---
+
+## **5.3 Core Clauses**
+
+### **Article 1 — Parties**
+- Granting Authority (government/public entity)  
+- Recipient Startup  
+
+### **Article 2 — Grant Amount & Tranches**
+- Total Amount  
+- Tranche Structure  
+- Required Evidence For Each Tranche  
+
+### **Article 3 — Reporting Obligations**
+- Monthly KPI report  
+- Quarterly IC readiness update  
+- Full evidence logs  
+
+### **Article 4 — Compliance**
+- Data accuracy  
+- Fund usage rules  
+- Audit cooperation  
+
+### **Article 5 — Misuse & Remedies**
+- Repayment triggered by:  
+  - fraud,  
+  - falsified evidence,  
+  - non‑compliance.  
+
+### **Article 6 — Termination**
+- For breach or termination of participation.
+
+---
+
+# **6. Template 2 — SAFE / Convertible Note Agreement**  
+(Equity-Linked Early-Stage Instrument)
+
+---
+
+## **6.1 Purpose**
+
+A standardized early-stage financing instrument used by public and private investors under VIF.
+
+## **6.2 Structure**
+
+| Component | Requirement |
+|----------|------------|
+| Type | SAFE or Convertible Note |
+| Equity | Converts at priced round or trigger event |
+| Governance | IC approval |
+| Evidence | Required for each tranche |
+| Valuation Cap | Adaptable |
+| Discounts | Allowed |
+
+---
+
+## **6.3 Core Clauses**
+
+### **Article 1 — Parties**  
+- Investor (public or private)  
+- Startup  
+
+### **Article 2 — Investment Amount**
+
+### **Article 3 — Conversion Triggers**
+- Equity financing  
 - Change of control  
-- Liquidity event  
-- At maturity (convertible note only)  
+- Expiration date (if convertible note)
+
+### **Article 4 — Valuation Cap & Discount**
+
+### **Article 5 — IC & TOU Governance Binding**
+Conversion validity requires:
+
+- evidence integrity  
+- maturity compliance  
+- IC approval  
+
+### **Article 6 — Representations & Warranties**
+
+### **Article 7 — Risk Disclosures**
+
+### **Article 8 — Termination**
 
 ---
 
-# **6. Representations of the Company**
-
-The Company warrants that:
-
-- All evidence submitted follows [MCF 2.1](https://www.themicrocanvas.com) standards  
-- Financial statements are accurate  
-- No unresolved litigation exists  
-- Founders have authority to execute the agreement  
+# **7. Template 3 — Co‑Investment Agreement**  
+(Government + Private Investors)
 
 ---
 
-# **7. Investor Rights (Minimal, Founder-Friendly)**
+## **7.1 Purpose**
 
-- Right to receive quarterly reports  
-- Right to attend demo days & investor briefings  
-- No control or voting rights until conversion  
-- Right to be notified of any material changes  
+Defines the financial relationship between:
 
----
-
-# **8. Optional Side Letters**
-
-May include:
-- Board observer rights  
-- Information rights  
-- Follow‑on participation rights  
+- government innovation authority,  
+- private-sector investors,  
+- participating startups.
 
 ---
 
-# **9. Termination**
+## **7.2 Structure**
 
-Automatic upon conversion or repayment (if applicable).
-
----
-
-# **10. Signatures**
-
-Investor: ___________________   Date: __________  
-Company: ___________________   Date: __________  
-
----
-
-# ============================================
-# **C. CO‑INVESTMENT AGREEMENT TEMPLATE**
-# ============================================
-
-# **1. Parties**
-
-This Co-Investment Agreement is made between:
-
-| Party | Type | Contribution |
-|-------|------|--------------|
-| Government Co-Investor | Public | Percentage or amount |
-| Private Co-Investor | VC, Angel, Corporate | Percentage or amount |
-| Startup | Beneficiary | Equity to be issued |
+| Component | Requirement |
+|-----------|-------------|
+| Type | Direct co‑investment |
+| Governance | IC approval mandatory |
+| Evidence | MCF 2.1 compliance |
+| Maturity | IMM-P® compliance |
+| Risk Allocation | Shared + disclosed |
+| Reporting | Full transparency |
 
 ---
 
-# **2. Purpose**
+## **7.3 Core Clauses**
 
-This Agreement establishes a coordinated investment in the Startup, enabling blended financing aligned with:
+### **Article 1 — Parties**  
+- Government Investor  
+- Private Investor(s)  
+- Startup  
 
-- National Innovation Fund rules  
-- [Vigía Futura](https://www.doulab.net/vigia-futura) sector priorities  
-- Maturity-aligned risk distribution  
-- Investment Committee approval  
+### **Article 2 — Investment Amounts & Ratios**
 
----
+### **Article 3 — Risk Allocation**
+Includes:  
+- operational risk,  
+- market risk,  
+- financial risk,  
+- compliance risk,  
+- data risk,  
+- fraud risk.
 
-# **3. Investment Structure**
+### **Article 4 — Governance Alignment**
+All investments are bound by:  
+- IC independence  
+- TOU evidence checks  
+- MCF 2.1  
+- IMM-P®  
 
-| Investor | Amount | Instrument | Equity Target |
-|----------|---------|-------------|----------------|
-| Public Investor | ___ | SAFE/Grant/Note | ___% |
-| Private Investor | ___ | SAFE/Note | ___% |
+### **Article 5 — Reporting Obligations**
+- KPI sharing  
+- financial reports  
+- audits  
 
-Investments are simultaneous unless agreed otherwise.
-
----
-
-# **4. Rights & Obligations**
-
-## **4.1 Public Investor**
-- Provide validation-based financing  
-- Maintain neutrality during evaluation  
-- Ensure transparency & compliance  
-
-## **4.2 Private Investor**
-- Conduct independent due diligence  
-- Provide strategic mentorship or market access  
-- Respect confidentiality and ethical norms  
-
-## **4.3 Startup**
-- Maintain proper evidence and financials  
-- Meet milestone requirements  
-- Provide access to KPIs and traction data  
+### **Article 6 — Exit & Liquidation**
 
 ---
 
-# **5. Decision-Making & Governance**
+# **8. Localization Guidance**
 
-Co-investors agree to:
+Countries may adapt:
 
-- Align with IC decisions  
-- Participate in periodic performance reviews  
-- Follow tranche-based funding triggers  
-- Use standardized reporting templates  
+- valuation caps,  
+- repayment/interest rules (if legally required),  
+- formats for co‑investment,  
+- governing law and jurisdiction.
 
----
+Countries may NOT modify:
 
-# **6. Risk Allocation Table**
-
-| Risk Type | Public Share | Private Share | Notes |
-|------------|---------------|----------------|--------|
-| Market | Medium | Medium | Depends on sector |
-| Technical | Low | High | Private does deeper diligence |
-| Financial | Medium | Medium | Based on tranche flow |
-| Regulatory | High | Low | Public manages compliance |
+- evidence requirements,  
+- maturity alignment,  
+- IC independence,  
+- compliance and COI rules.
 
 ---
 
-# **7. Reporting Requirements**
+# **9. Reference Snapshot**
 
-| Report | Frequency | Owner |
-|--------|-----------|--------|
-| Startup Progress Report | Quarterly | Startup → Investors |
-| Evidence Update | Quarterly | Startup → TOU |
-| Co-Investment Review | Biannual | Investors |
-| Financial Reporting | Quarterly | Startup |
+Primary Doulab frameworks:
 
----
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
 
-# **8. Exit & Liquidation Preferences**
+External influences:
 
-Default waterfall (modifiable):
+- OECD Public Governance Principles  
+- World Bank GovTech Maturity Index  
+- OECD Strategic Foresight Toolkit  
+- WIPO Global Innovation Index  
 
-1. Repayment to investors (if applicable)  
-2. Conversion into equity at agreed valuation  
-3. Distribution of proceeds based on shareholdings  
+See **11-references.md** for the full bibliography.
 
 ---
 
-# **9. Confidentiality Clause**
+# **10. Licensing**
 
-All information exchanged shall remain confidential unless:
-- Required by law  
-- Required by NSC or IC reporting  
-- All parties consent in writing  
+This annex is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **../LICENSE.md**  
 
----
-
-# **10. Signatures**
-
-Public Investor: ________________________   Date: _______  
-Private Investor: _______________________   Date: _______  
-Startup Representative: _________________  Date: _______  
-
----
-
-# **11. Outputs of Annex 06**
-
-This annex provides:
-
-- Fully structured **Grant Agreement** template  
-- Standard **SAFE/Convertible Note** template  
-- Comprehensive **Co-Investment Agreement** template  
-- Tables for risk, valuation, contributions, and tranching  
-- Standard clauses aligned with MCF, [IMM-P®](https://www.doulab.net/services/innovation-maturity), and [Vigía Futura](https://www.doulab.net/vigia-futura)
-
-## © Copyright
-
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.

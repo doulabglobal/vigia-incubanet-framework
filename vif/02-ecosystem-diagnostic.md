@@ -1,199 +1,253 @@
-# 02 – Ecosystem Diagnostic
-
-## **2.1 Purpose of the Diagnostic**
-
-The ecosystem diagnostic is the foundational step of the Vigía Incubation Framework (VIF).  
-Its purpose is to provide a **structured, evidence-based understanding** of a country’s innovation environment before designing any national incubator network.
-
-Using the principles of:
-
-- **[MCF 2.1](https://www.themicrocanvas.com)** → structural problem framing  
-- **[IMM-P®](https://www.doulab.net/services/innovation-maturity)** → ecosystem capability scoring  
-- **[Vigía Futura](https://www.doulab.net/vigia-futura)** → foresight-aligned sector analysis  
-
-…the diagnostic becomes a **systemic map** of the ecosystem's strengths, gaps, constraints, and future opportunities.
+# 02 — Ecosystem Diagnostic  
+## Vigía Incubation Framework (VIF)  
+**National Public–Private Incubation Network Guide — Version 1.2**
 
 ---
 
-## **2.2 Diagnostic Methodology**
+# **1. Introduction**
 
-The diagnostic process follows a three-tier logic:
+A national public–private incubation network can only succeed if the country fully understands the structure, strengths, weaknesses, capabilities, and limitations of its innovation ecosystem.  
+The **Ecosystem Diagnostic** is the foundational step of VIF and determines:
 
-### **Tier 1 — Structural Analysis ([MCF 2.1](https://www.themicrocanvas.com) Problem Space)**
-Understanding the “as-is” condition of the ecosystem:
-- Frictions and barriers  
-- Institutional fragmentation  
-- Capital flow restrictions  
-- Talent bottlenecks  
-- Regulatory constraints  
-- Market access challenges  
-- Evidence gaps and data fragmentation  
+- Whether the country is ready for a unified national incubation system  
+- Which institutions should participate as incubator nodes  
+- The maturity and capability gaps that need to be addressed  
+- Which sectors and regional clusters offer the highest potential  
+- The risks and structural constraints the national system must navigate  
 
-This step builds the **problem architecture** that the incubator network must be designed to solve.
+This section must be read **before** Sections 03–05, as it provides the analytical foundation for the system architecture, governance model, and funding structure.
 
----
-
-### **Tier 2 — Capability Assessment ([IMM-P®](https://www.doulab.net/services/innovation-maturity) Ecosystem Maturity)**
-Here, we score ecosystem capabilities across multiple dimensions:
-
-1. **Governance & Coordination**
-2. **Policy Stability & Institutional Strength**
-3. **Access to Finance (Public & Private)**
-4. **Talent Density & Skill Alignment**
-5. **Research & Commercialization Capacity**
-6. **Acceleration & Incubation Infrastructure**
-7. **Market Competitiveness & Export Readiness**
-8. **Data Infrastructure & Digital Public Goods**
-9. **Global Connectivity & International Linkages**
-
-Each dimension is evaluated using a **Yes/No evidence model**, complemented by [IMM-P](https://www.doulab.net/services/innovation-maturity) maturity levels from **0 (ad hoc)** to **4 (institutionalized)**.
-
-The outcome is a **capability heatmap** that shows where the ecosystem stands today.
+For navigation support, see **00a — How to Use VIF**.  
+For terminology, see **00c — Glossary**.
 
 ---
 
-### **Tier 3 — Foresight & Future Opportunities ([Vigía Futura](https://www.doulab.net/vigia-futura))**
+# **2. Purpose of the Diagnostic**
 
-A mature incubator network must be aligned with **sector opportunities of the future**, not only current trends.
+The diagnostic provides a **structured, evidence-based assessment** of the national innovation ecosystem, helping to answer:
 
-This step analyzes:
+1. What institutions currently exist?  
+2. What roles do they play?  
+3. How capable are they (based on IMM-P®)?  
+4. What gaps must be addressed for a national network to function?  
+5. Which sectors show future potential (via Vigía Futura)?  
+6. What structural constraints could influence implementation?  
 
-- Global sector shifts  
-- Weak signals and emerging trends  
-- Regional competitive movement  
-- Possible disruption points  
-- Future talent and infrastructure needs  
-- New markets enabled by exponential technologies  
-
-The result is a **foresight-informed prioritization** of sectors for the national incubator network.
+The diagnostic ensures VIF is **adapted to the country’s real context**, not deployed as a generic model.
 
 ---
 
-## **2.3 Key Areas of Analysis**
+# **3. Diagnostic Framework Overview**
 
-### **1. Institutional Coordination**
-Questions assessed:
-- Are ecosystem actors aligned?  
-- Are mandates clear and non-overlapping?  
-- Is there a national governance structure?  
+The Ecosystem Diagnostic integrates three Doulab methodologies:
 
-Outputs:
-- Map of public–private institutions  
-- Identification of coordination gaps  
-- Proposed governance architecture
+| Framework | What It Contributes | Diagnostic Role |
+|----------|----------------------|-----------------|
+| **MCF 2.1** | Evidence structure for venture-level insights | Ensures that incubator pipelines are assessed on evidence, not assumptions |
+| **IMM-P®** | Capability and governance maturity scoring | Evaluates institutional readiness |
+| **Vigía Futura** | Future sector mapping & weak signals | Identifies emerging opportunities |
 
----
-
-### **2. Funding & Capital Landscape**
-
-Evaluation of:
-- Seed, early-stage, and growth capital availability  
-- VC presence (local and international)  
-- Public funding instruments  
-- Private co-investment appetite  
-- Diaspora investment channels  
-- Barriers to capital formation  
-
-Outputs:
-- Capital flow map  
-- Funding gap analysis  
-- Feasibility of a national innovation fund  
+Together, they produce a **multi-layer national snapshot**.
 
 ---
 
-### **3. Talent & Human Capital**
+# **4. Diagnostic Process Flow**
 
-Assessment includes:
-- Technical skills (AI, software, engineering, biotech)  
-- Entrepreneurial capabilities  
-- University–industry alignment  
-- Workforce upskilling mechanisms  
-- Talent retention & diaspora dynamics  
-- Training programs benchmarking  
-
-Outputs:
-- Talent bottlenecks  
-- Priority upskilling areas  
-- Talent development pipeline design  
+```mermaid
+flowchart TD
+    A[Data Collection<br/>Interviews, Documents, Mapping] --> B[Institutional Assessment<br/>IMM-P® Baseline]
+    B --> C[Actor & Network Mapping]
+    C --> D[Sector & Trend Mapping<br/>Vigía Futura Inputs]
+    D --> E[Gap Analysis]
+    E --> F[Readiness Scorecard]
+    F --> G[Design Inputs for Section 03]
+```
 
 ---
 
-### **4. Market Access & Commercialization**
+# **5. Components of the Diagnostic**
 
-Evaluation of:
-- Export readiness  
-- Sector diversification  
-- Corporate innovation participation  
-- Technology transfer mechanisms  
-- Globalization support programs  
+## **5.1 Institutional Landscape**
+The diagnostic identifies all relevant actors across:
 
-Outputs:
-- Market readiness score  
-- Commercialization and export pathways  
+- Public sector (ministries, agencies, municipalities)  
+- Academia (universities, research centers)  
+- Private incubators & accelerators  
+- Corporate innovation programs  
+- Venture capital & angel networks  
+- NGOs and international partners  
 
----
+For each actor, the diagnostic defines:
 
-### **5. Infrastructure & Support Systems**
-
-Assessment of:
-- Incubators, accelerators, hubs  
-- Digital public infrastructure  
-- Cloud access and cybersecurity readiness  
-- Legal/regulatory enablers  
-- Procurement and sandbox frameworks  
-
-Outputs:
-- Infrastructure maturity map  
-- Required upgrades for system scalability  
+- Mandate  
+- Capabilities  
+- Program history  
+- Operational maturity (IMM-P® baseline)  
+- Linkages to other actors  
+- Potential role inside VIF  
 
 ---
 
-### **6. Research & Innovation Capacity**
+## **5.2 IMM-P® Capability Assessment**
+Each institution is assessed across IMM-P® dimensions:
 
-Evaluates:
-- R&D expenditure  
-- Research institutions and labs  
-- IP creation and technology transfer  
-- Spin-off capacity  
-- Access to scientific talent  
+1. Governance  
+2. Strategic Alignment  
+3. Leadership & Decision-Making  
+4. Operational Delivery  
+5. Data & Evidence Practices  
+6. Service & Program Maturity  
+7. Learning & Improvement Processes  
 
-Outputs:
-- Research commercialization pathways  
-- Integration model for universities  
+Outputs include:
 
----
-
-## **2.4 Final Diagnostic Outputs**
-
-The diagnostic generates eight essential deliverables:
-
-1. **Ecosystem Structural Map**
-2. **Capability Heatmap [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)**
-3. **Sector Prioritization ([Vigía Futura](https://www.doulab.net/vigia-futura))**
-4. **Barrier & Friction Analysis ([MCF 2.1](https://www.themicrocanvas.com))**
-5. **Capital Flow & Investment Landscape**
-6. **Governance and Institutional Coordination Gaps**
-7. **Talent and Skills Pipeline Assessment**
-8. **Strategic Opportunities Report**
-
-These outputs directly inform the design of the national incubator network architecture.
+- A capability heatmap  
+- Maturity score (0–5)  
+- Priority capabilities to strengthen  
 
 ---
 
-## **2.5 How the Diagnostic Connects to the Next Section**
+## **5.3 Ecosystem Mapping**
+This identifies:
 
-The findings produced here feed into:
+- Existing incubators and their program structure  
+- Gaps and overlaps  
+- Geographic distribution  
+- Specialization areas  
+- International linkages  
+- Policy dependencies  
 
-- **Section 03 — System Architecture**, by identifying system requirements  
-- **Section 04 — Operating Model**, by determining capability needs  
-- **Section 05 — Funding Model**, by revealing capital gaps  
-- **Section 06 — Benchmarking**, by creating a baseline  
-- **Section 07 — Scorecards**, by setting KPI foundations  
+```
+Public Sector → Universities → Private Sector → Investors → Clusters → International Partners
+```
 
-The ecosystem diagnostic ensures that the national incubator network is **not built on assumptions**, but on **clear evidence, measurable capability, and foresight-aligned opportunity**.
+This network mapping helps identify **where nodes should be placed** and **how coordination must occur**.
 
-## © Copyright
+---
 
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
+## **5.4 Sector & Trend Mapping (Vigía Futura)**
+Vigía Futura provides:
+
+- Weak signals  
+- Opportunity themes  
+- Sector prioritization  
+- Cross-sector interactions  
+- Futures horizon scanning  
+- Early risk identification  
+
+These inputs help determine:
+
+- Which sectors the incubator network should prioritize  
+- Which institutions are best positioned to lead them  
+- Which capabilities must be developed to compete globally  
+
+---
+
+## **5.5 Gap Analysis**
+The diagnostic compares **current state vs. desired future state**, identifying:
+
+- Missing capabilities  
+- Underdeveloped institutional roles  
+- Structural constraints  
+- Funding gaps  
+- Data limitations  
+- Policy inconsistencies  
+
+Gaps are categorized into:
+
+| Category | Description |
+|----------|-------------|
+| Structural | Laws, regulations, budget flows |
+| Institutional | Capabilities, governance, processes |
+| Market | Talent shortages, investment gaps |
+| Geographic | Regional imbalances |
+| Sectoral | Lack of specialization or research depth |
+| Operational | Missing templates, standards, data flows |
+
+---
+
+## **5.6 Readiness Scorecard**
+A national readiness score is calculated using:
+
+- IMM-P® maturity baselines  
+- Evidence availability (MCF 2.1)  
+- Foresight alignment (Vigía Futura)  
+- Network mapping  
+- Policy and structural constraints  
+
+This produces a **Red / Yellow / Green** readiness assessment for launching the National Public–Private Incubation Network.
+
+---
+
+# **6. Diagnostic Interpretation Guide**
+
+- **Green** → Country is ready for full VIF implementation  
+- **Yellow** → VIF should begin with pilots and capability-building  
+- **Red** → VIF requires foundational work before national rollout  
+
+This interpretation helps governments decide:
+
+- Timing  
+- Resource allocation  
+- Governance strategy  
+- Required international support  
+- Scaling model (centralized vs. decentralized)  
+
+---
+
+# **7. Diagnostic Constraints**
+Every diagnostic must acknowledge:
+
+- Limited access to reliable data  
+- Varying levels of institutional buy-in  
+- Political cycles and leadership changes  
+- Geographic disparities  
+- Budget constraints  
+- Fragmented or outdated regulations  
+- Limited adoption of evidence-driven practices  
+
+These constraints shape the implementation model.
+
+---
+
+# **8. Connection to Section 03 — System Architecture**
+
+Section 03 builds directly on this diagnostic by specifying:
+
+- Governance structures (NSC, TOU, IC)  
+- Incubator node roles  
+- Operational standards  
+- Funding mechanisms  
+- MEL architecture  
+- Policy learning loops  
+
+Without this diagnostic, Section 03 would be theoretical; the diagnostic ensures the architecture is **contextually grounded**.
+
+---
+
+# **9. Reference Snapshot**
+
+Primary Doulab frameworks defining this diagnostic:
+
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
+
+For global influences on ecosystem and policy diagnostics, see:
+
+- OECD Innovation Governance  
+- WIPO Global Innovation Index  
+- OECD Strategic Foresight Toolkit  
+- World Bank GovTech Maturity Index  
+
+Full bibliography available in **11-references.md**.
+
+---
+
+# **10. Licensing**
+
+This document is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**
+
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.
+

@@ -1,256 +1,300 @@
-# Annex 02 — Technical Operating Unit (TOU)  
-## Operating Manual
+# Annex 02 — Terms of Reference & Operating Manual  
+## Technical Operating Unit (TOU)  
+### Vigía Incubation Framework (VIF)  
+**National Public–Private Incubator Network Guide — Version 1.2**
 
 ---
 
-# **1. Purpose of the Technical Operating Unit (TOU)**
+# **1. Introduction**
 
-The **Technical Operating Unit (TOU)** is the operational backbone of the National Public–Private Incubator Network under the **Vigía Incubation Framework (VIF)**.  
-It ensures **execution discipline**, **evidence-based decision-making**, and **transparent operations** across all incubator nodes and programs.
+The **Technical Operating Unit (TOU)** is the central executive and operational body responsible for implementing the Vigía Incubation Framework (VIF).  
+It ensures that public–private incubator networks function with:
 
-The TOU must be:
-- Operationally independent  
-- Technically skilled  
-- Neutral and evidence-driven  
-- Capable of coordinating public, private, and academic stakeholders  
+- evidence integrity (MCF 2.1),  
+- institutional maturity progression (IMM-P®),  
+- standardized reporting and KPIs,  
+- governance compliance,  
+- digital infrastructure efficiency,  
+- policy alignment,  
+- national scalability and consistency.
+
+This annex provides the **Terms of Reference (ToR)** and **Operating Manual** for the TOU. It defines:
+
+- mandate and roles,  
+- operating procedures,  
+- decision rights and boundaries,  
+- capability requirements,  
+- KPI expectations,  
+- compliance duties,  
+- cross-entity coordination,  
+- documentation and audit requirements.
+
+This annex supports **Sections 03, 04, 05, 07, 09, and 10**.
 
 ---
 
-# **2. Mandate of the TOU**
+# **2. How to Use This Annex**
+
+This annex is intended for:
+
+- national innovation agencies,  
+- ministries overseeing economic development,  
+- universities and public–private incubator hubs,  
+- TOU leaders and operational staff,  
+- legal and compliance teams.
+
+Use this annex to:
+
+1. Establish and structure the TOU in Phase 1 (see Section 08 — Roadmap).  
+2. Define all operational functions under VIF.  
+3. Train new TOU staff using standardized roles and procedures.  
+4. Align operational activities with national KPIs and foresight cycles.  
+5. Integrate maturity and evidence practices across all nodes.
+
+This annex defines the **minimum operational standards** for national implementation.  
+Countries may localize language and structure, but may NOT alter:
+
+- evidence standards (MCF 2.1),  
+- maturity standards (IMM-P®),  
+- governance boundaries,  
+- tranching rules and IC independence,  
+- conflict-of-interest protocols.
+
+---
+
+# **3. TOU Governance Architecture**
+
+```mermaid
+flowchart TD
+    A(TOU Mandate) --> B(Structure & Roles)
+    B --> C(Core Operational Processes)
+    C --> D(Decision Rights & Boundaries)
+    D --> E(Evidence & Maturity Management)
+    E --> F(Reporting & KPIs)
+    F --> G(Foresight Integration)
+    G --> H(Compliance & Documentation)
+```
+
+---
+
+# **4. Mandate**
 
 The TOU is responsible for:
 
-- Executing the national incubation and acceleration programs  
-- Administering the National Innovation Fund processes  
-- Conducting due diligence based on [MCF 2.1](https://www.themicrocanvas.com) evidence  
-- Coordinating all incubator nodes  
-- Managing national KPIs, dashboards, and reporting cycles  
-- Supporting governance bodies (NSC, Investment Committee, Advisory Board)  
-- Ensuring alignment with foresight indicators ([Vigía Futura](https://www.doulab.net/vigia-futura))  
-- Maintaining transparency, compliance, and documentation standards  
+- operating the national incubation network,  
+- ensuring enforcement of standards and compliance,  
+- managing accreditation and node capability development,  
+- managing digital infrastructure and data flows,  
+- supporting investment preparation and IC workflow,  
+- ensuring evidence integrity across all nodes,  
+- strengthening institutional maturity using IMM-P®,  
+- ensuring foresight alignment via Vigía Futura.
+
+The TOU is the **nerve center** of VIF.
 
 ---
 
-# **3. Organizational Structure**
+# **5. Organizational Structure & Roles**
 
-## **3.1 Recommended TOU Structure Table**
+The TOU must include the following roles (titles may vary by country):
 
-| Role | Primary Responsibilities | Skills Required |
-|------|---------------------------|------------------|
-| **TOU Director** | Strategic leadership, governance liaison, annual planning | Policy, strategy, ecosystem expertise |
-| **Program Manager (Incubation)** | Manage early-stage programs, MCF implementation | Startup operations, design thinking |
-| **Program Manager (Acceleration)** | Growth programs, traction milestones | GTM, sales, scaling, investment prep |
-| **Investment & Due Diligence Lead** | Funding evaluations, risk assessments | Finance, VC, valuation, MCF evidence |
-| **Data & Insights Manager** | KPI tracking, dashboards, [IMM-P®](https://www.doulab.net/services/innovation-maturity) scoring | Data analysis, visualization |
-| **Foresight & Sector Analyst** | [Vigía Futura](https://www.doulab.net/vigia-futura) integration, sector reports | Futures research, trend analysis |
-| **Partnerships & Internationalization Lead** | External relations, global partners | BD, international ecosystems |
-| **Operations & Compliance Officer** | SOPs, reporting, documentation | Project management, governance |
-| **Administrative & Secretariat Support** | Scheduling, archiving, communication | Coordination, documentation |
+## **5.1 TOU Director**
+- Strategic leadership  
+- Oversight of all TOU functions  
+- Primary liaison with NSC and IC  
+- Responsible for compliance and reporting  
 
----
+## **5.2 Evidence & Learning Team (MCF 2.1)**
+- Evidence review  
+- Validation checks  
+- Experiment log audits  
+- Startup support documentation  
 
-# **4. TOU Operating Principles**
+## **5.3 Maturity & Capability Team (IMM-P®)**
+- Institutional maturity assessments  
+- Node capability coaching  
+- Capability progression plans  
 
-1. **Evidence First ([MCF 2.1](https://www.themicrocanvas.com))**  
-2. **Maturity-Aligned Execution [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)**  
-3. **Foresight Integration ([Vigía Futura](https://www.doulab.net/vigia-futura))**  
-4. **Transparency & Accountability**  
-5. **Operational Agility**  
-6. **Neutrality & Independence**  
+## **5.4 Investment Operations Team**
+- Review of pre-IC investment memos  
+- Quality assurance of tranche submissions  
+- Data integrity checks  
 
----
+## **5.5 Data & KPI Team**
+- Data governance  
+- KPI reporting  
+- Dashboard operations  
+- Data ingestion & traceability  
 
-# **5. TOU Core Processes**
+## **5.6 Digital Systems & Platform Team**
+- Systems administration  
+- User provisioning  
+- Audit log maintenance  
+- Infrastructure uptime  
 
-TOU operations run through **six core process families**, shown in the diagram below.
-
-## **5.1 Core Process Flow Diagram**
-
-```mermaid
-flowchart TD
-    A[Program Delivery] --> B[Due Diligence & Funding]
-    B --> C[Monitoring & Reporting]
-    C --> D[Foresight Integration]
-    D --> E[Governance & Compliance]
-    E --> A
-    A --> F[Partnerships & Internationalization]
-    F --> C
-```
+## **5.7 Compliance & Ethics Team**
+- Conflict-of-interest oversight  
+- Compliance audits  
+- Corrective action protocols  
 
 ---
 
-# **6. Detailed Operating Procedures**
+# **6. Core Operational Processes**
 
-## **6.1 Program Delivery (Incubation & Acceleration)**
+The TOU manages all operational modules in Section 04.  
+Key operational processes include:
 
-### **Key Actions**
-- Manage cohort cycles  
-- Implement MCF-aligned evidence sprints  
-- Coordinate mentors and experts  
-- Oversee founder progress  
-- Ensure program quality across all nodes  
-
-### **Outputs**
-- Cohort reports  
-- Evidence dossiers  
-- Go/No-Go recommendations  
+1. **Node Accreditation Process**  
+2. **Evidence Review & Quality Assurance**  
+3. **Maturity Assessment Cycle (IMM-P®)**  
+4. **Investment Submission Workflow**  
+5. **Compliance Monitoring & Escalation**  
+6. **National KPI Reporting Workflow**  
+7. **Digital System Configuration & Maintenance**  
+8. **Training & Capacity Building**
 
 ---
 
-## **6.2 Due Diligence & Funding Administration**
+# **7. Decision Rights & Boundaries**
 
-### **Steps**
-1. Receive funding request (with MCF evidence)  
-2. Conduct due diligence using TOU checklist  
-3. Evaluate technical feasibility  
-4. Prepare investment memo  
-5. Send recommendations to Investment Committee  
-6. Track tranche disbursements  
+## **7.1 TOU Decision Rights**
+The TOU may:
 
-### **Due Diligence Table**
+- approve or revoke accreditation,  
+- approve evidence submissions before IC review,  
+- approve compliance actions,  
+- manage KPI pipelines,  
+- enforce documentation requirements,  
+- require corrective action plans from nodes.
 
-| Evaluation Area | Components | Tools |
-|------------------|------------|--------|
-| Market | Size, competition, insights | MCF, Sector Data |
-| Team | Skills, execution readiness | Interviews |
-| Evidence | Validation strength | [MCF 2.1](https://www.themicrocanvas.com) evidence forms |
-| Finance | Revenue, projections | Financial models |
-| Risk | Operational, technical, market | Risk matrix |
+## **7.2 Boundaries (Prohibited Interference)**
 
----
+To preserve integrity of the system:
 
-## **6.3 Monitoring & Reporting**
+**The TOU may NOT:**
 
-### **Responsibility Areas**
-- KPI tracking  
-- National scorecard maintenance  
-- Quarterly reports for NSC  
-- Annual ecosystem maturity ([IMM-P®](https://www.doulab.net/services/innovation-maturity) rescoring)  
-- Dashboard updates  
-
-### **Monitoring Workflow Diagram**
-
-```mermaid
-flowchart LR
-    A[Startup Reports] --> B[Incubator Node Reports]
-    B --> C[TOU Data Processing]
-    C --> D[KPI Dashboard Update]
-    D --> E[NSC Quarterly Review]
-```
+- override IC investment decisions,  
+- adjust evidence standards (MCF 2.1),  
+- alter maturity scoring (IMM-P®),  
+- bypass governance protocols,  
+- suppress or modify KPI data,  
+- direct political or strategic mandates (NSC domain).
 
 ---
 
-## **6.4 Foresight Integration**
+# **8. Evidence & Maturity Management**
 
-The TOU integrates **annual sector signals** and **weak-signal detection** from [Vigía Futura](https://www.doulab.net/vigia-futura).
+## **8.1 Evidence Integrity (MCF 2.1)**
+The TOU must:
 
-### **Activities**
-- Update prioritization matrix  
-- Analyze global shifts  
-- Prepare foresight report  
-- Recommend sector adjustments to NSC  
+- verify evidence quality,  
+- enforce definitions and standards,  
+- prevent evidence inflation or falsification,  
+- maintain digital evidence logs,  
+- ensure consistency across all nodes.
 
-### **Inputs & Outputs Table**
+## **8.2 Maturity Progression (IMM-P®)**
+The TOU must:
 
-| Input | Output |
-|-------|---------|
-| Trend data | Annual foresight report |
-| Sector signals | Priority sector map |
-| Global benchmarks | Policy recommendations |
-
----
-
-## **6.5 Governance & Compliance Support**
-
-### **Duties**
-- Prepare NSC agendas, minutes, and reports  
-- Manage IC and Advisory Board workflow  
-- Ensure COI declarations are updated  
-- Maintain all legal and operational documentation  
+- conduct baseline assessments,  
+- deliver capability progression coaching,  
+- evaluate annual improvements,  
+- maintain maturity score documentation,  
+- prevent maturity manipulation.
 
 ---
 
-## **6.6 Partnerships & Internationalization**
+# **9. Reporting & KPIs**
 
-### **Responsibilities**
-- Identify global partners  
-- Manage MoUs  
-- Facilitate international soft-landing programs  
-- Support startup globalization  
+The TOU is responsible for maintaining the KPI pipelines described in **Section 07**.
 
-### **Internationalization Flow**
+## **9.1 Reporting Responsibilities**
+- Monthly startup KPIs  
+- Quarterly node performance  
+- Annual maturity assessments  
+- System incident reports  
+- Evidence compliance reports  
+- Investment memo quality reports  
 
-```mermaid
-flowchart TD
-    A[Identify Global Partner] --> B[Negotiate Agreement]
-    B --> C[Activate Soft-Landing]
-    C --> D[Startup Integration]
-    D --> E[Performance Feedback]
-```
+## **9.2 TOU KPIs**
 
----
-
-# **7. TOU Performance Indicators**
-
-### **Key KPIs**
-- Program completion rates  
-- Evidence quality scores  
-- Funding cycle efficiency  
-- Time-to-decision for funding  
-- International partnership activations  
-- Data integrity score  
-- Compliance rate  
+| KPI | Description |
+|------|-------------|
+| Evidence Compliance Rate | % of validated evidence submissions |
+| Data Integrity Score | Accuracy of KPI ingestion & reporting |
+| Audit Completion Rate | % of audits completed on schedule |
+| Accreditation Cycle Time | Time to process node accreditation |
+| Investment Memo Quality Score | % passing IC readiness thresholds |
 
 ---
 
-# **8. Reporting Cadence**
+# **10. Foresight Integration (Vigía Futura)**
 
-| Report | Frequency | Recipient |
-|--------|-----------|------------|
-| Startup KPI Report | Quarterly | TOU → NSC |
-| Incubator Node Report | Quarterly | TOU |
-| National KPI Dashboard | Quarterly | NSC |
-| Annual Foresight Update | Annual | NSC |
-| Annual Ecosystem Maturity Review | Annual | NSC |
-| Investment Summary | Quarterly | IC + NSC |
+The TOU works with Vigía Futura to:
 
----
-
-# **9. Secretariat & Administrative Support**
-
-### **Secretariat Tasks**
-- Schedule all governance meetings  
-- Maintain digital archives  
-- Distribute documentation packages  
-- Log decisions and maintain action trackers  
+- integrate emerging trends into program modules,  
+- update sector priorities annually,  
+- support strategic foresight exercises,  
+- align national incubation strategy with global signals,  
+- develop forward-looking KPI interpretations.
 
 ---
 
-# **10. Amendments to the TOU Manual**
+# **11. Compliance & Documentation**
 
-May be updated annually or by:
-- NSC majority vote  
-- Regulatory changes  
-- Innovation Fund governance updates  
-- Major program restructuring  
+TOU must maintain:
+
+- full audit logs of decisions,  
+- conflict-of-interest registers,  
+- documentation templates from Section 10,  
+- data governance compliance (GDPR-like standards),  
+- operational manuals,  
+- IC submission archives,  
+- training and onboarding materials.
 
 ---
 
-# **11. Outputs of Annex 02**
+# **12. Localization Guidance**
 
-This annex provides:
-- Complete TOU structure  
-- Operating principles  
-- Evidence-based due diligence procedures  
-- Reporting & KPI workflow diagrams  
-- Foresight integration processes  
-- Internationalization processes  
-- Governance support framework  
+Countries may customize:
 
-It establishes the **operational backbone** for executing the VIF across all incubator nodes.
+- job titles,  
+- reporting lines,  
+- compliance terminology,  
+- meeting frequency.
 
-## © Copyright
+Countries may NOT customize:
 
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).
+- evidence requirements (MCF 2.1),  
+- maturity progression rules (IMM-P®),  
+- tranching requirements,  
+- IC independence,  
+- KPI integrity rules.
+
+---
+
+# **13. Reference Snapshot**
+
+Primary Doulab frameworks:
+
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
+
+External influences (non-primary):
+
+- OECD Public Governance Principles  
+- World Bank GovTech Maturity Index  
+- OECD Strategic Foresight Toolkit  
+- WIPO Global Innovation Index  
+
+See **11-references.md** for full bibliography.
+
+---
+
+# **14. Licensing**
+
+This annex is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**  
+
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.

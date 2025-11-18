@@ -2,21 +2,24 @@
 
 A [Doulab](https://doulab.net) methodology for designing **National Public–Private Incubator Networks**, powered by:
 
-- **[MicroCanvas® Framework 2.1 (MCF 2.1)](https://www.themicrocanvas.com)**
-- **[IMM-P®](https://www.doulab.net/services/innovation-maturity) – Innovation Maturity Model Program**
-- **[Vigía Futura](https://www.doulab.net/vigia-futura) – Foresight & Innovation Observatory**
+- **[MicroCanvas® Framework 2.1](https://www.themicrocanvas.com)**  
+- **[IMM-P® – Innovation Maturity Model Program](https://www.doulab.net/services/innovation-maturity)**  
+- **[Vigía Futura – Foresight & Innovation Observatory](https://www.doulab.net/vigia-futura)**  
 
 This repository contains the canonical documentation for the VIF framework, structured as a modular, country-agnostic guide that can be adapted by governments, universities, ecosystem builders, and public–private alliances.
 
 ---
 
-## 📘 Structure
+## 📚 Structure
 
-All documentation is located under the `/vif` directory:
+All documentation is organized under the `/vif` directory:
 
 ```
 vif/
   00-executive-summary.md
+  00a-how-to-use.md
+  00b-methodology.md
+  00c-glossary.md
   01-introduction.md
   02-ecosystem-diagnostic.md
   03-system-architecture.md
@@ -27,50 +30,61 @@ vif/
   08-roadmap.md
   09-governance-legal.md
   10-templates.md
+  11-references.md
+  LICENSE.md
 ```
 
-Each file will be expanded into a full section of the framework.
+Each file constitutes a formal section of the Vigía Incubation Framework.
 
 ---
 
 ## 🚀 Purpose
 
-The Vigía Incubation Framework (VIF) provides governments and ecosystem leaders with:
+The **Vigía Incubation Framework (VIF)** provides governments and ecosystem leaders with a fully integrated, future-ready blueprint for building national incubation systems, including:
 
-- A **complete blueprint** for creating national incubator networks  
-- A **capability-based** approach grounded in [MCF 2.1](https://www.themicrocanvas.com)  
-- A **maturity progression model** using [IMM-P®](https://www.doulab.net/services/innovation-maturity)  
-- A **foresight engine** supported by [Vigía Futura](https://www.doulab.net/vigia-futura)  
-- Modular templates, governance models, and policy tools  
-- A future pathway to be transformed into a **Docusaurus-based public site**
+- A **complete architectural model** for public–private incubator networks  
+- A **capability progression model** based on IMM-P®  
+- A **validated evidence approach** using the MicroCanvas® Framework 2.1  
+- A **foresight engine** supported by Vigía Futura  
+- A full set of **templates, governance tools, and legal instruments**  
+- A modular design enabling rapid localization (e.g., **VIF–RD**, **VIF–MX**)  
+- Documentation ready for future publication as a Docusaurus site  
 
 ---
 
-## 🔧 Development Workflow
+## 🛠 Development Workflow
 
-This repository currently operates in **Markdown-first mode** to enable rapid content creation and iteration.  
-Once the text stabilizes (VIF v1.0), it will be migrated to a **Docusaurus site** under a dedicated domain.
+This repository currently operates in a **Markdown-first workflow** to allow rapid, multi-file iteration.  
+Once content is finalized (VIF v1.0), it will be deployed as a **Docusaurus documentation site**.
 
 Recommended tools:
 
-- **VS Code** – primary editor  
-- **GitHub Desktop** – version control  
-- **GitHub private repo** – canonical storage  
+- **VS Code** — primary writing and editing environment  
+- **GitHub** — version control and collaboration  
+- **GitHub private repo** — canonical source of truth  
 
 ---
 
-## 🗺️ Roadmap
+## 🗺 Roadmap
 
-1. Populate all `.md` files with the core methodological content  
-2. Internal review and restructuring  
+1. Populate and refine all `.md` files  
+2. Structural + technical editing across all sections  
 3. Freeze **VIF v1.0**  
-4. Convert into a public-facing documentation site (Docusaurus)  
-5. Create localized implementations (e.g., **VIF–RD**, **VIF–MX**)  
+4. Build and publish the Docusaurus-based public site  
+5. Create localized national implementations:
+   - **VIF–RD (Dominican Republic)**
+   - **VIF–MX (Mexico)**  
+   - **VIF–CH (Switzerland)**  
+   - etc.
 
 ---
 
-## © Copyright
+## ⚖ Licensing
 
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](vif/LICENSE.md).
+This repository is licensed under the  
+**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](vif/LICENSE.md)**
+
+**MicroCanvas® Framework** and **IMM-P®** are **proprietary methodologies of Doulab**.
+
+© 2025 [Doulab](https://doulab.net). All rights reserved.

@@ -1,274 +1,315 @@
 # Annex 07 — Data Privacy & Sharing Agreement  
-## Template for National Public–Private Incubator Network (VIF)
+## Data Governance, Privacy, Security & Sharing Framework  
+### Vigía Incubation Framework (VIF)  
+**National Public–Private Incubator Network Guide — Version 1.2**
 
 ---
 
-# **1. Purpose of the Agreement**
+# **1. Introduction**
 
-This **Data Privacy & Sharing Agreement (DPSA)** establishes the rules, safeguards, and responsibilities related to the collection, processing, storage, sharing, and protection of data within the **National Public–Private Incubator Network**, operated under the **Vigía Incubation Framework (VIF)**.
+This annex establishes the **data governance, privacy, security, and data‑sharing framework** required for all participants in the **Vigía Incubation Framework (VIF)**, including:
 
-It ensures compliance with:
-- National data protection laws  
-- GDPR-equivalent frameworks (if applicable)  
-- Ethical AI and digital governance principles  
-- [MCF 2.1](https://www.themicrocanvas.com) evidence integrity requirements  
-- [IMM-P®](https://www.doulab.net/services/innovation-maturity) transparency and maturity indicators  
+- national authorities,  
+- public–private incubator nodes,  
+- startups,  
+- evaluators and mentors,  
+- private investors and co-investors,  
+- universities and research institutions.
 
----
+The purpose of this annex is to ensure:
 
-# **2. Parties to the Agreement**
+- lawful and ethical handling of all data,  
+- protection of personal and sensitive information,  
+- standardized data flows across governance bodies,  
+- compliance with evidence and maturity requirements (MCF 2.1, IMM-P®),  
+- transparency and auditability of decisions,  
+- integrity and security of all records,  
+- responsible innovation aligned with national and international standards.
 
-| Party | Type | Role | Responsibilities |
-|------|------|------|------------------|
-| Government Institution | Public | Data Controller / Regulator | Legal compliance, oversight |
-| Technical Operating Unit (TOU) | Network | Data Processor | Dashboard, KPIs, evidence mgmt |
-| Incubator Node | Operator | Data Collector | Startup data submission |
-| Startup / Founder | Beneficiary | Data Subject / Generator | Provides evidence & KPIs |
-| Private Investor | Partner | Authorized Third Party | Receives limited reports |
-
----
-
-# **3. Definitions**
-
-| Term | Definition |
-|------|------------|
-| **Data Controller** | Entity determining purpose & means of data processing |
-| **Data Processor** | Entity processing data on behalf of controller |
-| **Data Subject** | Individual or entity that owns the data |
-| **Evidence Package** | Documents/data required under [MCF 2.1](https://www.themicrocanvas.com) |
-| **National Dashboard** | Central KPI system administered by TOU |
-| **Confidential Data** | Financials, IP, customer insights, etc. |
-| **Shared Data** | Aggregated or anonymized data used for reports |
+For definitions, see **00c — Glossary**.  
+For governance context, see **Sections 03, 04, 07, 09**, and **Annexes 01–03**.
 
 ---
 
-# **4. Principles of Data Management**
+# **2. How to Use This Annex**
 
-All parties agree to uphold:
+This annex defines the **minimum data and privacy standards** for national implementation of VIF.
 
-1. **Lawfulness, Fairness & Transparency**  
-2. **Purpose Limitation**  
-3. **Data Minimization**  
-4. **Accuracy**  
-5. **Storage Limitation**  
-6. **Integrity & Confidentiality**  
-7. **Accountability**  
+### **Mandatory Components (Not Negotiable)**  
+- Compliance with MCF 2.1 evidence integrity rules  
+- Compliance with IMM-P® maturity documentation  
+- IC independence and restricted access to evaluation data  
+- TOU role as national data processor/administrator  
+- Standardized KPI and evidence reporting  
+- Mandatory security, privacy, and audit rules  
+- Mandatory conflict-of-interest obligations  
+- Mandatory data retention & deletion rules  
 
-Aligned with GDPR Articles 5–6 equivalents.
+### **Adaptable Components (Country-Specific)**  
+- National data protection authority references  
+- Cloud or local hosting requirements  
+- Data transfer restrictions  
+- Archival formats and retention timelines  
+- Encryption standards (minimum required: AES‑256)  
 
----
+### **Prohibited Modifications**  
+Countries may NOT remove or weaken:
 
-# **5. Categories of Data Covered**
-
-## **5.1 Startup-Level Data**
-
-| Category | Examples | Level | Notes |
-|----------|----------|--------|--------|
-| Business Data | Pitch deck, model, sector | Sensitive | Restricted |
-| Financial Data | Revenue, burn rate | Highly sensitive | Encrypted |
-| Validation Data | Customer insights, prototypes | Sensitive | [MCF 2.1](https://www.themicrocanvas.com) evidence |
-| Traction Data | Users, pilots, metrics | Sensitive | Quarterly |
-| IP & Technical Data | Patents, code snippets | Highly sensitive | Controlled access |
-
----
-
-## **5.2 Program-Level Data**
-
-| Category | Examples | Notes |
-|----------|----------|--------|
-| KPIs | Validation rate, traction | Aggregated for dashboards |
-| Incubator Performance | Completion rates | Node-level only |
-| Mentor Data | Evaluations | Restricted |
+- audit logs,  
+- IC independence constraints,  
+- consent requirements,  
+- evidence integrity rules,  
+- data minimization principles,  
+- cyber‑security standards.
 
 ---
 
-## **5.3 Public Reports (Aggregated)**
-
-- Startup density  
-- Capital deployed  
-- Sector trends  
-- Ecosystem maturity  
-
-No identifying information is included.
-
----
-
-# **6. Data Flow Architecture**
+# **3. Data Governance Architecture**
 
 ```mermaid
 flowchart TD
-    A[Startup] --> B[Incubator Node]
-    B --> C[TOU: Data Processing]
-    C --> D[National Dashboard (Anonymized)]
-    C --> E[Investment Committee (Restricted Access)]
-    D --> F[Public Annual Reports (Aggregated)]
+    A(Data Sources) --> B(Incubator Nodes)
+    B --> C(TOU Data Processor)
+    C --> D(IC Restricted Access)
+    C --> E(NSC Aggregated Reports)
+    C --> F(Vigía Futura Insights)
+    C --> G(Audit & Compliance Logs)
 ```
 
 ---
 
-# **7. Data Processing Responsibilities**
+# **4. Roles & Responsibilities**
 
-## **7.1 Data Controller (Public Agency)**  
-- Ensures compliance with national laws  
-- Defines purpose & scope of processing  
-- Oversees TOU and network-wide compliance  
+## **4.1 Data Controller**
+Typically the national innovation authority or ministry, responsible for:
 
-## **7.2 Data Processor (TOU)**  
-- Manages KPI dashboards  
-- Runs data validation procedures  
-- Ensures encryption and secure storage  
-- Implements access-control rules  
-- Maintains breach logs  
+- defining lawful data purposes,  
+- ensuring compliance with national data privacy laws,  
+- approving data retention and deletion policies,  
+- ensuring proper execution by all parties.
 
-## **7.3 Incubator Nodes**  
-- Collect evidence and KPIs  
-- Verify startup data authenticity  
-- Transmit reports securely to TOU  
+## **4.2 Data Processor (TOU)**
+Responsible for:
 
-## **7.4 Startups (Data Subjects)**  
-- Provide accurate information  
-- Maintain evidence integrity  
-- Consent to data processing policies  
+- receiving and verifying data submitted by nodes,  
+- maintaining secure systems for evidence, KPIs, and logs,  
+- ensuring access controls,  
+- generating audit trails and compliance reports.
 
-## **7.5 Investors / Third Parties**  
-- Receive limited reports  
-- Must sign confidentiality agreements  
+## **4.3 Incubator Nodes**
+Responsible for:
 
----
+- collecting accurate, lawful data,  
+- obtaining required consents,  
+- maintaining integrity of evidence,  
+- submitting KPIs and logs to the TOU.
 
-# **8. Legal Basis for Processing**
+## **4.4 Startups**
+Responsible for:
 
-Data is processed based on:
+- lawful collection of customer data used in experiments,  
+- anonymization or pseudonymization where required,  
+- maintaining experiment logs consistent with MCF 2.1.
 
-1. **Explicit Consent** from Startups  
-2. **Public Interest** (economic development programs)  
-3. **Contractual Necessity** (participation in the network)  
-4. **Legitimate Interest** (impact measurement, transparency)  
+## **4.5 Investment Committee**
+Has **restricted access** only to:
 
----
+- investment memos,  
+- validated evidence,  
+- KPI summaries,  
+- risk assessments.
 
-# **9. Data Security & Protection Measures**
+The IC does **not** receive personal customer data.
 
-## **9.1 Technical Safeguards**
-
-| Mechanism | Description |
-|-----------|-------------|
-| Encryption | At rest + in transit |
-| Access Control | Role-based, multi-factor authentication |
-| Audit Logs | All data access monitored |
-| Secure Storage | Encrypted cloud or national data center |
-| Backups | Daily incremental, weekly full backups |
+## **4.6 National Steering Council**
+Receives **aggregated, non‑personal** data only.
 
 ---
 
-## **9.2 Organizational Safeguards**
+# **5. Data Principles (Mandatory)**
 
-- Annual security audits  
-- Approved personnel only  
-- Confidentiality agreements  
-- Regular compliance training  
+## **5.1 Lawfulness, Fairness & Transparency**
+All data must be processed:
 
----
+- with legal basis,  
+- transparently,  
+- in compliance with national and international law.
 
-# **10. Data Sharing Rules**
+## **5.2 Purpose Limitation**
+Data must only be used for:
 
-## **10.1 Allowed Sharing**
+- incubation management,  
+- evidence review (MCF 2.1),  
+- maturity assessments (IMM-P®),  
+- investment decisions,  
+- program improvement.
 
-| Destination | Type of Data | Conditions |
-|-------------|---------------|--------------|
-| NSC | Aggregated + restricted | Governance oversight |
-| Investment Committee | Evidence packages | Funding decisions |
-| Public | Aggregated only | No identifiers |
-| Researchers | Anonymized datasets | Approval required |
+## **5.3 Data Minimization**
+Only the **minimum necessary data** may be collected.
 
----
+## **5.4 Accuracy**
+All KPI and evidence data must be:
 
-## **10.2 Prohibited Sharing**
+- accurate,  
+- complete,  
+- verifiable.
 
-- Raw customer insights  
-- Proprietary IP  
-- Startup-specific financials  
-- Evidence tied to identifiable individuals  
-- Any data not explicitly authorized  
+## **5.5 Storage Limitation**
+Data must be retained only for the legally required duration.
 
----
+## **5.6 Integrity & Confidentiality**
+Requires implementation of:
 
-# **11. Data Retention Policy**
-
-Retention schedule:
-
-| Data Type | Retention Period | Notes |
-|-----------|-------------------|--------|
-| Financials | 7 years | Legal requirement |
-| Evidence Packages | Duration of program + 3 years | For audit |
-| KPI Reports | 5 years | Performance tracking |
-| Anonymized Data | Indefinite | Research use only |
+- AES‑256 encryption at rest,  
+- TLS 1.3 encryption in transit,  
+- access control via least‑privilege principles,  
+- mandatory MFA for all administrative accounts.
 
 ---
 
-# **12. Breach Notification Protocol**
+# **6. Data Sharing Requirements**
 
-If a breach occurs:
+## **6.1 Sharing with TOU**
+Nodes and startups must share:
 
-```mermaid
-flowchart TD
-    A[Detection] --> B[Notify TOU Security Lead]
-    B --> C[Assess Severity]
-    C --> D{High Risk?}
-    D -->|Yes| E[Notify Data Controller + Affected Parties <72h]
-    D -->|No| F[Record Incident]
-    E --> G[Mitigation Actions]
-    G --> H[Close Incident]
-    F --> H
-```
+- evidence logs,  
+- KPIs,  
+- maturity assessment inputs,  
+- audit documentation.
 
----
+## **6.2 Sharing with IC (Restricted)**
+IC receives only:
 
-# **13. Rights of Data Subjects**
+- validated evidence summaries,  
+- KPIs,  
+- risk assessments,  
+- investment memos.
 
-Startups may request:
+IC must not have access to:
 
-- Access to their data  
-- Correction of inaccurate data  
-- Deletion (after program completion)  
-- Restrictions on processing  
-- A copy of their evidence package  
+- personal customer data,  
+- raw experiment logs containing identifiers.
 
-Requests must be processed within **30 days**.
+## **6.3 Sharing with NSC**
+NSC receives **aggregated, anonymized**, or **statistical** data only.
 
----
-
-# **14. Term & Termination**
-
-This agreement remains valid:
-
-- Throughout participation in the incubator network  
-- For retention periods defined above  
-
-Termination requires data deletion or anonymization.
+## **6.4 Sharing with Vigía Futura**
+Provides **trend insights** only; no personal data is exchanged.
 
 ---
 
-# **15. Signatures**
+# **7. Consent, Rights & Transparency**
 
-Data Controller: _____________________   Date: ______  
-Data Processor (TOU): ________________   Date: ______  
-Incubator Node: _______________________   Date: ______  
-Startup: ______________________________   Date: ______  
+Startups must ensure:
+
+- transparency notices to data subjects,  
+- lawful basis for experiment data,  
+- right of access, rectification, deletion,  
+- right to withdraw consent when applicable,  
+- anonymization where feasible.
 
 ---
 
-# **16. Outputs of Annex 07**
+# **8. Security Requirements**
 
-This annex provides:
-- A complete, adaptable Data Privacy & Sharing Agreement  
-- Tables for data types, roles, safeguards, and retention  
-- Two Mermaid diagrams for data flow & breach protocol  
-- Alignment with national law, GDPR equivalents, and VIF governance  
-- Ready-to-use `.md` file for legal and operational integration
+All parties must:
 
-## © Copyright
+- use MFA for all administrative and platform access,  
+- apply OS‑level encryption,  
+- maintain endpoint security,  
+- implement real‑time intrusion detection,  
+- conduct annual penetration tests,  
+- enforce role‑based access control (RBAC).
 
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).
+---
+
+# **9. Incident Response & Breach Management**
+
+In case of a suspected breach:
+
+1. Immediate notification to the TOU  
+2. Internal investigation (TOU-led)  
+3. Notification to national authorities (as required by law)  
+4. Remediation and documentation  
+5. NSC oversight for serious incidents  
+
+All incidents must be logged and stored for **5 years**, unless national law requires otherwise.
+
+---
+
+# **10. Retention & Deletion**
+
+Minimum required standards:
+
+| Data Category | Retention | Deletion Requirement |
+|---------------|-----------|----------------------|
+| Evidence Logs | 3–5 years | Secure wipe |
+| KPI Data | 5 years | Secure wipe |
+| IC Documentation | 10 years | Archive + wipe |
+| Audit Logs | 10 years | Archive + wipe |
+| Personal Data | As required by law | Anonymization or deletion |
+
+---
+
+# **11. Conflict of Interest (COI)**
+
+All actors must:
+
+- sign annual COI declarations,  
+- disclose financial conflicts,  
+- recuse themselves when required,  
+- avoid access to data when conflicts exist.
+
+Startups must disclose:
+
+- investor relationships,  
+- advisory relationships,  
+- familial or political connections.
+
+---
+
+# **12. Localization Guidance**
+
+Countries must adapt:
+
+- national data authority references,  
+- legally required retention periods,  
+- incident notification laws,  
+- hosting location requirements.
+
+Countries may NOT remove:
+
+- evidence integrity requirements,  
+- data minimization rules,  
+- IC restricted-access rules,  
+- mandatory encryption,  
+- breach notification workflows.
+
+---
+
+# **13. Reference Snapshot**
+
+Primary Doulab frameworks:
+
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
+
+External influences (non-primary):
+
+- OECD Privacy Guidelines  
+- GDPR (EU General Data Protection Regulation)  
+- OECD Public Governance Principles  
+- World Bank GovTech Maturity Index  
+- OECD Strategic Foresight Toolkit  
+
+Full bibliography available in **11-references.md**.
+
+---
+
+# **14. Licensing**
+
+This annex is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**  
+
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.

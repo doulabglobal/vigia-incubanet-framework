@@ -1,283 +1,281 @@
 # Annex 08 — Intellectual Property (IP) Agreements  
-## IP Assignment • Licensing Agreement • University–Startup Collaboration Clauses
+## IP Ownership, Licensing, Assignment & University–Startup Collaboration  
+### Vigía Incubation Framework (VIF)  
+**National Public–Private Incubator Network Guide — Version 1.2**
 
-This annex provides three implementable IP templates for the National Public–Private Incubator Network under the **Vigía Incubation Framework (VIF)**:
+---
+
+# **1. Introduction**
+
+This annex defines the **Intellectual Property (IP) governance framework** required for participants in the **Vigía Incubation Framework (VIF)**, including:
+
+- startups,  
+- incubator nodes,  
+- universities and research institutions,  
+- public-sector innovation agencies,  
+- private investors and co-investors,  
+- mentors and evaluators.
+
+The purpose of this annex is to ensure that all IP created, used, transferred, or licensed within the national incubation network is:
+
+- legally protected,  
+- allocated fairly,  
+- transparently documented,  
+- fully auditable,  
+- compliant with national IP laws,  
+- aligned with evidence standards (MCF 2.1),  
+- aligned with maturity progression rules (IMM-P®),  
+- consistent with governance (NSC, TOU, IC) and compliance (Annex 07).
+
+This annex provides three standardized templates:
 
 1. **IP Assignment Agreement**  
-2. **Licensing Agreement**  
-3. **University–Startup Collaboration IP Clauses**  
-
-Each template is structured, modular, and suitable for adaptation to national laws.
+2. **IP Licensing Agreement**  
+3. **University–Startup Collaboration Agreement**
 
 ---
 
-# ================================
-# **A. IP ASSIGNMENT AGREEMENT**
-# ================================
+# **2. How to Use This Annex**
 
-# **1. Parties**
+### **2.1 Mandatory Components (Not Negotiable)**  
+All IP agreements must include:
 
-| Party | Role | Details |
-|--------|-------|---------|
-| Assignor | Founder, employee, contractor | Name, address |
-| Assignee | Startup / Company | Legal identity |
+- conflict‑of‑interest declarations,  
+- transparency and audit requirements,  
+- documentation aligned with MCF 2.1,  
+- maturity consistency aligned with IMM-P®,  
+- IC independence (investment decisions cannot be influenced by IP transfers),  
+- compliance with national IP laws,  
+- data privacy rules (Annex 07),  
+- evidence traceability requirements,  
+- national security or export control considerations (if applicable).
 
----
+### **2.2 Adaptable Components**  
+Countries may localize:
 
-# **2. Purpose**
+- governing law,  
+- jurisdiction,  
+- IP registration bodies,  
+- royalty rates,  
+- revenue-sharing formulas,  
+- university R&D policies,  
+- licensing durations and financial terms.
 
-The Assignor assigns all rights, title, and interest to the Assignee related to the intellectual property described in Section 3.
+### **2.3 Prohibited Modifications**  
+Countries **may NOT**:
 
-This agreement ensures:
-- Clear IP ownership  
-- Protection of investors’ interests  
-- Reduction of IP risk during due diligence  
-
----
-
-# **3. Description of Assigned IP**
-
-Examples:
-- Software source code  
-- Algorithms, ML models  
-- Designs, UI/UX  
-- Prototypes  
-- Research outputs  
-- Patentable inventions  
-- Documentation  
-
-| Item | Description | Date Created | Notes |
-|------|-------------|---------------|--------|
-| 1 | ___ | ___ | ___ |
-| 2 | ___ | ___ | ___ |
+- weaken evidence integrity requirements,  
+- bypass TOU compliance processes,  
+- undermine IC independence,  
+- obscure ownership structures,  
+- eliminate auditability or data retention rules.
 
 ---
 
-# **4. Assignment of Rights**
+# **3. IP Architecture Diagram**
 
-The Assignor hereby assigns to the Assignee:
-- All intellectual property rights  
-- All related goodwill  
-- All rights to use, modify, sublicense, and commercialize the IP  
-- All rights to seek patent or copyright protection  
-
-The assignment is **global, irrevocable, and perpetual**.
-
----
-
-# **5. Representations & Warranties**
-
-Assignor warrants that:
-- They are the original creator of the IP  
-- No third-party rights are infringed  
-- IP has not been assigned previously  
-- No confidential information of prior employers is included  
+```mermaid
+flowchart TD
+    A(IP Foundations) --> B(IP Assignment)
+    A --> C(IP Licensing)
+    A --> D(University–Startup Collaboration)
+    B --> E(Ownership Transfer)
+    C --> F(Rights, Royalties & Limitations)
+    D --> G(Joint IP & Research Obligations)
+```
 
 ---
 
-# **6. Moral Rights Waiver**
+# **4. Template 1 — IP Assignment Agreement**
 
-Assignor waives any and all moral rights to the extent permitted by law.
+### **4.1 Purpose**  
+Transfers full ownership of specified IP from one party (Assignor) to another (Assignee).
 
----
+### **4.2 Structure**
 
-# **7. Confidentiality**
-
-All information exchanged remains confidential.
-
----
-
-# **8. Signatures**
-
-Assignor: ___________________   Date: ________  
-Assignee: ___________________   Date: ________
-
----
-
-# ==================================
-# **B. LICENSING AGREEMENT TEMPLATE**
-# ==================================
-
-# **1. Parties**
-
-| Party | Role |
-|--------|-------|
-| Licensor | Owner of the IP |
-| Licensee | Startup / Company |
+| Section | Requirement |
+|--------|-------------|
+| Identified IP | Clear definition of what IP is being assigned |
+| Ownership Transfer | Full transfer of rights, title, and interest |
+| Representations | Assignor must prove ownership |
+| Warranties | No liens, disputes, or encumbrances |
+| Evidence Compliance | IP must align with MCF 2.1 documentation |
+| Maturity Compliance | IP must reflect IMM-P® assessed capability |
+| Confidentiality | Required for all parties |
+| Audit Rights | Mandatory under VIF |
+| Governing Law | Localized |
 
 ---
 
-# **2. Purpose**
+## **4.3 Core Clauses**
 
-This agreement grants the Licensee rights to use specified intellectual property owned by the Licensor.
+### **Article 1 — Parties**  
+Assignor → Startup / Researcher / Entity  
+Assignee → Startup / Innovation Authority / Investor
 
----
+### **Article 2 — Description of Assigned IP**
 
-# **3. Scope of License**
+### **Article 3 — Transfer of Ownership**  
+The Assignor permanently transfers:
 
-| Type | Options | Notes |
-|------|----------|--------|
-| License Type | Exclusive / Non-exclusive | Select one |
-| Field of Use | Sector, territory | Define clearly |
-| Duration | Years | ___ |
-| Sublicensing | Allowed / Restricted | Conditions apply |
+- all rights,  
+- all title,  
+- all interest,  
+- all derivative works,  
+- all associated registrations.
 
----
+### **Article 4 — Representations & Warranties**
 
-# **4. Licensed IP Description**
+### **Article 5 — Confidentiality**
 
-| Item | Description | Notes |
-|------|-------------|--------|
-| 1 | ___ | ___ |
-| 2 | ___ | ___ |
+### **Article 6 — Evidence & Documentation Requirements**  
+Assignor must deliver:
 
----
+- experiment logs,  
+- validation data (MCF 2.1),  
+- maturity-related documentation (IMM-P®),  
+- development history,  
+- existing licensing obligations.
 
-# **5. Financial Terms**
+### **Article 7 — Audit & Compliance**
 
-| Fee Type | Value | Notes |
-|-----------|--------|--------|
-| Upfront Fee | ___ | Optional |
-| Royalty | ___% | Based on revenue |
-| Minimum Annual Payment | ___ | If required |
-| Milestone Payments | ___ | For tech transfer |
-
----
-
-# **6. Obligations of Licensee**
-
-- Use IP only for permitted purposes  
-- Maintain confidentiality  
-- Provide performance reports  
-- Notify Licensor of infringements  
-- Maintain quality standards (if applicable)  
+### **Article 8 — Governing Law**
 
 ---
 
-# **7. Termination**
+# **5. Template 2 — IP Licensing Agreement**
 
-Termination triggers include:
-- Non-payment  
-- Breach of terms  
-- IP misuse  
-- Insolvency  
+### **5.1 Purpose**  
+Allows one party (Licensor) to grant another (Licensee) the right to use IP under defined conditions.
 
----
+### **5.2 Structure**
 
-# **8. Signatures**
-
-Licensor: ___________________   Date: ________  
-Licensee: ___________________   Date: ________
-
----
-
-# =====================================================
-# **C. UNIVERSITY–STARTUP COLLABORATION IP CLAUSES**
-# =====================================================
-
-These clauses integrate academic institutions into the incubator network while protecting IP rights of both parties.
+| Section | Requirement |
+|--------|-------------|
+| Grant of Rights | Exclusive/non-exclusive use defined clearly |
+| Financial Terms | Royalties or lump-sum payments |
+| Field of Use | Allowed and restricted application areas |
+| Duration | Localized |
+| Evidence Integrity | IP must be linked to traceable MCF 2.1 logs |
+| Sub‑Licensing | Rules must be explicit |
+| Restrictions | No illegal or unethical use |
+| Revocation | Clear termination scenarios |
 
 ---
 
-# **1. Purpose**
+## **5.3 Core Clauses**
 
-Define IP ownership, license rights, and revenue-sharing between **universities**, **researchers**, and **startups** participating in innovation projects.
+### **Article 1 — Parties**
 
----
+### **Article 2 — Licensed IP Description**
 
-# **2. IP Ownership Models**
+### **Article 3 — Grant of License**  
+Defines:
 
-## **2.1 Model A — Startup Owns Resulting IP**  
-Most common for accelerator and incubator projects.
+- exclusive or non-exclusive rights,  
+- geographic scope,  
+- field of use,  
+- limitations.
 
-University receives:
-- A non-exclusive license for research  
-- Recognition in publications  
-- Optional revenue share (negotiable)
+### **Article 4 — Financial Terms (Royalties)**
 
----
+### **Article 5 — Evidence & Attribution Requirements**
 
-## **2.2 Model B — Joint Ownership**
+### **Article 6 — Data, Privacy & Compliance (Annex 07)**
 
-Used when:
-- Significant university resources were used  
-- Researchers contributed directly to IP  
+### **Article 7 — Confidentiality, Audit, and Reporting**
 
-Ownership share based on contribution.
+### **Article 8 — Termination**
 
 ---
 
-## **2.3 Model C — University Owns, Startup Licenses**
+# **6. Template 3 — University–Startup Collaboration Agreement**
 
-Useful for:
-- Deep-tech  
-- Patents  
-- Lab-intensive research  
+### **6.1 Purpose**  
+Defines IP ownership, research obligations, rights of use, and commercialization pathways for collaborations involving:
 
-Startup receives exclusive or non-exclusive license.
+- universities,  
+- public research centers,  
+- startup teams,  
+- spin-offs.
 
----
+### **6.2 Structure**
 
-# **3. Revenue-Sharing Clauses**
-
-| Scenario | University Share | Startup Share | Notes |
-|-----------|-------------------|----------------|--------|
-| Licensing Revenue | 10–30% | 70–90% | Negotiable |
-| Joint IP Commercialization | Proportional | Proportional | Based on contribution |
-| Researcher Bonus | Optional | — | Encourages innovation |
-
----
-
-# **4. Use of University Infrastructure**
-
-| Item | Allowed Use | Conditions |
-|-------|--------------|-------------|
-| Labs | Yes | Safety + compliance |
-| Equipment | Yes | Scheduling + operator approval |
-| Data | Conditional | Privacy compliance |
-| Researchers | Yes | Contract required |
+| Section | Requirement |
+|--------|-------------|
+| Background IP | Ownership before collaboration |
+| Foreground IP | Ownership resulting from collaboration |
+| Joint IP | Rules for shared ownership |
+| Revenue-Sharing | Required transparency |
+| Publication | Embargo period (recommended: 6–12 months) |
+| Safety & Lab Use | Mandatory |
+| Data Governance | Must follow Annex 07 |
+| Evidence Traceability | Must follow MCF 2.1 |
 
 ---
 
-# **5. Confidentiality & Publication Rights**
+## **6.3 Core Clauses**
 
-- Research may be published **after IP protection** is filed  
-- Joint review required before public presentations  
-- Confidential information must not be disclosed  
+### **Article 1 — Parties**  
+University, Startup, Researchers, and any affiliated Labs.
 
----
+### **Article 2 — Background IP Disclosure**
 
-# **6. Dispute Resolution**
+### **Article 3 — Foreground & Joint IP Rules**
 
-Recommended pathway:
-1. Internal negotiation  
-2. University legal office  
-3. Mediation  
-4. Arbitration  
-5. Courts (last resort)  
+### **Article 4 — Revenue-Sharing Agreement**
 
----
+### **Article 5 — Use of Facilities and Research Infrastructure**
 
-# **7. Signatures (Optional for Full Agreement)**
+### **Article 6 — Academic Publications & Embargoes**
 
-University Representative: _____________________  
-Startup Founder: _______________________________  
-Research Contributor(s): ________________________  
+### **Article 7 — Data, Privacy & Security (Annex 07)**
+
+### **Article 8 — Compliance, Audit & Dispute Resolution**
 
 ---
 
-# **8. Outputs of Annex 08**
+# **7. Localization Guidance**
 
-This annex includes:
+Countries must adapt:
 
-- Full **IP Assignment Agreement**  
-- Complete **Licensing Agreement Template**  
-- Comprehensive **University–Startup Collaboration IP Clauses**  
-- Tables for IP items, licenses, revenue sharing, and infrastructure  
-- Clear, implementable frameworks aligned with VIF governance
+- legal terminology,  
+- national IP registry references,  
+- royalty/financial rules,  
+- publication rights frameworks,  
+- technology transfer regulations.
 
-## © Copyright
+Countries may NOT modify:
 
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).
+- evidence or maturity requirements,  
+- auditability rules,  
+- governance boundaries (NSC–TOU–IC),  
+- IP-related COI requirements.
+
+---
+
+# **8. Reference Snapshot**
+
+Primary Doulab frameworks:
+
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
+
+External influences (non-primary):
+
+- WIPO IP Governance Standards  
+- OECD IP & Knowledge Transfer Guidelines  
+- OECD Public Governance Principles  
+- GDPR (for data-linked IP)  
+
+Full bibliography available in **11-references.md**.
+
+---
+
+# **9. Licensing**
+
+This annex is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**  
+
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.

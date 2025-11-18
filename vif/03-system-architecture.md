@@ -1,277 +1,272 @@
-# 03 – System Architecture
-
-## **3.1 Purpose of the System Architecture**
-
-The system architecture defines **how a national public–private incubator network functions as a unified system**.  
-It translates the findings from the ecosystem diagnostic into a **coherent, modular, and scalable structure** that aligns actors, processes, capital, governance, and foresight across the entire innovation ecosystem.
-
-This section uses:
-
-- **[MCF 2.1](https://www.themicrocanvas.com)** to structure value, stakeholders, and system interactions  
-- **[IMM-P®](https://www.doulab.net/services/innovation-maturity)** to ensure capability alignment and maturity progression  
-- **[Vigía Futura](https://www.doulab.net/vigia-futura)** to shape long-term sector positioning and resilience  
-
-The result is a **blueprint** that any government or institution can adopt, replicate, or adapt.
+# 03 — System Architecture  
+## Vigía Incubation Framework (VIF)  
+**National Public–Private Incubation Network Guide — Version 1.2**
 
 ---
 
-## **3.2 Core Components of the National Incubator Network**
+# **1. Introduction**
 
-The architecture consists of five interconnected layers:
+The **System Architecture** defines the structural backbone of the Vigía Incubation Framework (VIF).  
+It translates the findings of the Ecosystem Diagnostic (Section 02) into:
 
-1. **Strategic & Policy Layer**  
-2. **Governance & Institutional Layer**  
-3. **Programmatic & Operational Layer**  
-4. **Capital & Funding Layer**  
-5. **Data, Measurement & Foresight Layer**  
+- governance structures,  
+- institutional roles,  
+- operational layers,  
+- capital flows,  
+- data and MEL systems,  
+- foresight integration,  
+- and national coordination mechanisms.
 
-Each layer plays a distinct role but operates as part of one coordinated national system.
+This section must be read **before** Section 04 — Operating Model, because the operating model activates and operationalizes the architecture defined here.
 
----
-
-## **3.3 Layer 1 — Strategic & Policy Layer**
-
-This layer establishes the **national mandate**, vision, and alignment with long-term development goals.
-
-Key functions:
-
-- Define national innovation priorities  
-- Select priority sectors (informed by **[Vigía Futura](https://www.doulab.net/vigia-futura)**)  
-- Ensure alignment with economic, industrial, and digital strategies  
-- Set policy incentives and regulatory enablers  
-- Provide high-level oversight and continuity  
-
-Outputs:
-
-- National strategy or decree for the incubator network  
-- Sector prioritization map  
-- Policy roadmap for enablers (tax, investment, IP, digital infrastructure)
+For navigation support, see **00a – How to Use VIF**.  
+For terminology, see **00c – Glossary**.
 
 ---
 
-## **3.4 Layer 2 — Governance & Institutional Layer**
+# **2. How to Read This Section**
 
-This layer ensures the system operates with clear mandates, accountability, and public–private symmetry.
+This section explains *what the national system is*, not *how it operates day-to-day*.
 
-### **Key Components**
-
-#### **1. National Steering Council**
-Composed of representatives from:
-- key ministries  
-- innovation agencies  
-- private sector associations  
-- universities  
-- investment partners  
-
-Responsible for:
-- setting annual priorities  
-- approving funding cycles  
-- ensuring transparency  
-- resolving institutional fragmentation  
+- Section 03 = **Structure**  
+- Section 04 = **Processes**  
+- Section 05 = **Governance & Capability Requirements**  
+- Section 06 = **Funding & Investment**  
 
 ---
 
-#### **2. Technical Operating Unit (TOU)**
-A specialized execution team responsible for:
-- managing programs  
-- coordinating incubators  
-- validating evidence ([MCF 2.1](https://www.themicrocanvas.com))  
-- tracking KPIs  
-- administering funds  
-- connecting with international partners  
+# **3. Architectural Overview**
 
-This unit must remain **independent, agile, and operationally focused**.
+VIF architecture integrates the three core Doulab frameworks:
 
----
+| Framework | Influence on Architecture |
+|----------|----------------------------|
+| **MCF 2.1** | Defines evidence flow, program modules, and validation stages |
+| **IMM-P®** | Defines institutional maturity levels, TOU capability norms, and incubator eligibility |
+| **Vigía Futura** | Shapes sector priorities, cluster design, and long-term system adaptivity |
 
-#### **3. Public–Private Advisory Network**
-External advisors representing:
-- local VCs  
-- corporate innovation leaders  
-- global experts  
-- universities and labs  
-
-Responsible for:
-- technical review  
-- sector-specific guidance  
-- global trend integration  
+This creates a **multi-layer, future-ready national innovation system**.
 
 ---
 
-## **3.5 Layer 3 — Programmatic & Operational Layer**
+# **4. High-Level Architecture Diagram**
 
-This is the heart of the national incubator network. It defines how startups are supported, incubated, accelerated, and scaled.
-
-### **Core Programmatic Modules**
-
-#### **1. Incubation**
-- Problem validation (MCF 1.1)  
-- Customer analysis (MCF 1.4)  
-- Unique value architecture (MCF 2.x)  
-- Early-stage prototyping  
-- Market testing  
-
-#### **2. Acceleration**
-- Go-to-market  
-- Traction milestones  
-- Investment readiness  
-- Globalization pathways  
-
-#### **3. Coaching & Mentorship Network**
-- Mentor–startup matching  
-- Structured evidence-based sessions  
-- Mentor scoring (based on performance and value added)  
-- Cross-border mentorship  
-
-#### **4. Talent & Workforce Programs**
-- Digital skills  
-- Technical training  
-- Entrepreneurship bootcamps  
-- Diaspora talent integration  
+```mermaid
+flowchart TD
+    A(MCF 2.1 — Evidence Layer) --> B(IMM-P® — Institutional Maturity Layer)
+    B --> C(Vigía Futura — Strategic Foresight Layer)
+    C --> D(Governance Layer<br/>NSC · TOU · IC)
+    D --> E(Operational Layer<br/>Incubator Nodes)
+    E --> F(Capital Layer<br/>NIF · Co-Investment · Tranches)
+    F --> G(Data & MEL Layer<br/>KPIs · Dashboard · Reviews)
+    G --> H(Policy Feedback Loop)
+    H --> C
+```
 
 ---
 
-### **Specialized Tracks (Optional)**
-Countries can deploy vertical tracks aligned with **[Vigía Futura](https://www.doulab.net/vigia-futura)’s sector signals**, such as:
+# **5. VIF Architectural Layers**
 
-- FinTech  
-- MedTech  
-- AgriTech  
+## **5.1 Strategic Intelligence Layer**
+This layer integrates:
+
+- Evidence (MCF 2.1)  
+- Maturity insights (IMM-P®)  
+- Foresight signals (Vigía Futura)  
+
+It ensures the network is driven by **validated insights and future orientation**.
+
+---
+
+## **5.2 Governance Layer**
+Composed of three national bodies:
+
+### **National Steering Council (NSC)**
+- Sets national priorities  
+- Approves sectoral focus areas  
+- Provides political and strategic alignment  
+- Ensures cross-institutional collaboration  
+
+### **Technical Operating Unit (TOU)**
+- Central coordination and execution body  
+- Oversees incubator accreditation  
+- Manages MEL, KPIs, and data flows  
+- Enforces program standards and templates  
+
+### **Investment Committee (IC)**
+- Evaluates startup evidence packages  
+- Approves tranche-based investments  
+- Applies standardized due‑diligence  
+- Ensures investment integrity  
+
+---
+
+## **5.3 Operational Layer (Incubator Nodes)**
+Nodes may be:
+
+- Public incubators  
+- University incubators  
+- Private accelerators  
+- Corporate innovation units  
+- International partner nodes  
+
+Each node follows:
+
+- MCF 2.1 evidence standards  
+- IMM-P® capability requirements  
+- VIF program templates and KPIs  
+- Central reporting & MEL protocols  
+
+### **Minimum Capability Requirements for Every Node**
+
+| Capability Area | Requirement |
+|-----------------|-------------|
+| Governance | Clear leadership, decision rights, mandate |
+| Data | Ability to submit KPIs + evidence digitally |
+| Team | Operational lead + MCF‑trained coach |
+| Programs | Ability to deliver standardized modules |
+| Compliance | Legal, privacy, ethics readiness |
+| Infrastructure | Minimum physical/digital capacity |
+
+---
+
+## **5.4 Capital & Funding Layer**
+
+Funding flows follow four principles:
+
+1. **Transparency**  
+2. **Evidence-driven decision making**  
+3. **Risk-managed capital allocation**  
+4. **Tranche-based disbursement tied to milestones**
+
+Mechanisms include:
+
+- National Innovation Fund  
+- Public–private co-investment  
+- SAFE-based early-stage instruments  
+- Grant-based capacity-building funds  
+
+### **Capital Safety & Integrity Measures**
+
+- Standard fiduciary rules  
+- Anti‑corruption safeguards  
+- Evidence‑based investment memos  
+- Third‑party auditing  
+- Transparent tranche decisions  
+- Full digital traceability  
+
+---
+
+## **5.5 Data, KPIs & MEL Layer**
+This layer ensures national visibility and accountability.
+
+Components include:
+
+- Startup KPIs  
+- Incubator KPIs  
+- National dashboard  
+- Learning cycles  
+- Annual capability reviews  
+- Policy insights  
+
+Outputs feed into the **Policy Feedback Loop**, enabling yearly system adjustment.
+
+---
+
+## **5.6 Sector Tracks & Clusters**
+Sector tracks are defined using **Vigía Futura** insights:
+
+- Weak signal mapping  
+- Opportunity windows  
+- Horizon scanning  
+- Emerging sector portfolios  
+
+Examples of sector tracks (illustrative only):
+
 - GovTech  
+- HealthTech  
+- FinTech  
+- ClimateTech  
+- CreativeTech  
 - TourismTech  
-- AI & Data Science  
-- Climate & Energy  
+- AI & Digital Public Infrastructure  
 
-These tracks ensure alignment with **future economic opportunities**.
+Each track may form **regional clusters** based on:
 
----
-
-## **3.6 Layer 4 — Capital & Funding Layer**
-
-This layer creates the **financial backbone** of the incubator network.
-
-### **Components**
-
-#### **1. National Innovation Fund**
-- Seed-stage grants  
-- Matching investment programs  
-- Convertible notes or SAFE instruments  
-- Co-investment mechanisms with VCs  
-
-#### **2. Private Capital Channels**
-- Corporate venture arms  
-- Angel networks  
-- University-linked investment funds  
-- Diaspora investment platforms  
-
-#### **3. Sustainability Structure**
-- Multi-year budget commitment  
-- Performance-based funding  
-- Sector-specific investment pools  
-
-Outputs:
-- Capital flow architecture  
-- Funding cycle timelines  
-- Risk diversification model  
+- academic specialization  
+- private‑sector strength  
+- demand concentration  
+- talent availability  
 
 ---
 
-## **3.7 Layer 5 — Data, Measurement & Foresight Layer**
+## **5.7 Architectural Variants**
 
-This layer ensures the system is **measurable**, **transparent**, and **future-oriented**.
+VIF supports multiple national configurations:
 
-### **Components**
+### **Variant 1 — Centralized**
+One national hub, all programs coordinated centrally.
 
-#### **1. National KPI Dashboard**
-Aligned with MCF, [IMM-P®](https://www.doulab.net/services/innovation-maturity), and [Vigía Futura](https://www.doulab.net/vigia-futura) indicators:
-- startup density  
-- survival rates  
-- internationalization  
-- talent metrics  
-- investment flow  
-- maturity progression  
+### **Variant 2 — Hub-and-Spoke**
+Core TOU with regional incubator nodes.
 
----
+### **Variant 3 — Polycentric / Distributed**
+Multiple regional hubs interacting across a shared national backbone (best for large or federal countries).
 
-#### **2. Evidence Repository**
-Startups must provide:
-- validation evidence  
-- customer insights  
-- metrics  
-- financials  
-- progress reports  
-
-This repository ensures a **data-driven governance model**.
+Variant selection is determined by the diagnostic (Section 02).
 
 ---
 
-#### **3. Foresight Engine ([Vigía Futura](https://www.doulab.net/vigia-futura) Integration)**
-Includes:
-- early signals  
-- trend monitoring  
-- long-horizon risks  
-- sector opportunity mapping  
-- scenario planning  
+## **5.8 System Dynamics**
+The architecture forms a closed-loop system:
 
-This engine informs:
-- sector prioritization  
-- strategic pivots  
-- policy updates  
-- investment focus  
+```
+Evidence → Capability → Foresight → Governance → Programs → Capital → MEL → Policy → (back to Foresight)
+```
+
+This ensures continuous adaptation and national learning.
 
 ---
 
-## **3.8 System Flows (How Components Interact)**
+# **6. Connection to Section 04 — Operating Model**
 
-The national incubator network functions through five core system flows:
+Section 04 translates this architecture into:
 
-1. **Startup Flow**
-   → Application → Selection → Incubation → Acceleration → Funding → Internationalization
+- daily operations  
+- workflows  
+- processes  
+- data flows  
+- accreditation rules  
+- program delivery standards  
 
-2. **Capital Flow**
-   → Public funds → Innovation fund → Matching → Private capital → Scaling
-
-3. **Information Flow**
-   → Evidence → KPIs → Dashboard → Policy decisions
-
-4. **Knowledge Flow**
-   → Mentorship → Research → Corporate partnerships → Global networks
-
-5. **Governance Flow**
-   → Council → Technical Unit → Advisors → Incubators → Ministries
-
-These flows ensure alignment, reduce fragmentation, and accelerate decision-making.
+Architecture = **what the system is**  
+Operating Model = **how the system works**
 
 ---
 
-## **3.9 System Architecture Outputs**
+# **7. Reference Snapshot**
 
-The architecture delivers:
+Primary Doulab frameworks informing the architecture:
 
-- National governance model  
-- Incubator portfolio design  
-- Funding architecture  
-- Sector specialization map  
-- Roles and responsibilities  
-- KPI framework  
-- Data governance model  
-- International partnership framework  
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
 
-This becomes the **blueprint** for building and scaling the national incubator network.
+External influences (non-primary):
+
+- OECD Public Governance Principles  
+- WIPO Global Innovation Index  
+- OECD Strategic Foresight Toolkit  
+- World Bank GovTech Maturity Index  
+
+See **11-references.md** for full bibliography.
 
 ---
 
-## **3.10 Connection to the Next Section**
+# **8. Licensing**
 
-This section sets the foundation for:
+This document is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**  
 
-- **Section 04 — Operating Model**, which defines *how the architecture is implemented*  
-- **Section 05 — Funding Model**, which details capital flows  
-- **Section 07 — Scorecard**, which operationalizes KPIs  
-- **Section 08 — Roadmap**, which sequences execution over time
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.
 
-## © Copyright
-
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

@@ -1,344 +1,265 @@
-# 10 – Templates & Tools
-
-## **10.1 Purpose of the Templates & Tools Section**
-
-This section provides **ready‑to‑use, operational templates** that enable governments, incubators, universities, investors, and ecosystem stakeholders to execute the Vigía Incubation Framework (VIF) with consistency and discipline.
-
-The templates ensure:
-- Unified national standards  
-- Evidence‑based decision‑making ([MCF 2.1](https://www.themicrocanvas.com))  
-- Maturity‑aligned execution [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)  
-- Foresight integration ([Vigía Futura](https://www.doulab.net/vigia-futura))  
-- Governance transparency  
-
-These tools can be adapted, localized, expanded, or integrated directly into digital platforms (e.g., Incubation OS).
+# 10 — Templates & Tools  
+## Vigía Incubation Framework (VIF)  
+**National Public–Private Incubation Network Guide — Version 1.2**
 
 ---
 
-# **10.2 Governance Templates**
+# **1. Introduction**
 
-## **1. National Steering Council – Terms of Reference (ToR)**  
-Includes:
-- Mandate  
-- Composition  
-- Responsibilities  
-- Meeting cadence  
-- Reporting obligations  
-- Conflict-of-interest policy  
+Templates and tools are the **operational backbone** of the Vigía Incubation Framework (VIF).  
+They ensure that all incubator nodes—whether public, private, academic, municipal, or mixed—operate with the same:
 
----
+- standards,  
+- definitions,  
+- evidence requirements,  
+- reporting obligations,  
+- governance criteria, and  
+- investment documentation.
 
-## **2. Technical Operating Unit (TOU) – Operating Manual**
-Covers:
-- Organizational structure  
-- Job profiles  
-- SOPs  
-- Evidence review process  
-- Monitoring and evaluation workflow  
-- Communication protocols  
+Where previous sections define the **what** (architecture, governance, funding, KPIs, roadmap),  
+this section defines the **how** — providing ready-to-use templates that transform policy into execution.
 
----
+Templates are designed to be:
 
-## **3. Investment Committee (IC) – Evaluation Framework**
-Includes:
-- IC charter  
-- Investment scoring sheets  
-- Risk assessment checklist  
-- Tranche approval workflow  
-- Sector prioritization integration ([Vigía Futura](https://www.doulab.net/vigia-futura))  
+- fully adaptable to national contexts,  
+- aligned with legal and regulatory frameworks,  
+- validated through MCF 2.1 evidence standards,  
+- compatible with IMM-P® maturity requirements,  
+- integrated with Vigía Futura foresight cycles.
 
 ---
 
-# **10.3 Legal & Compliance Templates**
+# **2. How to Read This Section**
 
-## **1. National Incubator Network Establishment Decree**
-Contains:
-- Formal creation of the network  
-- Governance structure  
-- Legal identity of TOU  
-- Funding provisions  
-- Inter-institutional mandates  
+This section is organized into seven template families:
 
----
+1. Governance Templates  
+2. Legal Templates  
+3. Program Delivery Templates  
+4. Evidence Templates  
+5. Foresight Templates  
+6. Funding & Investment Templates  
+7. Operational Templates  
 
-## **2. Public–Private Partnership Memorandum of Understanding (MOU)**
-Defines:
-- Roles of government & private sector  
-- Shared responsibilities  
-- Funding expectations  
-- Performance requirements  
-- Transparency commitments  
+For each template type, we include:
 
----
+- **Purpose**  
+- **Components**  
+- **Use Cases**  
+- **Versioning Guidance**  
+- **Alignment to VIF Sections**  
+- **Owner (NSC, TOU, IC)**  
 
-## **3. Investment Agreements**
-### **a. Grant Agreement Template**
-- Eligibility  
-- Scope of use  
-- Reporting obligations  
-- Clawback provisions  
+These templates support:
 
-### **b. SAFE / Convertible Note Template**
-- Valuation triggers  
-- Conversion terms  
-- Investor rights  
-- Founder protections  
-
-### **c. Co-Investment Agreement**
-- Matching ratios  
-- Participation rights  
-- Governance of syndicated deals  
+- Section 03 — System Architecture  
+- Section 04 — Operating Model  
+- Section 05 — Funding Model  
+- Section 07 — KPIs & Scorecard  
+- Section 09 — Governance & Legal  
+- Section 11 — References  
+- Section 12 — Licensing  
 
 ---
 
-## **4. Data Privacy & Sharing Agreement**
-Aligned with:
-- GDPR  
-- National data protection laws  
-- Ethical AI/data governance frameworks  
+# **3. Templates Architecture Diagram**
 
-Includes:
-- Data handling  
-- Consent mechanisms  
-- Access rights  
-- Security protocols  
+```mermaid
+flowchart TD
+    A(Governance Templates) --> B(Legal Templates)
+    B --> C(Program Delivery Templates)
+    C --> D(Evidence Templates)
+    D --> E(Foresight Tools)
+    E --> F(Funding & Investment Templates)
+    F --> G(Operational Templates)
+```
 
----
-
-## **5. Intellectual Property (IP) Templates**
-### **a. IP Assignment Agreement**  
-### **b. Licensing Agreement**  
-### **c. University–Startup Collaboration Agreement**
-
-Each template includes guidance for:
-- Research IP  
-- Co-ownership models  
-- Licensing fees  
-- Tech transfer pathways  
+This architecture ensures standardization across the entire national network.
 
 ---
 
-# **10.4 Program Delivery Templates**
+# **4. Template Ownership & Versioning**
 
-## **1. Startup Application Form**
-Contains:
-- Founder information  
-- Problem definition (MCF 1.1)  
-- Customer evidence (MCF 1.4)  
-- Solution hypothesis (MCF 2.x)  
-- Traction data  
-- Sector alignment  
+## **4.1 Ownership Model**
 
----
-
-## **2. Selection Scorecard**
-Aligned with:
-- Evidence rigor  
-- Market opportunity  
-- Team capability  
-- Feasibility  
-- Sector prioritization ([Vigía Futura](https://www.doulab.net/vigia-futura))  
-- Investment readiness  
+| Template Family | Owner |
+|-----------------|--------|
+| Governance Templates | NSC |
+| Legal Templates | NSC + TOU |
+| Program Delivery Templates | TOU |
+| Evidence Templates | TOU |
+| Foresight Templates | NSC + Vigía Futura |
+| Funding Templates | IC + TOU |
+| Operational Templates | TOU |
 
 ---
 
-## **3. Incubation Program Workbook (MCF‑Aligned)**
-Sections:
-- Problem architecture  
-- Customer analysis  
-- Solution design  
-- Evidence log  
-- Validation sprints  
-- Weekly milestones  
+## **4.2 Versioning Rules**
+
+- Only the **owner** may issue new versions.  
+- Changes require **review approval** by relevant governance bodies.  
+- All nodes must use **the latest approved version**.  
+- Deprecated versions must be archived.  
+- Version history must be traceable via digital platform logs.
 
 ---
 
-## **4. Acceleration Program Workbook**
-Sections:
-- Traction metrics  
-- Sales pipeline  
-- Unit economics  
-- Marketing engine setup  
-- Investment readiness  
-- Globalization pathways  
+# **5. Governance Templates**
+
+## **5.1 NSC Charter Template**
+**Purpose:** Define NSC structure, responsibilities, decision rights.  
+**Components:** Mandate, membership, voting rules, conflict-of-interest rules.  
+**Use Case:** National governance setup.
+
+## **5.2 TOU Operating Manual**
+**Purpose:** Provide operational rules for implementation.  
+**Components:** Processes, compliance rules, digital system protocols.  
+**Use Case:** All TOU daily operations.
+
+## **5.3 IC Governance Policy**
+**Purpose:** Define investment decision rules.  
+**Components:** Approval criteria, evidence requirements, quorum rules.  
+**Use Case:** Investment review cycles.
 
 ---
 
-# **10.5 Monitoring & Reporting Templates**
+# **6. Legal Templates**
 
-## **1. Quarterly Startup Report**
-Includes:
-- KPIs (aligned to Section 07)  
-- Evidence updates  
-- Revenue/traction metrics  
-- Expenditure tracking  
-- Risks & blockers  
+## **6.1 Memorandum of Understanding (MoU)**
+Purpose, scope, partner obligations.
 
----
+## **6.2 Accreditation Agreement**
+Node rights, responsibilities, compliance duties.
 
-## **2. Incubator Node Quarterly Report**
-Includes:
-- Cohort performance  
-- Mentor evaluations  
-- Capital deployment summary  
-- Compliance with SOPs  
-- Operational risks  
+## **6.3 Data Sharing Agreement**
+Roles, permissions, limitations, privacy rules.
+
+## **6.4 Investment Agreements**
+SAFE, grants, co-investment, reimbursable advance models (adapted nationally).
 
 ---
 
-## **3. Annual National Report**
-Contains:
-- National scorecard results  
-- [IMM-P®](https://www.doulab.net/services/innovation-maturity) maturity progression  
-- Foresight alignment update  
-- Policy recommendations  
-- International benchmarking summary  
+# **7. Program Delivery Templates**
+
+## **7.1 Standardized Module Templates**
+Aligned to Section 04 modules.
+
+## **7.2 Coaching & Mentoring Protocols**
+Rules, responsibilities, KPI alignment.
+
+## **7.3 Program Completion Certificate**
+Standardized reporting.
 
 ---
 
-# **10.6 Evidence Templates ([MCF 2.1](https://www.themicrocanvas.com))**
+# **8. Evidence Templates**
 
-## **1. Problem Evidence Template**
-- Structural problem framing  
-- Evidence classification  
-- Sources  
-- Customer insights  
+Evidence templates are **directly based on MCF 2.1**.
 
-## **2. Customer Interview Template**
-- Interview plan  
-- Questions  
-- Summary of insights  
-- Validation strength  
+## **8.1 Evidence Submission Template**
+Customer analysis, problem definition, validation evidence.
 
-## **3. Solution Evidence Template**
-- Value architecture  
-- Feasibility proof  
-- Early experimentation  
-- Adoption signals  
+## **8.2 Experiment Log Template**
+Hypothesis → Method → Result → Insight → Decision.
 
-## **4. Market Opportunity Template**
-- Market size  
-- Competitive analysis  
-- Segmentation  
-- Adoption barriers  
+## **8.3 Evidence Audit Checklist**
+Used by TOU.
 
 ---
 
-# **10.7 Foresight & Sector Prioritization Tools**
+# **9. Foresight Templates (Vigía Futura)**
 
-## **1. [Vigía Futura](https://www.doulab.net/vigia-futura) Sector Prioritization Matrix**
-Includes dimensions for:
-- Global trends  
-- Regional competitiveness  
-- Export potential  
-- Strategic importance  
-- Talent availability  
+## **9.1 Horizon Scan Template**
+Signals, trends, weak signals.
 
----
+## **9.2 Sector Prioritization Template**
+Used by NSC + Vigía Futura.
 
-## **2. Weak-Signal Detection Log**
-Captures:
-- Faint trends  
-- Emerging technologies  
-- Indicators of disruption  
-- Possible future opportunities  
+## **9.3 Futures Wheel Template**
+Structured exploration of impact pathways.
 
 ---
 
-## **3. Scenario Planning Template**
-Used to explore:
-- Market disruptions  
-- Technological shifts  
-- Regulatory futures  
-- Talent pipeline evolution  
+# **10. Funding & Investment Templates**
+
+## **10.1 Investment Memo Template**
+Required for IC review.
+
+## **10.2 Tranche Release Checklist**
+Compliance rules.
+
+## **10.3 Investment Renewal Template**
+Progress, evidence, readiness.
 
 ---
 
-# **10.8 Capital & Funding Templates**
+# **11. Operational Templates**
 
-## **1. Funding Request Form**
-Aligned with:
-- Evidence requirements  
-- Milestones  
-- Financial projections  
-- Risk assessment  
+## **11.1 Reporting Calendar Template**
+Monthly / quarterly / annual requirements.
 
----
+## **11.2 KPI Submission Template**
+Aligned with Section 07.
 
-## **2. Due Diligence Checklist**
-Reviews:
-- Legal risks  
-- Financial health  
-- Technical feasibility  
-- Team capability  
-- Market positioning  
+## **11.3 Node Self-Assessment Template**
+IMM-P® alignment.
 
 ---
 
-## **3. Tranche Progress Template**
-Includes:
-- Milestone completion  
-- KPI status  
-- Evidence updates  
-- Approval workflow  
+# **12. Localization Guidance**
+
+Templates must be adapted at national level:
+
+- incorporate national legal terminology,  
+- align with procurement and contracting law,  
+- adapt for linguistic contexts,  
+- align with public–private collaboration norms,  
+- respect national data protection regulations.
+
+Localization must not alter:
+
+- evidence integrity rules,  
+- maturity alignment rules,  
+- governance decision rights,  
+- investment approval standards.
 
 ---
 
-## **4. Co-Investment Readiness Checklist**
-Assesses:
-- Investor appetite  
-- Startup traction  
-- Valuation position  
-- Risk profile  
+# **13. Alignment to KPIs & MEL**
+
+Each template contributes to one or more KPIs defined in Section 07.
+
+Examples:
+
+- Evidence templates → evidence compliance  
+- Investment templates → tranche turnaround  
+- Governance templates → maturity progression  
+- Foresight templates → sector alignment indicators  
 
 ---
 
-# **10.9 Operational Templates**
+# **14. Reference Snapshot**
 
-## **1. SOP Manual Structure**
-Includes:
-- Program delivery  
-- Reporting cadence  
-- Evidence review  
-- Risk mitigation  
-- Compliance procedures  
+Primary Doulab frameworks:
 
----
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
 
-## **2. Mentor Engagement Templates**
-- Mentor profile  
-- Matchmaking rules  
-- Session log  
-- Mentor scoring rubric  
-- Conflict-of-interest guidelines  
+External influences (non-primary):
+
+- OECD Public Governance Principles  
+- OECD Strategic Foresight Toolkit  
+- World Bank GovTech Maturity Index  
+- WIPO Global Innovation Index  
+
+Full bibliography available in **11-references.md**.
 
 ---
 
-## **3. Partnership Agreement Templates**
-For:
-- Universities  
-- Corporations  
-- International accelerators  
-- Research institutions  
+# **15. Licensing**
 
----
+This document is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**  
 
-# **10.10 Outputs of the Templates & Tools Section**
-
-This section delivers:
-
-- Complete set of operational templates  
-- Legal and governance documents  
-- Evidence and validation tools  
-- Reporting frameworks  
-- Foresight integration instruments  
-- SOP manuals  
-- Investment process templates  
-
-Together, these tools enable **immediate deployment** of the Vigía Incubation Framework (VIF) in any country.
-
-## © Copyright
-
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.

@@ -1,220 +1,284 @@
-# 08 – Roadmap for National Implementation
-
-## **8.1 Purpose of the Roadmap**
-
-The roadmap provides a **phased, actionable plan** for deploying a national public–private incubator network based on the Vigía Incubation Framework (VIF).  
-It translates strategy into execution, ensuring the system develops in a **structured, sequenced, and maturity-aligned** manner.
-
-This roadmap integrates:
-
-- **[MCF 2.1](https://www.themicrocanvas.com)** → evidence-based program design  
-- **[IMM-P®](https://www.doulab.net/services/innovation-maturity)** → capability progression and ecosystem maturity building  
-- **[Vigía Futura](https://www.doulab.net/vigia-futura)** → annual sector prioritization and foresight alignment  
-
-The result is a national implementation plan that is **realistic, scalable, and resilient**.
+# 08 — Roadmap & Phasing  
+## Vigía Incubation Framework (VIF)  
+**National Public–Private Incubation Network Guide — Version 1.2**
 
 ---
 
-## **8.2 Roadmap Structure**
+# **1. Introduction**
 
-The roadmap is divided into **three phases**, covering a 36‑month horizon:
+The **Roadmap & Phasing** section defines how the Vigía Incubation Framework (VIF) is deployed over time.  
+Where Sections 03–07 define *what the system is* and *how it functions*, this section defines:
 
-1. **Phase 1 — Foundation (0–6 months)**  
-2. **Phase 2 — Scaling (6–18 months)**  
-3. **Phase 3 — Consolidation (18–36 months)**  
+- **when** each component is introduced,  
+- **in what order**,  
+- **under what constraints**,  
+- **with which capabilities**, and  
+- **with which dependencies across the system**.
+
+A national incubation network must be deployed **progressively**, not all at once.  
+This ensures:
+
+- institutional maturity grows predictably (IMM-P®),  
+- programs launch only when evidence standards are in place (MCF 2.1),  
+- sector priorities evolve with the future (Vigía Futura),  
+- governance and funding structures stabilize before scaling,  
+- risk is minimized during early implementation.
+
+---
+
+# **2. How to Read This Section**
+
+This section provides:
+
+- phased national deployment strategy,  
+- milestone structure,  
+- dependencies across governance, funding, and KPIs,  
+- sequencing logic,  
+- risk and mitigation strategies,  
+- foresight-driven review cycles.
+
+Sections that depend on this one:
+
+- Section 03 — System Architecture  
+- Section 04 — Operating Model  
+- Section 05 — Funding Model  
+- Section 07 — KPIs & Scorecard  
+- Section 10 — Templates & Tools  
+
+---
+
+# **3. Roadmap Principles**
+
+The roadmap follows five core principles:
+
+### **3.1 Maturity-Based Progression (IMM-P®)**
+Institutions evolve from lower capability levels to higher ones through structured growth.
+
+### **3.2 Evidence-Driven (MCF 2.1)**
+Evidence standards dictate when programs can proceed.
+
+### **3.3 Foresight-Aligned (Vigía Futura)**
+Sector priorities and national innovation themes evolve based on emerging signals.
+
+### **3.4 Public–Private Symmetry**
+All nodes—public or private—advance through the same phases.
+
+### **3.5 Sustainability & Long-Term Governance**
+Roadmap phases ensure the system can survive political cycles and funding volatility.
+
+---
+
+# **4. Roadmap Architecture Diagram**
+
+```mermaid
+flowchart TD
+    A(Phase 1 — Foundation) --> B(Phase 2 — Scaling)
+    B --> C(Phase 3 — Consolidation)
+    C --> D(Annual Review · Vigía Futura · KPI Updates)
+    D --> B
+```
+
+This loop reflects a **continuous evolution cycle**, rather than a one-time deployment.
+
+---
+
+# **5. Phase Structure Overview**
+
+The roadmap is organized into **three phases**:
+
+1. **Phase 1 — Foundation (Months 0–12)**  
+   Build structures, governance, KPIs, and digital systems.
+
+2. **Phase 2 — Scaling (Months 12–36)**  
+   Accelerate program delivery, expand nodes, increase investment activity.
+
+3. **Phase 3 — Consolidation (Months 36–60)**  
+   Achieve national coverage, refine programs, and stabilize the model.
 
 Each phase includes:
-- Objectives  
-- Key activities  
-- Governance actions  
-- Capital deployment steps  
-- Evidence requirements  
-- KPIs and milestones  
+
+- objectives,  
+- milestones,  
+- risks,  
+- dependencies, and  
+- KPIs.
 
 ---
 
-# **PHASE 1 — FOUNDATION (0–6 months)**
-
-## **8.3 Objectives**
-
-- Establish foundational governance  
-- Deploy the first incubator nodes  
-- Initialize funding architecture  
-- Conduct full ecosystem diagnostic  
-- Publish national incubator strategy  
-- Activate sector prioritization ([Vigía Futura](https://www.doulab.net/vigia-futura))  
+# **6. Detailed Roadmap**
 
 ---
 
-## **8.4 Key Activities**
+## **6.1 Phase 1 — Foundation (0–12 Months)**
 
-### **1. Governance Setup**
-- Form the **National Steering Council**  
-- Establish the **Technical Operating Unit (TOU)**  
-- Approve governance protocols  
+### **Objective**
+Establish the structural and operational foundations of VIF.
 
-### **2. Diagnostic Execution**
-- Complete MCF-aligned ecosystem diagnostic  
-- Produce capability heatmap [(IMM-P®)](https://www.doulab.net/services/innovation-maturity)  
-- Publish sector prioritization report ([Vigía Futura](https://www.doulab.net/vigia-futura))  
+### **Milestones**
+- Formal creation of:
+  - National Steering Council (NSC)  
+  - Technical Operating Unit (TOU)  
+  - Investment Committee (IC)
+- National Innovation Fund (NIF) established  
+- Digital evidence platform operational  
+- First cohort of incubator nodes accredited  
+- National KPIs defined (Section 07)  
+- Initial sector priorities defined (Vigía Futura)  
+- Baseline IMM-P® maturity assessments completed  
 
-### **3. Policy & Strategy**
-- Approve national incubator network strategy  
-- Define incentives and regulatory enablers  
-- Publish transparency and reporting standards  
+### **Dependencies**
+- Governance definitions from Section 03  
+- Operating model modules from Section 04  
+- Funding mechanisms from Section 05  
+- KPI definitions from Section 07  
 
-### **4. Infrastructure Setup**
-- Select first incubator sites  
-- Develop unified SOPs and templates  
-- Prepare founder pipeline outreach  
+### **KPIs**
+- % of governance bodies operational  
+- % of nodes accredited  
+- Digital system uptime  
+- Evidence submission compliance  
+- Completion rate of IMM-P® baseline assessments  
 
-### **5. Funding Preparation**
-- Launch National Innovation Fund  
-- Define investment committees  
-- Establish evidence-based due diligence process  
-
----
-
-## **8.5 Milestones (Phase 1)**
-
-- National governance council operational  
-- Technical Operating Unit staffed  
-- Ecosystem diagnostic completed  
-- National strategy approved  
-- Two incubator nodes activated  
-- Innovation Fund operational  
-- Pipeline outreach launched  
-
----
-
-# **PHASE 2 — SCALING (6–18 months)**
-
-## **8.6 Objectives**
-
-- Expand the incubator network  
-- Launch core programs (incubation + acceleration)  
-- Operationalize funding cycles  
-- Strengthen private co-investment  
-- Integrate digital and data systems  
-- Activate international partnerships  
+### **Risks & Mitigation**
+| Risk | Mitigation |
+|------|------------|
+| Political delays | Early cross-ministry alignment |
+| Insufficient node maturity | Capability-building bootcamps |
+| Digital system slippage | Phased deployment + testing |
+| Funding bottlenecks | Multi-year budgeting + donor alignment |
 
 ---
 
-## **8.7 Key Activities**
+## **6.2 Phase 2 — Scaling (12–36 Months)**
 
-### **1. Program Deployment**
-- Launch incubation and acceleration cohorts  
-- Implement evidence-based learning cycles (MCF)  
-- Start quarterly reporting  
+### **Objective**
+Expand programs, increase startup throughput, and strengthen investment activity.
 
-### **2. Capital Deployment**
-- Approve first funding cycles  
-- Implement tranche-based disbursements  
-- Launch matching investment program  
+### **Milestones**
+- Expansion of incubator nodes (regional & sectoral)  
+- First national batches of startups graduated  
+- Tranche-based investments fully operational  
+- National Dashboard launched  
+- Second cycle of sector priorities via Vigía Futura  
+- Improvement in IMM-P® maturity across nodes  
+- Co-investment mechanisms activated  
 
-### **3. Ecosystem Development**
-- Activate mentorship network  
-- Integrate universities and research institutions  
-- Run talent development programs  
+### **Dependencies**
+- Successful completion of Phase 1  
+- Digital systems and KPI flow operational  
+- Working IC and TOU structures  
 
-### **4. Globalization Pathways**
-- Establish partnerships with global accelerators  
-- Launch soft-landing channels  
-- Engage diaspora markets  
+### **KPIs**
+- Startup graduation rate  
+- Tranche approval turnaround time  
+- Node performance consistency  
+- Co-investment participation rate  
+- Maturity progression (IMM-P®)  
 
-### **5. Digital Infrastructure**
-- Launch unified dashboard & evidence repository  
-- Integrate monitoring tools (MCF + [IMM-P](https://www.doulab.net/services/innovation-maturity) + [Vigía Futura](https://www.doulab.net/vigia-futura) KPIs)  
-
----
-
-## **8.8 Milestones (Phase 2)**
-
-- First two national cohorts completed  
-- Co-investment agreements signed  
-- National dashboard operational  
-- Mentor network active  
-- Global partnerships activated  
-- Startup internationalization pathways launched  
+### **Risks & Mitigation**
+| Risk | Mitigation |
+|------|------------|
+| Uneven node performance | Standardized program audits |
+| Slow investment processes | IC capacity reinforcement |
+| Talent shortages | Regional training partnerships |
+| Sector misalignment | Vigía Futura horizon review |
 
 ---
 
-# **PHASE 3 — CONSOLIDATION (18–36 months)**
+## **6.3 Phase 3 — Consolidation (36–60 Months)**
 
-## **8.9 Objectives**
+### **Objective**
+Stabilize the system, optimize programs, and establish international positioning.
 
-- Strengthen governance  
-- Improve capital efficiency  
-- Expand global competitiveness  
-- Institutionalize maturity progression  
-- Optimize programs based on evaluation  
-- Scale sector specialization  
+### **Milestones**
+- National coverage achieved  
+- Specialized sector tracks refined  
+- Alumni programs established  
+- National innovation impact report published  
+- International partnerships formalized  
+- Return on investment mechanisms functioning  
+- Fully functional national foresight loop  
 
----
+### **Dependencies**
+- Fully operational Phase 2  
+- Evidence and KPI compliance stabilized  
+- Strong TOU operational maturity  
 
-## **8.10 Key Activities**
+### **KPIs**
+- National coverage index  
+- Economic impact metrics  
+- Internationalization rate  
+- Return-on-investment indicators  
+- Governance stability metrics  
 
-### **1. Governance Optimization**
-- Policy refinements based on KPI outcomes  
-- Annual oversight cycle fully institutionalized  
-- TOU operational audits  
-
-### **2. Ecosystem Maturity Building**
-- [IMM-P®](https://www.doulab.net/services/innovation-maturity) rescore for all ecosystem stakeholders  
-- Identify gaps for institutional strengthening  
-- Expand sector specialization programs  
-
-### **3. Capital Optimization**
-- Improve follow-on investment flow  
-- Attract international VC participation  
-- Launch second-stage funding instruments  
-
-### **4. Foresight Integration**
-- Annual review of sector priorities  
-- Update disruption pathways and risk indicators  
-- Publish competitiveness improvement plan  
-
-### **5. Scaling & Sustainability**
-- Launch additional incubator nodes  
-- Introduce revenue-generation models  
-- Expand international relationships  
+### **Risks & Mitigation**
+| Risk | Mitigation |
+|------|------------|
+| Funding volatility | Reinvestment loop + multi-year budgeting |
+| Loss of political support | Transparent reporting + public dashboards |
+| Sector stagnation | Annual foresight cycle updates |
+| Over-complexity | Simplification of processes |
 
 ---
 
-## **8.11 Milestones (Phase 3)**
+# **7. Annual Review & Foresight Cycle**
 
-- National incubator network fully operational  
-- Annual foresight updates institutionalized  
-- Significant private co-investment achieved  
-- Internationalization metrics improved  
-- Ecosystem maturity increased ([IMM-P®](https://www.doulab.net/services/innovation-maturity) progression)  
-- Sustained capital flow and strengthened governance  
+At the end of each year:
 
----
+1. KPI results are analyzed (Section 07)  
+2. Institutional maturity updates occur (IMM-P®)  
+3. Sector priorities are refreshed (Vigía Futura)  
+4. Investment instruments are adjusted  
+5. Governance and processes are refined  
 
-## **8.12 Roadmap Outputs**
+This ensures VIF remains:
 
-This roadmap produces:
-
-- 36‑month national implementation plan  
-- Detailed action steps for all actors  
-- Funding activation timeline  
-- Ecosystem maturity progression map  
-- Foresight-integrated strategy updates  
-- Governance and compliance requirements  
-- Annual review and adaptation cycles  
+- future-aligned,  
+- evidence-driven,  
+- investment-ready, and  
+- resilient across government cycles.
 
 ---
 
-## **8.13 Connection to Final Sections**
+# **8. Five-Year National Impact Targets**
 
-The roadmap feeds directly into:
+By the end of Year 5, typical national goals include:
 
-- **Section 09 — Governance & Legal Toolkit**, defining structures needed to execute the roadmap  
-- **Section 10 — Templates**, providing tools to operationalize every phase
+- ≥ 60% node maturity improvement (IMM-P®)  
+- ≥ 70% evidence compliance (MCF 2.1)  
+- ≥ 50+ active incubator nodes  
+- ≥ 500–1000 supported startups  
+- ≥ 20–30% securing follow-on funding  
+- ≥ 10–15% generating exports  
+- Improved public value indicators (sector-specific)  
+- Established diaspora investment channels  
 
-## © Copyright
+These targets serve as strategic orientation guidelines.
 
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
+---
+
+# **9. Reference Snapshot**
+
+Primary Doulab frameworks informing the Roadmap:
+
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
+
+External influences (non-primary):
+
+- OECD Public Governance Principles  
+- OECD Strategic Foresight Toolkit  
+- WIPO Global Innovation Index  
+- World Bank GovTech Maturity Index  
+
+Full bibliography in **11-references.md**.
+
+---
+
+# **10. Licensing**
+
+This document is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**  
+
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.

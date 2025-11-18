@@ -1,183 +1,310 @@
-# 06 – International Benchmarking
-
-## **6.1 Purpose of Benchmarking**
-
-Benchmarking positions the national public–private incubator network within the context of global best practices.  
-It provides **comparative insights**, identifies **lessons learned**, and aligns the Vigía Incubation Framework (VIF) with proven models from high-performing ecosystems.
-
-The goal is not to copy these programs, but to **extract transferable principles** and adapt them through:
-
-- **[MCF 2.1](https://www.themicrocanvas.com)** → structural clarity for program design  
-- **[IMM-P®](https://www.doulab.net/services/innovation-maturity)** → capability progression and ecosystem readiness  
-- **[Vigía Futura](https://www.doulab.net/vigia-futura)** → future-aligned sector prioritization  
+# 06 — Benchmarking  
+## Vigía Incubation Framework (VIF)  
+**National Public–Private Incubation Network Guide — Version 1.2**
 
 ---
 
-## **6.2 Benchmark Selection Criteria**
+# **1. Introduction**
 
-Programs are selected based on:
+Benchmarking provides the comparative foundation for designing a **context‑aware**, **globally aligned**, and **future‑ready** national incubation system.  
+It identifies what global programs do well, where they fall short, and which principles can be safely adapted to the national context.
 
-1. **Proven impact and measurable outcomes**  
-2. **Public–private governance balance**  
-3. **Sector specialization and foresight integration**  
-4. **Capital mobilization effectiveness**  
-5. **Scalability and sustainability**  
-6. **Alignment with emerging market needs**  
+Benchmarking does **not** prescribe models to copy.  
+Instead, it helps governments understand:
 
----
+- what is transferable,  
+- what requires adaptation,  
+- what should be avoided, and  
+- how the VIF model positions itself within the global landscape.
 
-## **6.3 Benchmark 1 — Startup Chile**
+This section feeds directly into **Section 03 (System Architecture)** and **Section 08 (Roadmap)**.
 
-### **Strengths**
-- Global brand recognition  
-- Non-dilutive capital attracts foreign founders  
-- Large international network  
-- Boosts innovation visibility  
-
-### **Weaknesses**
-- Low long-term retention  
-- Limited integration into local investor networks  
-
-### **Transferable Lessons**
-- Strong inbound international startup attraction  
-- Importance of soft-landing services  
-- Need for retention incentives (tax, follow-on funding)
+For navigation support, see **00a — How to Use VIF**.  
+For terminology, see **00c — Glossary**.
 
 ---
 
-## **6.4 Benchmark 2 — Ruta N (Medellín, Colombia)**
+# **2. How to Read This Section**
 
-### **Strengths**
-- Strong public–private governance model  
-- Sector-focused strategy (AI, blockchain, advanced technologies)  
-- Deep integration with city economic development  
+This section is structured to:
 
-### **Weaknesses**
-- Bureaucratic delays in deployment  
-- Over-dependence on public budgets  
+1. Provide a global overview of recognized incubation models  
+2. Compare their governance, funding, and specialization  
+3. Extract design principles relevant to VIF  
+4. Identify cautionary gaps and non‑transferable elements  
+5. Ensure all benchmarking is future‑aligned (Vigía Futura)
 
-### **Transferable Lessons**
-- Importance of governance clarity  
-- Value of sector specialization  
-- Need to protect operational agility from bureaucracy  
+This section should be used by:
+
+- Ministries and policy units  
+- National innovation agencies  
+- TOU teams  
+- Incubator operators  
+- International development partners  
 
 ---
 
-## **6.5 Benchmark 3 — InovAtiva Brasil**
+# **3. Benchmarking Process Overview**
 
-### **Strengths**
-- Virtual incubation model  
+```mermaid
+flowchart LR
+    A(Global Programs) --> B(Extracted Principles)
+    B --> C(VIF Alignment Mapping)
+    C --> D(Design Inputs for Architecture & Roadmap)
+```
+
+The benchmarking process uses:
+
+- public documentation,  
+- interviews,  
+- program evaluations,  
+- ecosystem data, and  
+- international foresight inputs (via Vigía Futura).
+
+---
+
+# **4. Benchmarking Methodology**
+
+The methodology includes:
+
+### **4.1 Document Review**
+- Public program documents  
+- Annual reports  
+- Evaluation studies  
+- Policy frameworks  
+
+### **4.2 Comparative Dimension Analysis**
+Across these dimensions:
+
+- Governance & institutional structure  
+- Funding & capital mechanisms  
+- Specialization & sector strategy  
+- Internationalization  
+- Evidence & evaluation practices  
+- Maturity & capability requirements  
+
+### **4.3 Foresight Integration (Vigía Futura)**
+Benchmarks are evaluated against:
+
+- emerging sector relevance  
+- forward‑looking program design  
+- long‑term sustainability  
+- adaptability to future trends  
+
+### **4.4 Transferability Assessment**
+Programs are analyzed for:
+
+- contextual fit  
+- cultural alignment  
+- institutional feasibility  
+- legal compatibility  
+- financial sustainability  
+
+---
+
+# **5. Global Benchmark Summary**
+
+Below is a **non‑exhaustive**, high‑level comparison of well-known programs.  
+Details are generalized and limited to publicly available, verifiable information.
+
+## **5.1 Start-Up Chile (Chile)**
+
+**Strengths:**  
+- Global attraction of talent  
+- Equity‑free funding  
+- Strong international positioning  
+- Clear government-led mandate  
+
+**Weaknesses:**  
+- Limited deep‑tech specialization  
+- Lower long-term survival rates compared to global peers  
+- Program scale challenges over time  
+
+---
+
+## **5.2 Ruta N (Colombia)**
+
+**Strengths:**  
+- Strong city-led innovation governance (Medellín)  
+- Public–private infrastructure integration  
+- Corporate innovation partnerships  
+
+**Weaknesses:**  
+- Heavy dependence on municipal governance cycles  
+- Difficulty scaling nationally  
+
+---
+
+## **5.3 InovAtiva Brasil (Brazil)**
+
+**Strengths:**  
 - National reach  
-- Scalable training programs  
+- Strong specialization in acceleration  
+- Clear corporate partnerships  
 
-### **Weaknesses**
-- Weak follow-on investment mechanisms  
-- Limited global scaling pathways  
-
-### **Transferable Lessons**
-- Virtual and hybrid models broaden access  
-- National networks require strong investor partnerships  
+**Weaknesses:**  
+- Limited early-stage capability-building  
+- Heavy program volume reduces depth per startup  
 
 ---
 
-## **6.6 Benchmark 4 — Israel Innovation Authority (IIA)**
+## **5.4 Israel Innovation Authority (Israel)**
 
-### **Strengths**
-- Strong commercialization of research  
-- High density of early-stage capital  
-- Government-backed co-investment channels  
-- Global demand for Israeli startups  
+**Strengths:**  
+- Highly specialized deep-tech orientation  
+- Strong commercialization pathways  
+- Multi-tiered funding instruments  
 
-### **Weaknesses**
-- Requires strong R&D institutions  
-- Resource-intensive model  
-
-### **Transferable Lessons**
-- Value of strong R&D-to-startup pipelines  
-- Importance of multi-stage public capital  
-- Co-investment culture as a backbone  
+**Weaknesses:**  
+- High cost structure  
+- Requires advanced research ecosystem  
 
 ---
 
-## **6.7 Benchmark 5 — Singapore Enterprise / SGInnovate**
+## **5.5 SGInnovate (Singapore)**
 
-### **Strengths**
-- Deep focus on frontier technologies  
-- Clear national strategy  
-- Strong talent attraction programs  
-- Highly integrated IP and regulatory infrastructure  
+**Strengths:**  
+- Excellent integration with national strategies  
+- Strong venture co-investment capabilities  
+- Deep focus on AI, biotech, and emerging tech  
 
-### **Weaknesses**
-- High operational costs  
-- Extremely competitive market  
-
-### **Transferable Lessons**
-- Value of coordinated national strategy  
-- Importance of digital public infrastructure  
-- Strong alignment between research, startups, and industry  
+**Weaknesses:**  
+- High talent cost  
+- Model depends on strong underlying economic foundations  
 
 ---
 
-## **6.8 Benchmark Synthesis**
+# **6. Benchmark Comparison Matrix**
 
-Across all benchmarked programs, five common elements emerge:
+| Program | Governance Model | Funding Mechanisms | Specialization | Internationalization | Evidence Orientation |
+|--------|------------------|-------------------|----------------|----------------------|----------------------|
+| Start-Up Chile | National, centralized | Equity-free grants | Generalist | High | Moderate |
+| Ruta N | City-led, public–private | Public funds + corporate | Urban innovation | Medium | Moderate |
+| InovAtiva Brasil | National, distributed | Public + corporate | Acceleration | Medium | Moderate |
+| Israel Innovation Authority | National, tiered | Grants + equity + co-investment | Deep-tech | High | Strong |
+| SGInnovate | National, state-backed | Co-investment | Deep-tech | High | Strong |
 
-### **1. Clear Governance & Institutional Architecture**
-Strong steering councils, technical units, and transparent processes.
-
-### **2. Public–Private Funding**
-Government capital anchors private investment and reduces risk.
-
-### **3. Sector Specialization**
-Competitive ecosystems choose future-relevant verticals.
-
-### **4. Internationalization**
-Top ecosystems intentionally integrate global partners.
-
-### **5. Evidence-Based Processes**
-Selection, funding, and scaling depend on data—not assumptions.
-
-These elements are all embedded within VIF by design.
+This table is for **illustrative benchmarking only**.  
+No proprietary or unpublished data is used.
 
 ---
 
-## **6.9 Benchmark-to-VIF Integration Map**
+# **7. Interpretation Guide**
 
-| Benchmark Insight | VIF Equivalent |
-|-------------------|----------------|
-| Attraction of international startups | Outreach & globalization pipelines |
-| Sector specialization | [Vigía Futura](https://www.doulab.net/vigia-futura) sector prioritization |
-| Strong governance | VIF Layer 2 — Governance Architecture |
-| Public–private co-investment | Funding Model Section 05 |
-| Virtual acceleration models | Hybrid operating model |
-| Retention incentives | National Innovation Fund structure |
-| High R&D commercialization | Talent, research & TTO integration |
+### **7.1 Strengths are NOT blueprints**  
+Even strong elements must be tested against:
+
+- national context  
+- institutional maturity  
+- funding capacity  
+- talent availability  
+- political cycles  
+
+### **7.2 Weaknesses are warnings, not disqualifiers**
+Weaknesses help identify:
+
+- what not to over‑rely on  
+- what requires adaptation  
+- what requires risk mitigation  
+
+### **7.3 Transferability Is Contextually Dependent**
+A globally successful model may fail if:
+
+- funding pipelines differ  
+- legal frameworks are incompatible  
+- public–private incentives misalign  
+- administrative burdens are high  
 
 ---
 
-## **6.10 Outputs of the Benchmarking Section**
+# **8. What Not to Benchmark**
 
-This benchmarking exercise produces:
+Many governments mistakenly replicate:
 
-- A global comparison matrix  
-- Transferable lessons categorized by system layer  
-- High-probability success patterns  
-- Risk and failure patterns to avoid  
-- Input to strategic design decisions  
-- Alignment with future sector opportunities  
+- models requiring high budgets they cannot sustain  
+- models dependent on sophisticated research ecosystems  
+- models with complex legal instruments  
+- programs assuming advanced capital markets  
+- accelerator‑only approaches lacking capability-building  
+
+VIF avoids these pitfalls by emphasizing:
+
+- maturity‑based capability development (IMM-P®)  
+- evidence‑driven startup validation (MCF 2.1)  
+- foresight‑driven sector prioritization (Vigía Futura)  
 
 ---
 
-## **6.11 Connection to the Next Sections**
+# **9. Extracted Design Principles for VIF**
 
-Benchmarking feeds directly into:
+Across the benchmarks, the following principles consistently emerge:
 
-- **Section 07 — KPIs & Scorecard**, enabling comparative measurement  
-- **Section 08 — Roadmap**, informing implementation phasing  
-- **Section 09 — Governance**, strengthening oversight structure
+### **9.1 Strong Governance**
+Clear mandates, decision rights, and institutional alignment.
 
-## © Copyright
+### **9.2 Multi‑Layered Funding Instruments**
+Diverse instruments: grants, equity, SAFE, co-investment.
 
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
+### **9.3 Sector Specialization**
+Deep specialization aligned with national priorities.
+
+### **9.4 Evidence Orientation**
+Evaluation and selection based on structured, validated insights.
+
+### **9.5 Integration with National Strategy**
+Programs anchored in long-term development goals.
+
+### **9.6 Internationalization**
+Global exposure, partnerships, and venture mobility.
+
+---
+
+# **10. How VIF Positions Itself Relative to Benchmarks**
+
+VIF integrates the strongest global principles but introduces **two unique differentiators**:
+
+### **10.1 Foresight Integration**
+Via **Vigía Futura**, VIF is explicitly designed to evolve based on:
+
+- emerging technologies  
+- socio-economic shifts  
+- weak signals  
+- horizon scanning  
+
+### **10.2 Capability Maturity Integration**
+Via **IMM-P®**, VIF ensures institutional maturity grows progressively and predictably — something global benchmarks rarely address.
+
+This makes VIF a **more adaptive, scalable, and resilient** national framework.
+
+---
+
+# **11. Connection to Section 03 and Section 08**
+
+- Section 03 uses benchmarking outputs to design the national architecture.  
+- Section 08 uses benchmarking to define the national phasing and implementation strategy.
+
+---
+
+# **12. Reference Snapshot**
+
+Primary Doulab frameworks informing this section:  
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
+
+External influences (non-primary):  
+- OECD Public Governance Principles  
+- OECD Strategic Foresight Toolkit  
+- WIPO Global Innovation Index  
+- World Bank GovTech Maturity Index  
+
+See **11-references.md** for full bibliography.
+
+---
+
+# **13. Licensing**
+
+This document is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**  
+
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.

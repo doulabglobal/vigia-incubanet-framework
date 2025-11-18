@@ -1,256 +1,335 @@
-# 09 – Governance & Legal Toolkit
-
-## **9.1 Purpose of the Governance & Legal Toolkit**
-
-The governance and legal toolkit provides the **institutional, regulatory, and operational scaffolding** required to implement and sustain a national public–private incubator network using the Vigía Incubation Framework (VIF).
-
-This section offers:
-
-- Governance structures  
-- Legal instruments  
-- Policy enablers  
-- Compliance mechanisms  
-- Committee mandates  
-- Reporting rules  
-- Partnership frameworks  
-
-It ensures that the network functions with **clarity, legitimacy, transparency, and continuity**, independent of political cycles.
+# 09 — Governance & Legal Toolkit  
+## Vigía Incubation Framework (VIF)  
+**National Public–Private Incubation Network Guide — Version 1.2**
 
 ---
 
-## **9.2 Governance Principles**
+# **1. Introduction**
 
-1. **Public–Private Symmetry**  
-   Balanced roles between government, private sector, academia, and international partners.
+This section provides the **governance**, **legal**, and **regulatory** foundations required for the implementation of the Vigía Incubation Framework (VIF).  
+Where previous sections define the system’s architecture, operating model, funding flows, KPIs, and roadmap, this section ensures the framework operates within a **clear, compliant, enforceable, and sustainable governance structure**.
 
-2. **Transparency & Accountability**  
-   Decision-making must be traceable, documented, and auditable.
+It answers the following:
 
-3. **Operational Independence**  
-   The Technical Operating Unit (TOU) should operate without bureaucratic interference.
+- Who has decision-making authority across the national network?  
+- What are the legal and regulatory obligations of each actor?  
+- How are data, investments, and evidence protected?  
+- How are conflicts of interest, ethics, and compliance managed?  
+- What documentation, policies, and legal templates are required?  
+- How does governance evolve as institutional maturity increases (IMM-P®)?  
 
-4. **Evidence-Based Decision-Making**  
-   All evaluations, investments, and approvals must rely on MCF-aligned evidence.
+This toolkit provides a legally sound and operationally scalable foundation for public–private collaboration.
 
-5. **Continuity Across Administrations**  
-   Governance designed to withstand political transitions.
-
-6. **Compliance With National Law & International Standards**  
-   Alignment with data protection, IP rights, investment regulations, and ethical frameworks.
-
----
-
-## **9.3 Core Governance Bodies**
-
-### **1. National Steering Council (NSC)**  
-The highest oversight body.
-
-**Composition:**  
-- Government ministries  
-- Innovation agencies  
-- Private sector representatives  
-- Academic leaders  
-- Investment ecosystem actors  
-
-**Responsibilities:**  
-- Strategic oversight  
-- Approval of annual priorities  
-- Validation of KPIs and scorecards  
-- Sector alignment review ([Vigía Futura](https://www.doulab.net/vigia-futura))  
-- Annual performance audit  
+For navigation support, see **00a — How to Use VIF**.  
+For terminology, see **00c — Glossary**.
 
 ---
 
-### **2. Technical Operating Unit (TOU)**  
-Execution engine of the national network.
+# **2. How to Read This Section**
 
-**Responsibilities:**  
-- Administer programs and SOPs  
-- Manage incubator nodes  
-- Monitor KPIs  
-- Conduct due diligence  
-- Maintain evidence repository  
-- Prepare quarterly and annual reports  
+This section defines:
 
-**Characteristics:**  
-- Independent  
-- Professionally staffed  
-- Technically specialized  
+- governance bodies (NSC, TOU, IC),  
+- legal duties and obligations,  
+- data protections and privacy standards,  
+- conflict-of-interest mechanisms,  
+- compliance and oversight rules,  
+- required policies,  
+- minimum governance capabilities for institutions,  
+- legal instruments for investment and collaboration.
 
----
+This section supports:
 
-### **3. Investment Committee (IC)**  
-Evaluates funding requests and oversees capital deployment.
-
-**Composition:**  
-- Finance experts  
-- VC representatives  
-- Sector specialists  
-- Legal advisors  
-
-**Responsibilities:**  
-- Review investment proposals  
-- Conduct risk assessments  
-- Approve tranche disbursements  
-- Monitor portfolio performance  
+- Section 03 — System Architecture  
+- Section 04 — Operating Model  
+- Section 05 — Funding Model  
+- Section 07 — KPIs & Scorecard  
+- Section 10 — Templates & Tools  
 
 ---
 
-### **4. Advisory Board**  
-Offers strategic and technical expertise.
+# **3. Governance Architecture Overview**
 
-Potential members:  
-- International VCs  
-- Corporate innovation leaders  
-- University researchers  
-- Sector-specific experts  
-- Diaspora leaders  
+VIF governance is structured around **three national bodies**, each with distinct mandates and legal responsibilities.
 
----
+```mermaid
+flowchart TD
+    A(National Steering Council · NSC) --> B(Technical Operating Unit · TOU)
+    B --> C(Investment Committee · IC)
+```
 
-## **9.4 Legal Instruments Required**
-
-### **1. National Executive Mandate or Decree**
-Establishes:
-- The national network  
-- Governance structure  
-- Funding architecture  
-- Mandates for each institution  
-
-### **2. Inter-Institutional Agreements**
-Formalize coordination between:
-- Ministries  
-- Universities  
-- Private sector organizations  
-- Innovation agencies  
-
-### **3. Investment Framework Regulations**
-Define:
-- Eligibility criteria  
-- Evidence requirements (MCF)  
-- Due diligence procedures  
-- Co-investment rules  
-- Funding instruments (grants, SAFE, notes)  
-
-### **4. Data Governance & Privacy Compliance**
-Should address:
-- Data collection and storage  
-- Transparency requirements  
-- Access levels  
-- GDPR/national privacy law compliance  
-- Ethical AI/data usage  
-
-### **5. Intellectual Property (IP) Framework**
-Must define:
-- Startup IP rights  
-- University–startup agreements  
-- Licensing and commercialization pathways  
-- Conditions for public-funded IP  
-
-### **6. Procurement & Sandbox Policies**
-Enable:
-- Agile contracting  
-- Innovation sandboxes  
-- Pilot programs  
-- Experimental regulatory windows  
+Each body operates with predefined decision rights, reporting responsibilities, and compliance obligations.
 
 ---
 
-## **9.5 Reporting & Compliance Mechanisms**
-
-### **Quarterly Reporting Requirements**
-- Startup KPIs  
-- Financial status  
-- Evidence packages  
-- Milestone progression  
-
-### **Annual Reporting Requirements**
-- Full performance audit  
-- Ecosystem scorecard update  
-- Governance review  
-- Foresight alignment refresh ([Vigía Futura](https://www.doulab.net/vigia-futura))  
-
-### **Incubator Obligations**
-- Program delivery compliance  
-- Mentor evaluations  
-- Financial transparency  
-- SOP adherence  
-- Data reporting  
+# **4. Governance Bodies**
 
 ---
 
-## **9.6 Legal Templates to Include in Annexes**
+## **4.1 National Steering Council (NSC)**
 
-1. **National Incubator Network Establishment Decree**  
-2. **Public–Private Partnership MOU**  
-3. **Investment Agreement Templates (Grant, SAFE, Note)**  
-4. **Evidence Requirements Checklist ([MCF 2.1](https://www.themicrocanvas.com))**  
-5. **Data Privacy & Sharing Agreement**  
-6. **IP Assignment & Licensing Agreements**  
-7. **Mentor/Advisor Service Agreement**  
-8. **Incubator Node Accreditation Requirements**  
-9. **Annual Reporting Template**  
+### **Mandate**
+The NSC provides **strategic direction**, **policy alignment**, and **national oversight**.
 
-These templates will be included in **Section 10 – Templates & Tools**.
+### **Legal Responsibilities**
+- Approve strategic priorities, including sector tracks (Vigía Futura)  
+- Approve multi-year budgeting for NIF  
+- Define national governance policies  
+- Approve accreditation standards  
+- Ratify IC membership  
+- Ensure alignment with national development strategies  
+
+### **Decision Rights**
+- High-level policy and strategy  
+- System-wide KPIs (Section 07)  
+- Major governance changes  
+- National-level funding allocations  
+
+### **Compliance Duties**
+- Conflict-of-interest disclosures  
+- Publication of annual governance report  
+- Compliance with national public administration laws  
 
 ---
 
-## **9.7 Oversight & Audit Mechanisms**
+## **4.2 Technical Operating Unit (TOU)**
 
-Governance must ensure neutrality, integrity, and trust.
+### **Mandate**
+The TOU acts as the **central implementation body**, responsible for executing all operational, technical, and administrative activities of the national network.
 
-### **Oversight Mechanisms**
-- Independent audit panels  
-- Public reporting dashboards  
+### **Legal Responsibilities**
+- Manage node accreditation  
+- Oversee data reporting and KPI compliance  
+- Manage VIF digital infrastructure  
+- Enforce evidence standards (MCF 2.1)  
+- Conduct institutional maturity assessments (IMM-P®)  
+- Ensure the integrity of tranche-based funding flows  
+
+### **Decision Rights**
+- Approve or revoke node accreditation  
+- Approve compliance-related penalties  
+- Operational authority over templates, protocols, and reporting  
+- First-level approval of investment submissions  
+
+### **Compliance Duties**
+- Maintain data protection and privacy compliance  
+- Ensure integrity of evidence submissions  
+- Maintain audit trails for funding decisions  
+
+---
+
+## **4.3 Investment Committee (IC)**
+
+### **Mandate**
+The IC provides **independent investment oversight**, ensuring decisions are based on evidence, maturity, and compliance.
+
+### **Legal Responsibilities**
+- Review and approve investment memos  
+- Ensure transparent and unbiased decision-making  
+- Apply evidence and risk standards consistently  
+- Approve tranche releases and renewals  
+
+### **Decision Rights**
+- Final approval of startup tranches  
+- Investment renewal decisions  
+- Portfolio-level adjustments  
+
+### **Compliance Duties**
 - Conflict-of-interest declarations  
-- External evaluator participation  
-
-### **Risk Management**
-- Financial risk mapping  
-- Operational risk review  
-- Fraud detection safeguards  
-
-### **Ethics & AI Governance**
-- Integration of national AI principles where relevant  
-- Compliance with digital public infrastructure ethics  
-- Transparency in data-driven decisions  
+- Recusal in cases of personal or institutional conflict  
+- Audit-friendly documentation  
 
 ---
 
-## **9.8 Institutional Continuity Measures**
+# **5. Minimum Governance Capabilities (IMM-P® Alignment)**
 
-To ensure long-term survival:
+Governance requirements for institutions derive from the **Innovation Maturity Model Program (IMM-P®)**.
 
-- Multi-year budgeting for the Innovation Fund  
-- Fixed-term appointments for TOU leadership  
-- Legal protection for operational independence  
-- Annual program evaluation  
-- Mandatory knowledge transfer protocols  
+## **5.1 Capability Areas**
 
----
-
-## **9.9 Outputs of the Governance & Legal Toolkit**
-
-This section delivers:
-
-- Full governance blueprint  
-- Legal and regulatory scaffolding  
-- Oversight and audit mechanisms  
-- Inter-institutional commitments  
-- Investment governance policies  
-- Reporting and compliance rules  
-- Data and IP governance frameworks  
+| Capability Domain | Minimum Requirement |
+|-------------------|---------------------|
+| Governance | Defined leadership, decision rights, and escalation paths |
+| Compliance | Auditability, legal clarity, privacy protocols |
+| Evidence Integrity | MCF 2.1–compliant submission processes |
+| Transparency | Reporting and dashboard participation |
+| Maturity Development | Annual IMM-P® assessment |
+| Risk Management | Policies for financial, operational, and data risk |
 
 ---
 
-## **9.10 Connection to the Final Section**
+# **6. Legal & Regulatory Framework**
 
-This section prepares the foundation for:
+The legal toolkit establishes the requirements for:
 
-- **Section 10 — Templates & Tools**, where all operational, legal, and governance templates are fully developed for implementation.
+- contracting and procurement,  
+- investment and funding flows,  
+- institutional collaboration,  
+- data protection,  
+- compliance,  
+- ethical guidelines.
 
-## © Copyright
+---
 
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
+## **6.1 Legal Instruments**
+
+### **Memorandum of Understanding (MoU)**
+Establishes collaboration terms between:
+
+- ministries,  
+- universities,  
+- municipalities,  
+- private incubators,  
+- international partners.
+
+### **Accreditation Agreement**
+Defines rights and responsibilities of incubator nodes within VIF.
+
+### **Data Sharing Agreement**
+Ensures lawful, privacy-compliant exchange of:
+
+- KPIs  
+- evidence  
+- maturity assessments  
+- investment documents  
+
+### **Investment Agreements**
+Depending on national law:
+
+- SAFE agreements  
+- grants  
+- reimbursable advances  
+- co-investment term sheets  
+
+---
+
+## **6.2 Compliance & Oversight Requirements**
+
+### **Financial Compliance**
+- multi-year budgeting (Section 05),  
+- audit-friendly documentation,  
+- digital traceability of transactions.
+
+### **Regulatory Compliance**
+- alignment with national innovation policies,  
+- sector-specific regulations,  
+- public administration norms.
+
+### **Ethics & Conduct**
+- conflict-of-interest rules,  
+- recusal mechanisms,  
+- minimum ethical training for reviewers.
+
+---
+
+# **7. Data Governance & Privacy Standards**
+
+Data governance is based on:
+
+- national data protection laws,  
+- sector-specific regulations,  
+- international good practices.
+
+### **7.1 Data Governance Responsibilities**
+
+| Actor | Responsibility |
+|-------|----------------|
+| TOU | Manage infrastructure, ensure lawful processing |
+| Nodes | Submit accurate and timely data |
+| NSC | Approve national data policies |
+| IC | Protect investment-related data |
+
+### **7.2 Privacy Standards**
+
+- lawful basis for data collection,  
+- purpose limitation,  
+- data minimization,  
+- accuracy,  
+- storage limitation,  
+- confidentiality,  
+- integrity,  
+- auditability.
+
+---
+
+# **8. Conflict-of-Interest Mechanisms**
+
+To ensure trust across the network, conflict-of-interest mechanisms include:
+
+- mandatory annual declarations,  
+- recusal rules for reviewers and IC members,  
+- transparent documentation of decisions,  
+- public disclosure of summary decisions,  
+- penalties for non-compliance.
+
+---
+
+# **9. Transparency & Accountability**
+
+Transparency mechanisms include:
+
+- national dashboard publication (Section 07),  
+- open data (when lawful),  
+- annual governance reports,  
+- third-party audits,  
+- system-wide compliance reviews.
+
+---
+
+# **10. Enforcement & Penalties**
+
+Institutions may face:
+
+- warnings,  
+- probation status,  
+- temporary suspension,  
+- revocation of accreditation,  
+- financial penalties (if permitted by law).
+
+All enforcement actions must follow:
+
+- due process,  
+- transparency,  
+- fairness,  
+- official documentation.
+
+---
+
+# **11. Connection to Section 10 — Templates & Tools**
+
+This section lays the foundation for all templates in Section 10:
+
+- MoU template  
+- Accreditation agreements  
+- Data governance policies  
+- Investment agreements  
+- Evidence review checklists  
+- Conflict-of-interest declarations  
+
+---
+
+# **12. Reference Snapshot**
+
+Primary Doulab frameworks:
+
+- **MicroCanvas® Framework 2.1** — https://www.themicrocanvas.com  
+- **Innovation Maturity Model Program (IMM-P®)** — https://www.doulab.net/services/innovation-maturity  
+- **Vigía Futura** — https://www.doulab.net/vigia-futura  
+
+External influences (non-primary):
+
+- OECD Public Governance Principles  
+- World Bank GovTech Maturity Index  
+- OECD Strategic Foresight Toolkit  
+- WIPO Global Innovation Index  
+
+Full bibliography available in **11-references.md**.
+
+---
+
+# **13. Licensing**
+
+This document is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See: **[LICENSE.md](../LICENSE.md)**  
+
+MicroCanvas® and IMM-P® are **proprietary methodologies of Doulab**.
