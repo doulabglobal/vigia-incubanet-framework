@@ -72,12 +72,48 @@ const config: Config = {
         },
       ],
     },
-    footer: {
-      style: 'dark',
-      links: [],
-      copyright:
-        'MicroCanvas®, IMM-P® and Vigía Incubation Framework (VIF) are proprietary methodologies of Doulab. All rights reserved.',
-    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Documentation',
+          items: [
+            {
+              label: 'VIF Core',
+              to: '/docs/core/vif/00-executive-summary',
+            },
+          ],
+        },
+        {
+          title: 'Doulab',
+          items: [
+            {
+              label: 'Doulab Website',
+              href: 'https://www.doulab.net',
+            },
+            {
+              label: 'MicroCanvas Framework',
+              href: 'https://themicrocanvas.com',
+            },
+            {
+              label: 'Vigia Futura Observatory',
+              href: 'https://doulab.net/vigia-futura',
+            },
+          ],
+        },
+        {
+          title: 'GitHub',
+          items: [
+            {
+              label: 'VIF Repository',
+              href: 'https://github.com/doulabglobal/vigia-incubanet-framework',
+            },
+          ],
+        },
+      ],
+      copyright:
+        'MicroCanvas, IMM-P and Vigia Incubation Framework (VIF) are proprietary methodologies of Doulab. All rights reserved.',
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
