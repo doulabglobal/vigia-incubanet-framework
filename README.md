@@ -59,9 +59,9 @@ Once content is finalized (VIF v1.0), it will be deployed as a **Docusaurus docu
 
 Recommended tools:
 
-- **VS Code** — primary writing and editing environment  
-- **GitHub** — version control and collaboration  
-- **GitHub private repo** — canonical source of truth  
+- **VS Code**  -  primary writing and editing environment  
+- **GitHub**  -  version control and collaboration  
+- **GitHub private repo**  -  canonical source of truth  
 
 ---
 
@@ -85,6 +85,6 @@ This repository is licensed under the
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
 See: **[LICENSE.md](vif/LICENSE.md)**
 
-**MicroCanvas® Framework** and **IMM-P®** are **proprietary methodologies of Doulab**.
+**MicroCanvas®, IMM-P® and VIF** are **proprietary methodologies of Doulab**.
 
 © 2025 [Doulab](https://doulab.net). All rights reserved.

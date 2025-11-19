@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@docusaurus/theme-mermaid": "^3.9.2",
+    "lucide-react": "^0.554.0"
+  }
+}

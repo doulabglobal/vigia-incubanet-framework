@@ -1,0 +1,535 @@
+/**
+ * Global CSS for VIF / Doulab Docusaurus site.
+ * This file overrides Infima defaults and applies the Doulab brand system.
+ */
+
+/* -------------------------------------------------- */
+/* INFIMA PRIMARY COLORS → DOULAB PALETTE             */
+/* -------------------------------------------------- */
+:root {
+  /* Infima primary = Doulab Deep Indigo */
+  --ifm-color-primary: #38249a;
+  --ifm-color-primary-dark: #321f8b;
+  --ifm-color-primary-darker: #2d1c7f;
+  --ifm-color-primary-darkest: #241666;
+  --ifm-color-primary-light: #4430aa;
+  --ifm-color-primary-lighter: #4b37b3;
+  --ifm-color-primary-lightest: #5b46c4;
+
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(56, 36, 154, 0.08);
+
+  /* Doulab brand palette */
+  --doulab-green: #72c53c;
+  --doulab-purple: #964590;
+  --doulab-indigo: #38249a;
+  --doulab-slate: #484854;
+  --doulab-white: #ffffff;  /* Layout container widths */
+  --ifm-container-width: 1180px;
+  --ifm-container-width-xl: 1320px;
+
+
+
+  /* VIF theme tokens (derived) */
+  --vif-color-bg: var(--doulab-white);
+  --vif-color-surface: #f7f7f9;
+  --vif-color-text: var(--doulab-slate);
+  --vif-color-heading: var(--doulab-indigo);
+  --vif-color-muted: #6b6f7b;
+  --vif-color-border: #e1e1e7;
+  --vif-color-accent: var(--doulab-indigo);
+
+  --vif-button-primary-bg: var(--doulab-indigo);
+  --vif-button-primary-text: var(--doulab-white);
+  --vif-button-secondary-bg: var(--doulab-slate);
+  --vif-button-secondary-text: var(--doulab-white);
+  --vif-button-hover-opacity: 0.92;
+}
+
+/* Dark mode palette */
+[data-theme='dark'] {
+  --ifm-color-primary: #72c53c; /* Doulab Green as accent in dark mode */
+  --ifm-color-primary-dark: #63ad35;
+  --ifm-color-primary-darker: #56962e;
+  --ifm-color-primary-darkest: #3f6f22;
+  --ifm-color-primary-light: #82d248;
+  --ifm-color-primary-lighter: #8cda55;
+  --ifm-color-primary-lightest: #a2e673;
+
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.06);
+
+  --vif-color-bg: #050509;
+  --vif-color-surface: #11121a;
+  --vif-color-text: #d7dae5;
+  --vif-color-heading: #e2e5f5;
+  --vif-color-muted: #9ba0b3;
+  --vif-color-border: #262839;
+}
+
+/* -------------------------------------- */
+/* HOMEPAGE LAYOUT                        */
+/* -------------------------------------- */
+
+.vif-home {
+  background: var(--vif-color-bg);
+}
+
+.vif-hero {
+  position: relative;
+  padding: 4rem 0 3rem;
+  border-bottom: 1px solid var(--vif-color-border);
+  overflow: hidden;
+}
+
+.vif-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(
+      120deg,
+      rgba(5, 5, 9, 0.78),
+      rgba(5, 5, 9, 0.45),
+      rgba(5, 5, 9, 0.9)
+    ),
+    url('/img/hero_index.jpg');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.9;
+  pointer-events: none;
+}
+
+.vif-hero-inner {
+  position: relative;
+  max-width: 960px;
+}
+
+.vif-hero h1 {
+  font-size: 2.6rem;
+  margin-bottom: 1rem;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+}
+
+.vif-tagline {
+  max-width: 44rem;
+  font-size: 1.1rem;
+  color: #f3f3f7;
+  margin-bottom: 2rem;
+}
+
+.vif-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.vif-hero-actions .button.button--primary {
+  background: var(--vif-button-primary-bg);
+  color: var(--vif-button-primary-text);
+  border-radius: 999px;
+  border: none;
+}
+
+.vif-hero-actions .button.button--primary:hover {
+  opacity: var(--vif-button-hover-opacity);
+}
+
+.vif-hero-actions .button.button--secondary {
+  background: var(--vif-button-secondary-bg);
+  color: var(--vif-button-secondary-text);
+  border-radius: 999px;
+  border: none;
+}
+
+.vif-hero-actions .button.button--secondary:hover {
+  opacity: var(--vif-button-hover-opacity);
+}
+
+.vif-highlights {
+  padding: 3rem 0 4rem;
+}
+
+.vif-highlights .container {
+  max-width: 1080px;
+}
+
+.vif-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.6rem;
+  align-items: stretch;
+}
+
+.vif-card {
+  background: var(--vif-color-surface);
+  border: 1px solid var(--vif-color-border);
+  border-radius: 1rem;
+  padding: 1.8rem;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.vif-card h2,
+.vif-card h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.6rem;
+  color: var(--vif-color-heading);
+}
+
+.vif-card p {
+  font-size: 0.97rem;
+  margin: 0;
+  color: var(--vif-color-text);
+}
+
+/* Card icons & buttons */
+
+.vif-card-icon {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.75rem;
+  background: rgba(56, 36, 154, 0.08);
+  color: var(--vif-color-heading);
+}
+
+.vif-card-icon svg {
+  width: 1.3rem;
+  height: 1.3rem;
+}
+
+.vif-card .button {
+  background: var(--vif-button-primary-bg);
+  color: var(--vif-button-primary-text);
+  border-radius: 999px;
+  border: none;
+}
+
+.vif-card .button:hover {
+  opacity: var(--vif-button-hover-opacity);
+}
+
+/* Normalize variants inside cards */
+.vif-card .button.button--secondary,
+.vif-card .button.button--outline {
+  background: var(--vif-button-primary-bg);
+  color: var(--vif-button-primary-text);
+}
+
+.vif-card .button.button--sm {
+  font-size: 0.8rem;
+  padding-inline: 1rem;
+}
+
+.vif-card-button {
+  margin-top: 1rem;
+}
+
+.vif-card-button:last-child {
+  margin-top: auto;
+}
+
+/* Case studies */
+
+.vif-case-studies .vif-card {
+  padding: 2rem;
+}
+
+/* -------------------------------------- */
+/* ARCHITECTURE TEASER                    */
+/* -------------------------------------- */
+
+.vif-architecture-teaser {
+  border-top: 1px dashed var(--vif-color-border);
+}
+
+.vif-arch-flow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+.vif-arch-pill {
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  background: var(--vif-color-surface);
+  border: 1px solid var(--vif-color-border);
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+
+.vif-arch-arrow {
+  width: 1.5rem;
+  height: 1.5rem;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.vif-arch-arrow::before {
+  content: '→';
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  color: var(--vif-color-muted);
+}
+
+.vif-arch-arrow-loop::before {
+  content: '↺';
+}
+
+.vif-arch-caption {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  color: var(--vif-color-muted);
+}
+
+/* Link lists used in some cards */
+
+.vif-link-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.75rem 0 0;
+}
+
+.vif-link-list li + li {
+  margin-top: 0.25rem;
+}
+
+.vif-link-list a {
+  font-size: 0.9rem;
+}
+
+/* -------------------------------------- */
+/* NAVBAR & HEADER                        */
+/* -------------------------------------- */
+
+.navbar {
+  background-color: var(--vif-color-bg);
+  border-bottom: 1px solid var(--vif-color-border);
+  box-shadow: 0 4px 10px rgba(5, 5, 9, 0.04);
+}
+
+.navbar__brand {
+  gap: 0.5rem;
+}
+
+.navbar__title {
+  letter-spacing: -0.02em;
+  color: var(--vif-color-text);
+  font-weight: 600;
+}
+
+.navbar__link {
+  color: var(--vif-color-muted);
+  font-size: 0.95rem;
+}
+
+.navbar__link:hover,
+.navbar__link--active {
+  color: var(--ifm-color-primary);
+}
+
+.navbar__link--active {
+  position: relative;
+}
+
+.navbar__link--active::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.35rem;
+  height: 2px;
+  border-radius: 999px;
+  background: var(--ifm-color-primary);
+}
+
+/* Dark mode navbar */
+
+[data-theme='dark'] .navbar {
+  background-color: #050509;
+  border-bottom-color: #262839;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme='dark'] .navbar__title {
+  color: var(--vif-color-heading);
+}
+
+[data-theme='dark'] .navbar__link {
+  color: var(--vif-color-muted);
+}
+
+/* -------------------------------------- */
+/* FOOTER                                 */
+/* -------------------------------------- */
+
+.footer--dark {
+  background-color: #050509;
+}
+
+.footer__title {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.footer__item {
+  font-size: 0.9rem;
+}
+
+.footer__link-item {
+  color: #d7dae5;
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-color-primary);
+}
+
+.footer--dark a {
+  color: var(--doulab-white);
+  transition: color 0.2s ease;
+}
+
+.footer--dark a:hover {
+  color: var(--doulab-green);
+}
+
+/* -------------------------------------- */
+/* DOCS TYPOGRAPHY & CONTENT              */
+/* -------------------------------------- */
+
+.markdown {
+  font-size: 0.97rem;
+  line-height: 1.6;
+  color: var(--vif-color-text);
+}
+
+.markdown h1,
+.markdown h2,
+.markdown h3 {
+  color: var(--vif-color-heading);
+  letter-spacing: -0.01em;
+}
+
+.markdown h1 {
+  font-size: 2rem;
+}
+
+.markdown h2 {
+  font-size: 1.5rem;
+  margin-top: 2.25rem;
+  border-bottom: 1px solid var(--vif-color-border);
+  padding-bottom: 0.35rem;
+}
+
+.markdown h3 {
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+/* Links inside docs */
+.markdown a {
+  color: var(--ifm-color-primary);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.markdown a:hover {
+  text-decoration: underline;
+}
+
+/* Admonitions */
+.admonition {
+  border-radius: 0.75rem;
+  border: 1px solid var(--vif-color-border);
+}
+
+.admonition .admonition-title {
+  font-weight: 600;
+}
+
+/* Code blocks */
+.theme-code-block,
+.codeBlock_node_modules-\@docusaurus-theme-classic-lib-theme-CodeBlock-Content-styles-module {
+  border-radius: 0.75rem;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+/* Inline code */
+code {
+  border-radius: 0.25rem;
+}
+
+/* Tables */
+.markdown table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.92rem;
+  display: block;
+  overflow-x: auto;
+}
+
+.markdown table thead {
+  border-bottom: 1px solid var(--vif-color-border);
+}
+
+.markdown table th,
+.markdown table td {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+.markdown table tr:nth-child(even) {
+  background: rgba(0, 0, 0, 0.01);
+}
+
+/* -------------------------------------- */
+/* RESPONSIVENESS                         */
+/* -------------------------------------- */
+
+@media (max-width: 768px) {
+  .vif-hero {
+    padding: 3rem 0 2.5rem;
+  }
+
+  .vif-hero h1 {
+    font-size: 2rem;
+  }
+
+  .vif-tagline {
+    font-size: 0.98rem;
+  }
+
+  .vif-hero-actions {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .vif-hero-actions .button {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .vif-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .vif-arch-flow {
+    gap: 0.4rem;
+  }
+
+  .vif-arch-pill {
+    font-size: 0.78rem;
+  }
+}
