@@ -72,7 +72,7 @@ The VIF Funding Model is based on **five financial pillars**:
 
 # **4. Funding Architecture Diagram**
 
-:::info Mermaid Diagram
+:::info Funding Architecture Cycle
 
 ```mermaid
 flowchart TD
@@ -192,7 +192,7 @@ It is structured in **tranches** tied to measurable, evidence‑driven milestone
 
 ### **8.2 Tranche Decision Flow**
 
-:::info Mermaid Diagram
+:::info Tranche Decision Flow
 
 ```mermaid
 flowchart TD
@@ -262,7 +262,7 @@ These safeguards ensure national and international trust.
 
 # **12. Funding Cycle Map**
 
-:::info Mermaid Diagram
+:::info Funding Cycle Map
 
 ```mermaid
 flowchart LR
@@ -350,7 +350,7 @@ For full bibliography, see **11-references.md**.
 
 # **16. Licensing**
 
-This document is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+[Vigia Incubation Framework](https://vif.doulab.net) © 2025 by [Luis A. Santiago](https://www.linkedin.com/in/lasantiagoa/) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg) ![ND](https://mirrors.creativecommons.org/presskit/icons/nd.svg)
 See: **[LICENSE.md](./LICENSE.md)**  
 
 MicroCanvas®, IMM-P® and VIF are **proprietary methodologies of Doulab**.

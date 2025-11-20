@@ -79,7 +79,7 @@ Countries **may NOT**:
 
 # **3. IP Architecture Diagram**
 
-:::info Mermaid Diagram
+:::info IP Agreement Architecture
 
 ```mermaid
 flowchart TD
@@ -284,7 +284,7 @@ Full bibliography available in **11-references.md**.
 
 # **9. Licensing**
 
-This annex is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+[Vigia Incubation Framework](https://vif.doulab.net) © 2025 by [Luis A. Santiago](https://www.linkedin.com/in/lasantiagoa/) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg) ![ND](https://mirrors.creativecommons.org/presskit/icons/nd.svg)
 See: **[LICENSE.md](../LICENSE.md)**  
 
 MicroCanvas®, IMM-P® and VIF are **proprietary methodologies of Doulab**.

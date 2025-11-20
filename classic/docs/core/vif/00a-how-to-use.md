@@ -105,7 +105,7 @@ Purpose: Understand due diligence, tranching, and investment rules.
 
 # **4. The VIF Logic: How Everything Fits Together**
 
-:::info Mermaid Diagram
+:::info VIF Logic Flow
 
 ```mermaid
 flowchart TD

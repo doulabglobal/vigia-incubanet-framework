@@ -132,7 +132,7 @@ A national public–private incubation network turns incubation from a set of is
 
 # **7. Implementation Sequence (Recommended)**
 
-:::info Mermaid Diagram
+:::info VIF Implementation Sequence
 
 ```mermaid
 flowchart TD

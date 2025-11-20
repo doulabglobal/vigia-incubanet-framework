@@ -46,6 +46,28 @@
   --vif-button-hover-opacity: 0.92;
 }
 
+a {
+  color: var(--doulab-indigo);
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--doulab-green);
+}
+
+[data-theme='dark'] a {
+  color: #f3f3f7;
+}
+
+a {
+  color: var(--doulab-indigo);
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--doulab-green);
+}
+
 /* Dark mode palette */
 [data-theme='dark'] {
   --ifm-color-primary: #72c53c; /* Doulab Green as accent in dark mode */
@@ -95,7 +117,7 @@
     url('/img/hero_index.jpg');
   background-size: cover;
   background-position: center;
-  opacity: 0.9;
+  opacity: 0.25;
   pointer-events: none;
 }
 
@@ -104,18 +126,45 @@
   max-width: 960px;
 }
 
+.vif-hero-logo {
+  width: 140px;
+  margin-bottom: 1rem;
+  opacity: 0.85;
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4));
+}
+
+.vif-hero-logo--dark {
+  display: none;
+}
+
+[data-theme='dark'] .vif-hero-logo--light {
+  display: none;
+}
+
+[data-theme='dark'] .vif-hero-logo--dark {
+  display: block;
+}
+
 .vif-hero h1 {
   font-size: 2.6rem;
   margin-bottom: 1rem;
   letter-spacing: -0.01em;
-  color: #ffffff;
+  color: #000000;
 }
 
 .vif-tagline {
   max-width: 44rem;
   font-size: 1.1rem;
-  color: #f3f3f7;
+  color: #111111;
   margin-bottom: 2rem;
+}
+
+[data-theme='dark'] .vif-hero h1 {
+  color: #ffffff;
+}
+
+[data-theme='dark'] .vif-tagline {
+  color: #f3f3f7;
 }
 
 .vif-hero-actions {
@@ -132,7 +181,8 @@
 }
 
 .vif-hero-actions .button.button--primary:hover {
-  opacity: var(--vif-button-hover-opacity);
+  background: var(--doulab-green);
+  color: #000000;
 }
 
 .vif-hero-actions .button.button--secondary {
@@ -143,7 +193,8 @@
 }
 
 .vif-hero-actions .button.button--secondary:hover {
-  opacity: var(--vif-button-hover-opacity);
+  background: var(--doulab-green);
+  color: #000000;
 }
 
 .vif-highlights {
@@ -169,6 +220,80 @@
   display: flex;
   flex-direction: column;
   height: 100%;
+  position: relative;
+}
+
+.vif-card::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 160px;
+  border-radius: 0.75rem;
+  margin-bottom: 1rem;
+  background-image: url('https://placehold.co/600x360/0B173D/FFFFFF?text=VIF');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.85;
+}
+
+.vif-card-1::before {
+  background-image: url('../../static/img/vif-card\ bg-1.png');
+}
+
+.vif-card-2::before {
+  background-image: url('../../static/img/vif-card\ bg-2.png');
+}
+
+.vif-card-3::before {
+  background-image: url('../../static/img/vif-card\ bg-3.png');
+}
+
+.vif-card-4::before {
+  background-image: url('../../static/img/vif-card\ bg-4.png');
+}
+
+.vif-card-5::before {
+  background-image: url('../../static/img/vif-card\ bg-5.png');
+}
+
+.vif-card-6::before {
+  background-image: url('../../static/img/vif-card\ bg-6.png');
+}
+
+.vif-card-7::before {
+  background-image: url('../../static/img/vif-card\ bg-7.png');
+}
+
+.vif-card-8::before {
+  background-image: url('../../static/img/vif-card\ bg-8.png');
+}
+
+.vif-card-9::before {
+  background-image: url('../../static/img/vif-card\ bg-9.png');
+}
+
+.vif-card-10::before {
+  background-image: url('../../static/img/vif-card\ bg-10.png');
+}
+
+.vif-card-11::before {
+  background-image: url('../../static/img/vif-card\ bg-11.png');
+}
+
+.vif-card-12::before {
+  background-image: url('../../static/img/vif-card\ bg-12.png');
+}
+
+.vif-card-13::before {
+  background-image: url('../../static/img/vif-card\ bg-13.png');
+}
+
+.vif-card-14::before {
+  background-image: url('../../static/img/vif-card\ bg-14.png');
+}
+
+.vif-card-15::before {
+  background-image: url('../../static/img/vif-card\ bg-15.png');
 }
 
 .vif-card h2,
@@ -211,7 +336,8 @@
 }
 
 .vif-card .button:hover {
-  opacity: var(--vif-button-hover-opacity);
+  background: var(--doulab-green);
+  color: #000000;
 }
 
 /* Normalize variants inside cards */
@@ -224,6 +350,14 @@
 .vif-card .button.button--sm {
   font-size: 0.8rem;
   padding-inline: 1rem;
+}
+
+.button.button--primary:hover,
+.button.button--secondary:hover,
+.button.button--outline:hover {
+  background: var(--doulab-green) !important;
+  border-color: var(--doulab-green) !important;
+  color: #000000 !important;
 }
 
 .vif-card-button {

@@ -87,7 +87,7 @@ Parties agree to follow the governance structure defined in:
 
 ## **5.1 Governance Diagram**
 
-:::info Mermaid Diagram
+:::info Public-Private Governance Structure
 
 ```mermaid
 flowchart TD
@@ -247,4 +247,4 @@ This annex provides:
 
 © 2025 [Doulab](https://doulab.net). All rights reserved.  
 [MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](../LICENSE.md).
+[Vigia Incubation Framework](https://vif.doulab.net) © 2025 by [Luis A. Santiago](https://www.linkedin.com/in/lasantiagoa/) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg) ![ND](https://mirrors.creativecommons.org/presskit/icons/nd.svg)

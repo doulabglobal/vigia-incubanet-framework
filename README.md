@@ -10,7 +10,7 @@ This repository contains the canonical documentation for the VIF framework, stru
 
 ---
 
-## 📚 Structure
+## Structure
 
 All documentation is organized under the `/vif` directory:
 
@@ -38,7 +38,7 @@ Each file constitutes a formal section of the Vigía Incubation Framework.
 
 ---
 
-## 🚀 Purpose
+##  Purpose
 
 The **Vigía Incubation Framework (VIF)** provides governments and ecosystem leaders with a fully integrated, future-ready blueprint for building national incubation systems, including:
 
@@ -65,7 +65,7 @@ Recommended tools:
 
 ---
 
-## 🗺 Roadmap
+## Roadmap
 
 1. Populate and refine all `.md` files  
 2. Structural + technical editing across all sections  
@@ -79,12 +79,10 @@ Recommended tools:
 
 ---
 
-## ⚖ Licensing
+## Licensing
 
-This repository is licensed under the  
-**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+[Vigia Incubation Framework](https://vif.doulab.net) © 2025 by [Luis A. Santiago](https://www.linkedin.com/in/lasantiagoa/) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg) ![ND](https://mirrors.creativecommons.org/presskit/icons/nd.svg)
+
 See: **[LICENSE.md](vif/LICENSE.md)**
 
-**MicroCanvas®, IMM-P® and VIF** are **proprietary methodologies of Doulab**.
-
-© 2025 [Doulab](https://doulab.net). All rights reserved.
+**MicroCanvasr, IMM-Pr and VIF** are **proprietary methodologies of Doulab**.

@@ -23,6 +23,16 @@ export default function Home(): ReactElement {
         {/* HERO / PITCH */}
         <section className="vif-hero">
           <div className="container vif-hero-inner">
+            <img
+              src="/img/logo.svg"
+              alt="VIF logo"
+              className="vif-hero-logo vif-hero-logo--light"
+            />
+            <img
+              src="/img/logo_dark_mode.svg"
+              alt="VIF logo dark"
+              className="vif-hero-logo vif-hero-logo--dark"
+            />
             <h1>Vigía Incubation Framework 1.0</h1>
             <p className="vif-tagline">
               A minimalist, evidence-based architecture for designing, governing, and
@@ -52,7 +62,7 @@ export default function Home(): ReactElement {
         <section className="vif-highlights">
           <div className="container">
             <div className="vif-grid">
-              <div className="vif-card">
+              <div className="vif-card vif-card-1">
                 <div className="vif-card-icon">
                   <Layers />
                 </div>
@@ -65,7 +75,7 @@ export default function Home(): ReactElement {
                 </p>
               </div>
 
-              <div className="vif-card">
+              <div className="vif-card vif-card-2">
                 <div className="vif-card-icon">
                   <BarChart3 />
                 </div>
@@ -78,7 +88,7 @@ export default function Home(): ReactElement {
                 </p>
               </div>
 
-              <div className="vif-card">
+              <div className="vif-card vif-card-3">
                 <div className="vif-card-icon">
                   <Network />
                 </div>
@@ -104,7 +114,7 @@ export default function Home(): ReactElement {
             </p>
 
             <div className="vif-grid">
-              <div className="vif-card">
+              <div className="vif-card vif-card-4">
                 <div className="vif-card-icon">
                   <Layers />
                 </div>
@@ -122,7 +132,7 @@ export default function Home(): ReactElement {
                 </Link>
               </div>
 
-              <div className="vif-card">
+              <div className="vif-card vif-card-5">
                 <div className="vif-card-icon">
                   <BarChart3 />
                 </div>
@@ -140,7 +150,7 @@ export default function Home(): ReactElement {
                 </Link>
               </div>
 
-              <div className="vif-card">
+              <div className="vif-card vif-card-6">
                 <div className="vif-card-icon">
                   <Network />
                 </div>
@@ -158,7 +168,7 @@ export default function Home(): ReactElement {
                 </Link>
               </div>
 
-              <div className="vif-card">
+              <div className="vif-card vif-card-7">
                 <div className="vif-card-icon">
                   <Radar />
                 </div>
@@ -225,7 +235,7 @@ export default function Home(): ReactElement {
             </p>
 
             <div className="vif-grid">
-              <div className="vif-card">
+              <div className="vif-card vif-card-8">
                 <div className="vif-card-icon">
                   <Building2 />
                 </div>
@@ -237,7 +247,7 @@ export default function Home(): ReactElement {
                 </p>
               </div>
 
-              <div className="vif-card">
+              <div className="vif-card vif-card-9">
                 <div className="vif-card-icon">
                   <GraduationCap />
                 </div>
@@ -249,7 +259,7 @@ export default function Home(): ReactElement {
                 </p>
               </div>
 
-              <div className="vif-card">
+              <div className="vif-card vif-card-10">
                 <div className="vif-card-icon">
                   <Rocket />
                 </div>
@@ -261,7 +271,7 @@ export default function Home(): ReactElement {
                 </p>
               </div>
 
-              <div className="vif-card">
+              <div className="vif-card vif-card-11">
                 <div className="vif-card-icon">
                   <Globe2 />
                 </div>
@@ -286,7 +296,7 @@ export default function Home(): ReactElement {
     </p>
 
     <div className="vif-grid">
-      <div className="vif-card">
+      <div className="vif-card vif-card-12">
         <div className="vif-card-icon">
           <Globe2 />
         </div>
@@ -341,7 +351,7 @@ export default function Home(): ReactElement {
             </p>
 
             <div className="vif-grid">
-              <div className="vif-card">
+              <div className="vif-card vif-card-13">
                 <h3>1. Understand the architecture</h3>
                 <p>Begin with the high-level framing and logic of the framework.</p>
                 <ul className="vif-link-list">
@@ -358,7 +368,7 @@ export default function Home(): ReactElement {
                 </ul>
               </div>
 
-              <div className="vif-card">
+              <div className="vif-card vif-card-14">
                 <h3>2. Design the system</h3>
                 <p>
                   Use the architecture and operating model sections to shape your
@@ -388,7 +398,7 @@ export default function Home(): ReactElement {
                 </ul>
               </div>
 
-              <div className="vif-card">
+              <div className="vif-card vif-card-15">
                 <h3>3. Govern, measure, and iterate</h3>
                 <p>
                   For policymakers, donors, and governing boards that need KPIs,
@@ -434,3 +444,4 @@ export default function Home(): ReactElement {
     </Layout>
   );
 }
+

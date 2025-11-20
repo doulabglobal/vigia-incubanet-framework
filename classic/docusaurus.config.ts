@@ -57,6 +57,7 @@ const config: Config = {
       logo: {
         alt: 'VIF logo',
         src: 'img/logo.svg',
+        srcDark: 'img/logo_dark_mode.svg',
       },
       items: [
         {
@@ -72,9 +73,9 @@ const config: Config = {
         },
       ],
     },
-    footer: {
-      style: 'dark',
-      links: [
+    footer: {
+      style: 'dark',
+      links: [
         {
           title: 'Documentation',
           items: [
@@ -110,10 +111,10 @@ const config: Config = {
             },
           ],
         },
-      ],
-      copyright:
-        'MicroCanvas, IMM-P and Vigia Incubation Framework (VIF) are proprietary methodologies of Doulab. All rights reserved.',
-    },
+      ],
+      copyright:
+        '<a href="https://vif.doulab.net">Vigia Incubation Framework</a> © 2025 by <a href="https://www.linkedin.com/in/lasantiagoa/">Luis A. Santiago</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width:1em;max-height:1em;margin-left:.2em;">',
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,

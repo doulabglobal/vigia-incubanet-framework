@@ -1,34 +1,25 @@
 ---
 id: 12-LICENSE
-title: "License  -  Creative Commons Attribution 4.0 International (CC BY 4.0)"
+title: "License - Creative Commons BY-NC-ND 4.0"
 sidebar_label: "License"
 sidebar_position: 100
 ---
-# LICENSE  -  Creative Commons Attribution 4.0 International (CC BY 4.0)
+# LICENSE - Creative Commons BY-NC-ND 4.0
 
-Copyright © 2025 [Doulab](https://doulab.net)  -  Vigía Incubation Framework (VIF)
+[Vigia Incubation Framework](https://vif.doulab.net) © 2025 by [Luis A. Santiago](https://www.linkedin.com/in/lasantiagoa/) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg) ![ND](https://mirrors.creativecommons.org/presskit/icons/nd.svg)
 
-This work is licensed under the Creative Commons Attribution 4.0 International License.
+You may:
 
-You are free to:
+- **Share** - copy and redistribute the material in any medium or format.
 
-- **Share**  -  copy and redistribute the material in any medium or format  
-- **Adapt**  -  remix, transform, and build upon the material for any purpose, even commercially  
+Under the following conditions:
 
-Under the following terms:
+- **Attribution (BY)** - Provide appropriate credit, a link to the license, and indicate if changes were made.  
+- **NonCommercial (NC)** - You may not use the material for commercial purposes.  
+- **NoDerivatives (ND)** - If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-- **Attribution**  -  You must give appropriate credit, provide a link to the license,  
-  and indicate if changes were made. You may do so in any reasonable manner, but not in a way that  
-  suggests the licensor endorses you or your use.
+**MicroCanvasr, IMM-Pr and VIF** are **proprietary methodologies of Doulab**.
 
-No additional restrictions  -  You may not apply legal terms or technological measures that legally  
-restrict others from doing anything the license permits.
+This presentation and software are distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND.
 
-Full legal text:  
-https://creativecommons.org/licenses/by/4.0/legalcode
 
-## © Copyright
-
-© 2025 [Doulab](https://doulab.net). All rights reserved.  
-[MicroCanvas®](https://www.themicrocanvas.com) Framework and [IMM-P®](https://www.doulab.net/services/innovation-maturity) Program are registered marks of [Doulab](https://doulab.net).  
-Licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).

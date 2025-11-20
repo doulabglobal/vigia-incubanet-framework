@@ -37,7 +37,7 @@ It is used for:
 
 # **2. High-Level VIF System Diagram**
 
-:::info Mermaid Diagram
+:::info High-Level VIF System Diagram
 
 ```mermaid
 flowchart TD
@@ -179,7 +179,7 @@ This is how VIF creates **adaptive, future‑ready national innovation policy**.
 
 # **4. Printable Simplified Diagram**
 
-:::info Mermaid Diagram
+:::info Simplified VIF Flow
 
 ```mermaid
 flowchart LR
